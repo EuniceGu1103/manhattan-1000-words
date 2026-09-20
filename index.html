@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Manhattan 1000 Words · GRE 词汇辅助记忆</title>
+<meta name="description" content="开源的 Manhattan Prep GRE 1000 词中英双语学习网站，支持分组背诵、乱序回顾测验、错题本与 ADHD Bionic Reading 模式。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%231C2B48%22/%3E%3Ctext x=%2250%22 y=%2266%22 font-size=%2258%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22Arial%22%3EM%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div id="nav-mount"></div>
+
+<header class="hero wrap">
+  <h1>Manhattan 1000 Words</h1>
+  <p>GRE 核心词汇中英双语记忆网站 · 995 个单词，分为 10 组，每组附中英释义与例句，并配套乱序回顾测验与错题本。</p>
+  <div class="hero-actions">
+    <a class="btn btn-primary" href="pages/chunk-01.html">开始背诵 →</a>
+    <a class="btn btn-secondary" href="pages/review.html">进入回顾测验</a>
+  </div>
+</header>
+
+<main class="wrap">
+  <h2 class="section-title">按组背诵（每组 100 词）</h2>
+  <p class="section-sub">单词按字母顺序排列，共 995 词，分为 10 组，点击任意一组进入该组的单词详情页。</p>
+  <div class="grid" id="chunk-grid"></div>
+
+  <h2 class="section-title">功能</h2>
+  <div class="feature-grid">
+    <div class="glass feature-card">
+      <div class="emoji">📚</div>
+      <h3>分组单词详情</h3>
+      <p>每组 100 词，展示中英释义（含一词多义）及 2–3 条中英双语例句，方便系统背诵。</p>
+    </div>
+    <div class="glass feature-card">
+      <div class="emoji">🔁</div>
+      <h3>乱序回顾测验</h3>
+      <p>开始前选择要复习的分组与方向（英→中 / 中→英），乱序出题，键盘左右方向键快速答题。</p>
+    </div>
+    <div class="glass feature-card">
+      <div class="emoji">📕</div>
+      <h3>错题本</h3>
+      <p>自动记录测验中答错或未答出的单词及错误次数，可按顺序浏览并导出为 PDF。</p>
+    </div>
+    <div class="glass feature-card">
+      <div class="emoji">🧠</div>
+      <h3>ADHD 阅读模式</h3>
+      <p>一键切换 Bionic Reading 模式，对英文单词前几个字母加粗，帮助注意力更容易集中的阅读方式。</p>
+    </div>
+    <div class="glass feature-card">
+      <div class="emoji">🌗</div>
+      <h3>日间 / 夜间模式</h3>
+      <p>简约苹果风格设计，液态玻璃质感，日间白底搭配 #1C2B48，夜间黑底搭配 #C4D8E5。</p>
+    </div>
+    <div class="glass feature-card">
+      <div class="emoji">💻</div>
+      <h3>完全开源</h3>
+      <p>纯前端静态网站（HTML/CSS/JS），无需后端，可直接部署在 GitHub Pages 上供所有备考 GRE 的同学使用。</p>
+    </div>
+  </div>
+</main>
+
+<footer class="footer wrap">
+  Built for GRE learners · Data adapted from Manhattan Prep 1000 GRE Words ·
+  <a href="https://github.com/" target="_blank" rel="noopener">Open source on GitHub</a>
+</footer>
+
+<script src="assets/js/common.js"></script>
+<script>
+  GRE.injectNav("home");
+
+  const CHUNKS = [
+    [1, 100], [101, 200], [201, 300], [301, 400], [401, 500],
+    [501, 600], [601, 700], [701, 800], [801, 900], [901, 995],
+  ];
+  const grid = document.getElementById("chunk-grid");
+  CHUNKS.forEach(([start, end], i) => {
+    const n = String(i + 1).padStart(2, "0");
+    const a = document.createElement("a");
+    a.href = `pages/chunk-${n}.html`;
+    a.className = "glass chunk-card";
+    a.innerHTML = `
+      <span class="num">Chunk ${i + 1}</span>
+      <span class="range">#${start}–${end}</span>
+      <span class="count">${end - start + 1} 个单词</span>
+    `;
+    grid.appendChild(a);
+  });
+
+  GRE.applyBionicToPage();
+</script>
+</body>
+</html>
