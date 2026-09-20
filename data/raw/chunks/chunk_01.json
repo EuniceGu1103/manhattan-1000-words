@@ -1,0 +1,2577 @@
+[
+  {
+    "id": 1,
+    "word": "abase",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "degrade or humble; to lower in rank, status, or esteem",
+        "zh": "贬低；使卑下；降低身份地位"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He refused to abase himself before the tyrant, even under threat of death.",
+        "zh": "即使受到死亡威胁，他也拒绝在暴君面前自我贬低。"
+      },
+      {
+        "en": "The public apology only served to abase her further in front of her colleagues.",
+        "zh": "那次公开道歉只是让她在同事面前更加丢脸。"
+      },
+      {
+        "en": "Some prisoners were forced to abase themselves before their captors.",
+        "zh": "一些囚犯被迫在俘获他们的人面前卑躬屈膝。"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "word": "abate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "reduce, diminish",
+        "zh": "减少；减弱；缓和"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The storm finally began to abate after midnight.",
+        "zh": "暴风雨终于在午夜后开始减弱。"
+      },
+      {
+        "en": "Her anger did not abate even after his sincere apology.",
+        "zh": "即使他真诚道歉，她的怒气也没有平息。"
+      },
+      {
+        "en": "Regular medication has helped abate the frequency of his migraines.",
+        "zh": "定期服药有助于减少他偏头痛发作的频率。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "word": "abdicate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "formally give up the throne or some other power or responsibility",
+        "zh": "退位；放弃(权力或责任)"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The king chose to abdicate the throne rather than face a civil war.",
+        "zh": "国王选择退位，而不是面对一场内战。"
+      },
+      {
+        "en": "Parents should not abdicate their responsibility for their children's education.",
+        "zh": "父母不应放弃对子女教育的责任。"
+      },
+      {
+        "en": "The chairman abdicated his duties amid mounting shareholder pressure.",
+        "zh": "在股东压力不断增加的情况下，董事长放弃了他的职责。"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "word": "aberrant",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "abnormal, deviant",
+        "zh": "异常的；反常的；偏离正道的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Scientists studied the aberrant behavior of cells exposed to radiation.",
+        "zh": "科学家研究了暴露在辐射下的细胞的异常行为。"
+      },
+      {
+        "en": "His aberrant conduct at the meeting alarmed his usually calm colleagues.",
+        "zh": "他在会议上的反常举动让一向冷静的同事们感到震惊。"
+      },
+      {
+        "en": "The aberrant reading on the instrument suggested a malfunction.",
+        "zh": "仪器上的异常读数表明设备可能出现了故障。"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "word": "abeyance",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "temporary suspension, inactivity",
+        "zh": "(暂时)中止；搁置"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The project was held in abeyance until the funding issues were resolved.",
+        "zh": "该项目被搁置，直到资金问题得到解决。"
+      },
+      {
+        "en": "Their dispute remained in abeyance for years before finally reaching court.",
+        "zh": "他们的争端搁置多年后才最终诉诸法庭。"
+      },
+      {
+        "en": "The committee placed the controversial proposal in abeyance.",
+        "zh": "委员会将这项有争议的提案暂时搁置。"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "word": "abhor",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "detest, regard with disgust",
+        "zh": "厌恶；憎恨"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She abhorred any form of cruelty toward animals.",
+        "zh": "她厌恶任何形式的虐待动物行为。"
+      },
+      {
+        "en": "Many readers abhor the villain's callous treatment of his family.",
+        "zh": "许多读者厌恶那个反派对家人的冷酷态度。"
+      },
+      {
+        "en": "He abhors dishonesty, even in small matters.",
+        "zh": "他厌恶不诚实的行为，哪怕是在小事上。"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "word": "abjure",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "give up, renounce; repudiate, recant, or shun, especially formally or under oath",
+        "zh": "(正式)放弃；发誓弃绝；摒弃"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The defector publicly abjured his former political allegiances.",
+        "zh": "那位叛逃者公开宣誓放弃了他先前的政治立场。"
+      },
+      {
+        "en": "He abjured alcohol completely after his health scare.",
+        "zh": "经历了健康危机后，他彻底戒绝了酒精。"
+      },
+      {
+        "en": "She abjured her earlier claims once the evidence proved them false.",
+        "zh": "在证据证明她先前的说法有误后，她公开撤回了那些说法。"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "word": "abrasive",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "rough, suitable for grinding or polishing",
+        "zh": "粗糙的；可用于打磨的"
+      },
+      {
+        "pos": "adj.",
+        "en": "causing irritation or annoyance",
+        "zh": "(性格、态度)刺耳的；令人不快的；粗暴的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The cleaner contains fine abrasive particles that scrub away rust.",
+        "zh": "这种清洁剂含有可以擦除铁锈的细小研磨颗粒。"
+      },
+      {
+        "en": "His abrasive manner in meetings alienated several team members.",
+        "zh": "他在会议上粗暴的态度使几位团队成员感到疏远。"
+      },
+      {
+        "en": "Sandpaper is an abrasive material used to smooth rough wood surfaces.",
+        "zh": "砂纸是一种用于打磨粗糙木材表面的研磨材料。"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "word": "abreast",
+    "senses": [
+      {
+        "pos": "adv.",
+        "en": "side-by-side",
+        "zh": "并排地"
+      },
+      {
+        "pos": "adv.",
+        "en": "\"abreast of\": keeping up with, staying aware of, or remaining equal in progress with",
+        "zh": "(与...)同步；了解最新情况"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The two cyclists rode abreast along the quiet country road.",
+        "zh": "两名骑车人并排骑行在安静的乡间小路上。"
+      },
+      {
+        "en": "She reads industry journals to stay abreast of the latest trends.",
+        "zh": "她阅读行业期刊以了解最新的行业动态。"
+      },
+      {
+        "en": "The soldiers marched three abreast down the avenue.",
+        "zh": "士兵们三人一排沿着大道行进。"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "word": "abridge",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "reduce or lessen; shorten by omitting parts throughout while retaining the main idea",
+        "zh": "删节；缩短；精简"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The publisher released an abridged version of the novel for younger readers.",
+        "zh": "出版社为年轻读者出版了这部小说的删节版。"
+      },
+      {
+        "en": "The editor abridged the report without losing its central argument.",
+        "zh": "编辑在不损失核心论点的情况下精简了这份报告。"
+      },
+      {
+        "en": "The audiobook abridges the original text to fit a two-hour runtime.",
+        "zh": "这本有声书对原文进行了删节，以符合两小时的时长。"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "word": "abscission",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "cutting off; sudden termination; the separation of leaves, petals, or other parts from a plant or animal",
+        "zh": "切除；骤然中止；(植物)脱落"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Abscission allows deciduous trees to shed their leaves before winter.",
+        "zh": "脱落作用使落叶树能在冬季来临前落叶。"
+      },
+      {
+        "en": "The sudden abscission of diplomatic ties surprised both nations.",
+        "zh": "外交关系的突然中断令两国都感到意外。"
+      },
+      {
+        "en": "Botanists study the hormonal triggers behind leaf abscission in autumn.",
+        "zh": "植物学家研究秋季树叶脱落背后的激素诱因。"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "word": "abscond",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "depart suddenly and secretively",
+        "zh": "潜逃；溜走"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The treasurer absconded with the company's funds overnight.",
+        "zh": "那位财务主管连夜携公司资金潜逃。"
+      },
+      {
+        "en": "The suspect absconded before the police could make an arrest.",
+        "zh": "嫌疑人在警方逮捕前就已潜逃。"
+      },
+      {
+        "en": "Two prisoners absconded from the minimum-security facility last week.",
+        "zh": "上周有两名囚犯从低警戒级别的监狱潜逃。"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "word": "abstain",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "hold back, refrain, especially from something bad or unhealthy",
+        "zh": "戒绝；克制"
+      },
+      {
+        "pos": "v.",
+        "en": "decline to vote",
+        "zh": "弃权(投票)"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He decided to abstain from sweets during his diet.",
+        "zh": "他决定在节食期间戒绝甜食。"
+      },
+      {
+        "en": "Three senators chose to abstain rather than vote for or against the bill.",
+        "zh": "三位参议员选择弃权，而不是对该法案投赞成或反对票。"
+      },
+      {
+        "en": "Athletes are advised to abstain from alcohol before competitions.",
+        "zh": "建议运动员在比赛前戒酒。"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "word": "abyss",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a deep and vast space or cavity; anything profound or infinite",
+        "zh": "深渊；无底洞；无限深奥之物"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The ship's lights barely penetrated the dark abyss of the ocean trench.",
+        "zh": "船只的灯光几乎无法穿透那深邃的海沟黑暗深渊。"
+      },
+      {
+        "en": "After the scandal, his career seemed to fall into an abyss of ruin.",
+        "zh": "丑闻之后，他的事业似乎坠入了毁灭的深渊。"
+      },
+      {
+        "en": "Staring into the canyon, she felt dizzy before the sheer abyss.",
+        "zh": "俯瞰峡谷时，她在这陡峭的深渊前感到一阵眩晕。"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "word": "accede",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "agree, give consent",
+        "zh": "同意；应允"
+      },
+      {
+        "pos": "v.",
+        "en": "assume power, usually as \"accede to\"",
+        "zh": "就任；继承(职位、王位)"
+      }
+    ],
+    "examples": [
+      {
+        "en": "After lengthy negotiations, the union finally acceded to management's terms.",
+        "zh": "经过漫长的谈判，工会最终同意了管理层的条件。"
+      },
+      {
+        "en": "The young prince acceded to the throne upon his father's death.",
+        "zh": "那位年轻的王子在父亲去世后继承了王位。"
+      },
+      {
+        "en": "She reluctantly acceded to her doctor's advice to rest.",
+        "zh": "她不情愿地接受了医生要她休息的建议。"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "word": "accretion",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "gradual increase; an added part or addition",
+        "zh": "逐渐增长；增积物；附加部分"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Over centuries, the accretion of sediment formed a new delta.",
+        "zh": "经过几个世纪，沉积物的逐渐堆积形成了一个新的三角洲。"
+      },
+      {
+        "en": "The novel's legend grew through the accretion of exaggerated retellings.",
+        "zh": "这部小说的传说通过一次次夸张的复述逐渐累积而成。"
+      },
+      {
+        "en": "The old house was expanded through decades of haphazard accretion.",
+        "zh": "这栋老房子经过数十年杂乱无章的增建才扩建成现在的样子。"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "word": "acerbic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "sour; harsh or severe",
+        "zh": "尖酸的；辛辣刻薄的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The critic was known for his acerbic reviews of new restaurants.",
+        "zh": "那位评论家以其对新餐厅尖酸刻薄的评论而闻名。"
+      },
+      {
+        "en": "Her acerbic wit often left her opponents speechless.",
+        "zh": "她辛辣的机智常常使对手无言以对。"
+      },
+      {
+        "en": "The columnist's acerbic tone made him both feared and admired.",
+        "zh": "这位专栏作家尖刻的笔调让人对他既畏惧又敬佩。"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "word": "acidulous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "slightly acid or sour; sharp or caustic",
+        "zh": "略带酸味的；尖刻的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The lemonade had an acidulous tang that made her pucker.",
+        "zh": "那杯柠檬水带着一丝酸味，让她忍不住撅起了嘴。"
+      },
+      {
+        "en": "His acidulous remarks about the proposal discouraged further discussion.",
+        "zh": "他对该提案尖刻的评论使进一步讨论难以继续。"
+      },
+      {
+        "en": "The unripe apples tasted faintly acidulous.",
+        "zh": "那些未熟的苹果尝起来略带酸味。"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "word": "acme",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "summit, peak, highest point",
+        "zh": "顶点；极致"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The concert was considered the acme of her musical career.",
+        "zh": "那场音乐会被认为是她音乐生涯的巅峰。"
+      },
+      {
+        "en": "The bridge represents the acme of nineteenth-century engineering.",
+        "zh": "这座桥梁代表了十九世纪工程技术的顶峰。"
+      },
+      {
+        "en": "Winning the championship marked the acme of the team's success.",
+        "zh": "赢得冠军标志着这支队伍取得成功的顶点。"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "word": "activism",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the practice of pursuing political or other goals through vigorous action, often including protests and demonstrations",
+        "zh": "行动主义；激进主义；社会运动"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her environmental activism inspired thousands of young volunteers.",
+        "zh": "她的环保行动主义激励了成千上万的年轻志愿者。"
+      },
+      {
+        "en": "Grassroots activism helped bring about significant changes in labor law.",
+        "zh": "基层的社会运动推动了劳动法的重大变革。"
+      },
+      {
+        "en": "Student activism on campus led to a review of the university's policies.",
+        "zh": "校园内的学生运动促使大学重新审视其相关政策。"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "word": "acumen",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "keen, quick, accurate insight or judgment",
+        "zh": "敏锐的洞察力；精明"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her business acumen helped the startup survive its first difficult year.",
+        "zh": "她敏锐的商业头脑帮助这家初创公司挺过了最初艰难的一年。"
+      },
+      {
+        "en": "The lawyer's legal acumen was evident in her handling of the complex case.",
+        "zh": "这位律师在处理这起复杂案件时展现出的法律洞察力显而易见。"
+      },
+      {
+        "en": "His political acumen allowed him to navigate the tense negotiations skillfully.",
+        "zh": "他敏锐的政治头脑使他能够娴熟地应对这场紧张的谈判。"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "word": "adhere",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "stick, such as with glue, or to a plan or belief",
+        "zh": "黏附；坚持；遵守"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The label failed to adhere properly to the wet bottle.",
+        "zh": "这张标签没能牢牢粘在潮湿的瓶子上。"
+      },
+      {
+        "en": "Employees must adhere strictly to the safety guidelines.",
+        "zh": "员工必须严格遵守安全准则。"
+      },
+      {
+        "en": "She has always adhered to her personal code of honesty.",
+        "zh": "她一直坚守自己诚实做人的准则。"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "word": "admonish",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "mildly scold; caution, advise, or remind to do something",
+        "zh": "告诫；劝告；责备"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The teacher admonished the students for talking during the exam.",
+        "zh": "老师因学生在考试中说话而责备了他们。"
+      },
+      {
+        "en": "She admonished him to be more careful with his spending.",
+        "zh": "她告诫他在花钱方面要更加谨慎。"
+      },
+      {
+        "en": "The coach admonished the team for their lack of discipline on the field.",
+        "zh": "教练因球队在场上缺乏纪律性而对他们提出警告。"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "word": "adulterate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "make impure by adding inappropriate or inferior ingredients",
+        "zh": "掺假；掺杂"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Investigators found that the company had adulterated its olive oil with cheaper substitutes.",
+        "zh": "调查人员发现该公司在橄榄油中掺入了更便宜的替代品。"
+      },
+      {
+        "en": "Adulterating medicine with fillers can pose serious health risks.",
+        "zh": "在药品中掺入填充物可能带来严重的健康风险。"
+      },
+      {
+        "en": "The wine merchant was fined for adulterating his product with water.",
+        "zh": "这位酒商因在产品中掺水而被罚款。"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "word": "adumbrate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "give a rough outline of; foreshadow; reveal only partially",
+        "zh": "勾勒轮廓；预示；隐约揭示"
+      },
+      {
+        "pos": "v.",
+        "en": "obscure",
+        "zh": "遮蔽；使模糊"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The opening chapter adumbrates themes that will dominate the rest of the novel.",
+        "zh": "开篇一章预示了将贯穿全书的主题。"
+      },
+      {
+        "en": "Clouds of controversy adumbrated the achievements of the otherwise successful summit.",
+        "zh": "争议的阴云掩盖了这次总体上成功的峰会所取得的成就。"
+      },
+      {
+        "en": "His brief remarks merely adumbrated the full scope of the plan.",
+        "zh": "他简短的发言只是大致勾勒出了这项计划的整体轮廓。"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "word": "adverse",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "opposing, harmful",
+        "zh": "不利的；有害的；相反的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The medication had several adverse side effects.",
+        "zh": "这种药物有几种不良副作用。"
+      },
+      {
+        "en": "The team performed well despite adverse weather conditions.",
+        "zh": "尽管天气条件不利，这支队伍仍表现出色。"
+      },
+      {
+        "en": "Rising interest rates had an adverse effect on the housing market.",
+        "zh": "利率上升对房地产市场产生了不利影响。"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "word": "advocate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "speak or argue in favor of",
+        "zh": "提倡；主张；支持"
+      },
+      {
+        "pos": "n.",
+        "en": "a person who pleads for a cause or on behalf of another person",
+        "zh": "倡导者；辩护人"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The senator has long advocated for stricter environmental regulations.",
+        "zh": "这位参议员长期以来一直主张实施更严格的环境法规。"
+      },
+      {
+        "en": "She works as an advocate for children's rights.",
+        "zh": "她担任儿童权利的倡导者。"
+      },
+      {
+        "en": "Doctors advocate regular exercise as a way to prevent heart disease.",
+        "zh": "医生提倡通过定期锻炼来预防心脏病。"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "word": "aerie",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "dwelling or fortress built on a high place; the nest of a bird of prey, such as an eagle or hawk, built on a mountain or cliff",
+        "zh": "建在高处的住所或堡垒；(猛禽的)巢"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The castle's aerie offered a commanding view of the valley below.",
+        "zh": "城堡的高地住所俯瞰着下方的山谷，视野极佳。"
+      },
+      {
+        "en": "An eagle's aerie perched precariously on the cliff face.",
+        "zh": "一只老鹰的巢摇摇欲坠地筑在悬崖峭壁上。"
+      },
+      {
+        "en": "From his mountaintop aerie, the hermit rarely saw another soul.",
+        "zh": "在他那山顶的住所里，这位隐士很少见到别人。"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "word": "aesthetic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "concerning the appreciation of beauty or good taste, pertaining to the science of what is beautiful",
+        "zh": "美学的；审美的"
+      },
+      {
+        "pos": "n.",
+        "en": "a sense of beauty and taste of a particular time and place",
+        "zh": "美感；审美观"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The renovation preserved the building's original aesthetic appeal.",
+        "zh": "翻新工程保留了这栋建筑原有的审美魅力。"
+      },
+      {
+        "en": "Minimalism defines the aesthetic of much contemporary Scandinavian design.",
+        "zh": "极简主义定义了许多当代斯堪的纳维亚设计的美学风格。"
+      },
+      {
+        "en": "She has a keen aesthetic sense that shows in every room she designs.",
+        "zh": "她拥有敏锐的审美，这在她设计的每个房间中都有所体现。"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "word": "affable",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "warm and friendly, pleasant, approachable",
+        "zh": "和蔼可亲的；友善的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The affable host made every guest feel welcome at the party.",
+        "zh": "这位和蔼可亲的主人让派对上的每位客人都感到宾至如归。"
+      },
+      {
+        "en": "Despite his fame, the actor remained affable and down-to-earth.",
+        "zh": "尽管声名显赫，这位演员依然平易近人、脚踏实地。"
+      },
+      {
+        "en": "The affable new manager quickly won over the entire staff.",
+        "zh": "这位和蔼可亲的新经理很快就赢得了全体员工的好感。"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "word": "affectation",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "fake behavior, such as in speech or dress, adopted to give a certain impression",
+        "zh": "矫揉造作；装腔作势"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His British accent was widely seen as an affectation, since he had never left Ohio.",
+        "zh": "他的英式口音被普遍认为是装腔作势，因为他从未离开过俄亥俄州。"
+      },
+      {
+        "en": "She dropped the affectation of sophistication once she relaxed among friends.",
+        "zh": "一旦和朋友们在一起放松下来，她就不再故作老练了。"
+      },
+      {
+        "en": "His constant use of obscure words seemed like an affectation rather than genuine expertise.",
+        "zh": "他不断使用生僻词汇，看起来更像是装腔作势，而非真正的专业素养。"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "word": "aggrandize",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "make greater; exaggerate",
+        "zh": "使增大；夸大；吹嘘"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The memoir seemed designed mainly to aggrandize the author's own role in history.",
+        "zh": "这本回忆录似乎主要是为了夸大作者自己在历史中的作用。"
+      },
+      {
+        "en": "He used the merger to aggrandize his personal power within the corporation.",
+        "zh": "他利用这次合并来扩大自己在公司内部的权力。"
+      },
+      {
+        "en": "The film has been criticized for aggrandizing the general's questionable achievements.",
+        "zh": "这部电影因夸大这位将军颇有争议的功绩而受到批评。"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "word": "aggregate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "gather together, amount to",
+        "zh": "聚集；总计达到"
+      },
+      {
+        "pos": "adj.",
+        "en": "constituting a whole made up of constituent parts",
+        "zh": "总计的；合计的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Sales from all regional branches aggregate to nearly a billion dollars annually.",
+        "zh": "所有地区分公司的销售额每年合计接近十亿美元。"
+      },
+      {
+        "en": "The aggregate score of all judges determined the final winner.",
+        "zh": "所有评委的总分决定了最终的获胜者。"
+      },
+      {
+        "en": "Small daily savings can aggregate into a substantial sum over the years.",
+        "zh": "每天的小额储蓄经过多年积累可以变成一笔可观的数目。"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "word": "alacrity",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "cheerful or speedy willingness",
+        "zh": "欣然；敏捷的乐意"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She accepted the challenging assignment with surprising alacrity.",
+        "zh": "她出乎意料地欣然接受了这项艰巨的任务。"
+      },
+      {
+        "en": "The volunteers responded to the emergency call with alacrity.",
+        "zh": "志愿者们迅速而乐意地响应了紧急呼叫。"
+      },
+      {
+        "en": "He agreed to help move the furniture with unusual alacrity.",
+        "zh": "他异常爽快地答应帮忙搬家具。"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "word": "albeit",
+    "senses": [
+      {
+        "pos": "conj.",
+        "en": "although, even though",
+        "zh": "尽管；虽然"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The plan succeeded, albeit with several unexpected delays.",
+        "zh": "这项计划虽然经历了几次意外延误，但最终还是成功了。"
+      },
+      {
+        "en": "He finished the marathon, albeit much slower than he had hoped.",
+        "zh": "他跑完了马拉松，尽管速度比他预期的要慢得多。"
+      },
+      {
+        "en": "The proposal was approved, albeit with significant reservations from the board.",
+        "zh": "该提案获得了批准，尽管董事会对此有很大的保留意见。"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "word": "alienate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "cause to become unfriendly, hostile, or distant",
+        "zh": "使疏远；使离心"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His condescending remarks alienated many of his supporters.",
+        "zh": "他那些居高临下的言论使许多支持者疏远了他。"
+      },
+      {
+        "en": "The new policy risks alienating the company's most loyal customers.",
+        "zh": "这项新政策可能会使公司最忠实的顾客感到疏远。"
+      },
+      {
+        "en": "Years of neglect gradually alienated him from his childhood friends.",
+        "zh": "多年的疏于联系逐渐使他与儿时的朋友们疏远了。"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "word": "alleviate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "lessen, make easier to endure",
+        "zh": "减轻；缓解"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The medicine helped alleviate her chronic back pain.",
+        "zh": "这种药物帮助缓解了她的慢性背痛。"
+      },
+      {
+        "en": "New irrigation systems have alleviated the drought's impact on local farms.",
+        "zh": "新的灌溉系统减轻了干旱对当地农场的影响。"
+      },
+      {
+        "en": "The charity works to alleviate poverty in rural communities.",
+        "zh": "这家慈善机构致力于减轻农村社区的贫困问题。"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "word": "aloof",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "distant physically or emotionally; reserved; indifferent",
+        "zh": "冷淡的；超然的；疏远的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He remained aloof from the office gossip that consumed his colleagues.",
+        "zh": "他对同事们热衷的办公室八卦始终保持着超然的态度。"
+      },
+      {
+        "en": "Her aloof demeanor made her difficult to approach at first.",
+        "zh": "她那种冷淡的举止起初让人难以接近。"
+      },
+      {
+        "en": "The cat sat aloof in the corner, ignoring the visitors entirely.",
+        "zh": "那只猫冷漠地坐在角落里，完全无视来访者。"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "word": "amalgamate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "blend, merge, or unite",
+        "zh": "合并；融合"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The two small firms amalgamated to form a single powerful company.",
+        "zh": "这两家小公司合并组成了一家实力雄厚的公司。"
+      },
+      {
+        "en": "The festival amalgamates traditions from several different cultures.",
+        "zh": "这个节日融合了几种不同文化的传统。"
+      },
+      {
+        "en": "The reformers hoped to amalgamate the rival unions into one strong organization.",
+        "zh": "改革者希望将几个对立的工会合并成一个强大的组织。"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "word": "ambiguous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "not clear, hard to understand, open to having several meanings or interpretations",
+        "zh": "模糊的；含糊不清的；有歧义的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The contract's ambiguous wording led to a lengthy legal dispute.",
+        "zh": "合同措辞含糊不清，引发了一场旷日持久的法律纠纷。"
+      },
+      {
+        "en": "Her ambiguous answer left everyone unsure of her true intentions.",
+        "zh": "她含糊的回答让大家都不确定她的真实意图。"
+      },
+      {
+        "en": "The novel's ambiguous ending has sparked debate among readers for years.",
+        "zh": "这部小说模糊的结局多年来一直引发读者的争论。"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "word": "ambivalent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "uncertain; unable to decide, or wanting to do two contradictory things at once",
+        "zh": "矛盾的；犹豫不决的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He felt ambivalent about accepting the promotion, since it meant relocating.",
+        "zh": "他对接受这次晋升感到矛盾，因为这意味着要搬迁。"
+      },
+      {
+        "en": "Critics remain ambivalent about the film's unconventional ending.",
+        "zh": "评论家们对这部电影非同寻常的结局仍然态度矛盾。"
+      },
+      {
+        "en": "She was ambivalent about the move, torn between excitement and anxiety.",
+        "zh": "她对这次搬迁感到矛盾，既兴奋又焦虑。"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "word": "ameliorate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "improve; make better or more bearable",
+        "zh": "改善；改良"
+      }
+    ],
+    "examples": [
+      {
+        "en": "New policies were introduced to ameliorate working conditions in the factory.",
+        "zh": "出台了新政策以改善工厂的工作条件。"
+      },
+      {
+        "en": "Counseling can ameliorate the emotional toll of a difficult divorce.",
+        "zh": "心理咨询可以减轻艰难离婚带来的情感创伤。"
+      },
+      {
+        "en": "The government launched programs to ameliorate the effects of unemployment.",
+        "zh": "政府启动了一些项目以缓解失业带来的影响。"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "word": "amortize",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "gradually pay off a debt, or gradually write off an asset",
+        "zh": "分期偿还；摊销"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The company amortizes the cost of its equipment over ten years.",
+        "zh": "该公司将设备成本分十年摊销。"
+      },
+      {
+        "en": "Homeowners amortize their mortgage through fixed monthly payments.",
+        "zh": "房主通过固定的月供分期偿还房贷。"
+      },
+      {
+        "en": "The firm amortizes its software licenses over a five-year period.",
+        "zh": "该公司将其软件许可证费用分五年摊销。"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "word": "anachronism",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "something that is not in its correct historical time; a mistake in chronology, such as by assigning a person or event to the wrong time period",
+        "zh": "时代错误；不合时宜的事物"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The wristwatch in the medieval film was a glaring anachronism.",
+        "zh": "那部中世纪题材电影中出现的手表是一个明显的时代错误。"
+      },
+      {
+        "en": "Some see the monarchy as an anachronism in modern democratic society.",
+        "zh": "有些人认为君主制在现代民主社会中已经不合时宜。"
+      },
+      {
+        "en": "Using a typewriter in the office now feels like an anachronism.",
+        "zh": "如今在办公室使用打字机让人觉得有些不合时宜。"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "word": "analgesia",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "pain relief; inability to feel pain",
+        "zh": "镇痛；痛觉缺失"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The anesthesiologist administered a drug to induce analgesia before surgery.",
+        "zh": "麻醉师在手术前使用药物诱导镇痛。"
+      },
+      {
+        "en": "Patients with certain nerve disorders may experience analgesia even from severe injuries.",
+        "zh": "患有某些神经系统疾病的病人即使受到严重伤害也可能感觉不到疼痛。"
+      },
+      {
+        "en": "The new drug provides effective analgesia without the risk of addiction.",
+        "zh": "这种新药能有效镇痛，且没有成瘾的风险。"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "word": "analogous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "comparable, corresponding in some particular way, making a good analogy",
+        "zh": "类似的；可比拟的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The structure of an atom is often described as analogous to a solar system.",
+        "zh": "原子的结构常被描述为与太阳系类似。"
+      },
+      {
+        "en": "Running a small business is, in many ways, analogous to raising a child.",
+        "zh": "经营小企业在许多方面都类似于抚养孩子。"
+      },
+      {
+        "en": "The professor drew an analogous case from history to explain the crisis.",
+        "zh": "教授引用了历史上一个类似的案例来解释这场危机。"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "word": "anarchy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "absence of law or government; chaos, disorder",
+        "zh": "无政府状态；混乱"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The sudden collapse of the government plunged the country into anarchy.",
+        "zh": "政府的突然垮台使这个国家陷入了无政府状态。"
+      },
+      {
+        "en": "Without clear rules, the meeting quickly descended into anarchy.",
+        "zh": "由于缺乏明确的规则，会议很快陷入了混乱。"
+      },
+      {
+        "en": "The looting in the aftermath of the disaster resembled pure anarchy.",
+        "zh": "灾难过后的抢劫事件宛如彻底的无政府状态。"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "word": "annul",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "make void or null, cancel, abolish, usually of laws or other established rules",
+        "zh": "使无效；废止；取消"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The court annulled the marriage after discovering it had been fraudulent.",
+        "zh": "法院在发现这桩婚姻涉嫌欺诈后宣布其无效。"
+      },
+      {
+        "en": "Lawmakers voted to annul the outdated regulation.",
+        "zh": "立法者投票废止了这项过时的法规。"
+      },
+      {
+        "en": "The contract was annulled once the fraud came to light.",
+        "zh": "欺诈行为曝光后，这份合同被宣告无效。"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "word": "anodyne",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "medicine that relieves pain",
+        "zh": "止痛药"
+      },
+      {
+        "pos": "adj.",
+        "en": "soothing, relieving pain",
+        "zh": "抚慰的；止痛的；(言论等)四平八稳、不痛不痒的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Doctors prescribed an anodyne to help her cope with post-surgical pain.",
+        "zh": "医生开了止痛药帮助她应对术后疼痛。"
+      },
+      {
+        "en": "The politician's anodyne statement avoided any real controversy.",
+        "zh": "这位政客四平八稳的声明避免了任何真正的争议。"
+      },
+      {
+        "en": "Soft music had an anodyne effect on the anxious patients in the waiting room.",
+        "zh": "轻柔的音乐对候诊室里焦虑的病人起到了抚慰作用。"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "word": "anoint",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "rub or sprinkle oil on; make sacred, such as by a ceremony that includes applying oil to someone",
+        "zh": "涂油；(通过涂油仪式)封圣、加冕"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The bishop anointed the new king during the coronation ceremony.",
+        "zh": "主教在加冕典礼上为新国王涂油。"
+      },
+      {
+        "en": "Priests anoint the sick as part of a sacred ritual.",
+        "zh": "神父会在神圣的仪式中为病人涂油祈福。"
+      },
+      {
+        "en": "The board informally anointed her as the company's next leader.",
+        "zh": "董事会非正式地指定她为公司的下一任领导人。"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "word": "anomaly",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "deviation from what is common; inconsistency",
+        "zh": "异常；反常现象"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Astronomers detected a strange anomaly in the star's brightness.",
+        "zh": "天文学家在这颗恒星的亮度中探测到了一种奇怪的异常现象。"
+      },
+      {
+        "en": "The auditor flagged several anomalies in the company's financial records.",
+        "zh": "审计员在公司的财务记录中标出了几处异常。"
+      },
+      {
+        "en": "Her rapid success was something of an anomaly in such a competitive field.",
+        "zh": "在这样一个竞争激烈的领域，她的迅速成功算是一个特例。"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "word": "antagonize",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "make hostile or unfriendly",
+        "zh": "使敌对；激怒"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He antagonized his coworkers by taking credit for their ideas.",
+        "zh": "他因窃取同事的创意而使他们心生敌意。"
+      },
+      {
+        "en": "The new tax antagonized small business owners across the region.",
+        "zh": "这项新税收政策激怒了该地区的小企业主。"
+      },
+      {
+        "en": "She was careful not to antagonize the committee before the final vote.",
+        "zh": "在最终投票前，她小心翼翼地避免激怒委员会成员。"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "word": "antedate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "be older than, precede in time; assign to an earlier date",
+        "zh": "早于；先于；将日期填早"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The ancient ruins antedate the arrival of any recorded civilization in the region.",
+        "zh": "这些古代遗迹的年代早于该地区任何有记载的文明的出现。"
+      },
+      {
+        "en": "He was accused of antedating the check to avoid a late fee.",
+        "zh": "他被指控将支票日期填早以逃避滞纳金。"
+      },
+      {
+        "en": "This manuscript antedates the printing press by several centuries.",
+        "zh": "这份手稿的年代比印刷术的发明早了几个世纪。"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "word": "antithetical",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "directly opposed, opposite; involving antithesis, the rhetorical act of placing two phrases opposite one another for contrast",
+        "zh": "完全对立的；相反的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His casual attitude was antithetical to the discipline required of a soldier.",
+        "zh": "他随意的态度与军人所需的纪律性完全相悖。"
+      },
+      {
+        "en": "The two philosophies are antithetical in almost every respect.",
+        "zh": "这两种哲学几乎在各方面都截然对立。"
+      },
+      {
+        "en": "Censorship is antithetical to the principles of a free press.",
+        "zh": "审查制度与新闻自由的原则完全相悖。"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "word": "apathy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "not caring; absence of feeling; lack of interest or concern",
+        "zh": "冷漠；漠不关心"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Voter apathy resulted in one of the lowest turnouts in the city's history.",
+        "zh": "选民的冷漠导致该市出现了历史上最低的投票率之一。"
+      },
+      {
+        "en": "The teacher struggled to overcome her students' apathy toward literature.",
+        "zh": "这位老师努力想克服学生对文学的漠不关心。"
+      },
+      {
+        "en": "His apathy toward the project frustrated the rest of the team.",
+        "zh": "他对这个项目的冷漠态度让团队其他成员感到沮丧。"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "word": "apocryphal",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "of questionable authenticity; false",
+        "zh": "真实性存疑的；伪托的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The story of the CEO's humble beginnings is likely apocryphal.",
+        "zh": "这位首席执行官出身贫寒的故事很可能是杜撰的。"
+      },
+      {
+        "en": "Many apocryphal tales surround the founding of the ancient city.",
+        "zh": "关于这座古城的建立，流传着许多真伪难辨的传说。"
+      },
+      {
+        "en": "Historians dismissed the anecdote as apocryphal for lack of evidence.",
+        "zh": "由于缺乏证据，历史学家认为这则轶事的真实性存疑。"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "word": "apostate",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "person who deserts a party, cause, religion, etc.",
+        "zh": "背教者；叛党者"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The former priest was branded an apostate after publicly renouncing his faith.",
+        "zh": "这位前神父在公开放弃信仰后被贴上了叛教者的标签。"
+      },
+      {
+        "en": "Party loyalists viewed the defector as an apostate to their cause.",
+        "zh": "该党的忠实拥护者将这位叛党者视为背叛他们事业的人。"
+      },
+      {
+        "en": "The apostate was shunned by his former community for years.",
+        "zh": "多年来，这位背教者一直被他先前所在的社群排斥。"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "word": "apostle",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "pioneer of a reform movement; originally, an early follower of Jesus",
+        "zh": "(改革运动的)倡导者；先驱"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She became a leading apostle of nonviolent resistance in the region.",
+        "zh": "她成为该地区非暴力抵抗运动的重要倡导者。"
+      },
+      {
+        "en": "He is often called an apostle of modern minimalist architecture.",
+        "zh": "他常被称为现代极简主义建筑的先驱。"
+      },
+      {
+        "en": "The economist was an early apostle of free-market reform in the country.",
+        "zh": "这位经济学家是该国自由市场改革的早期倡导者。"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "word": "apposite",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "highly appropriate, suitable, or relevant",
+        "zh": "恰当的；贴切的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her apposite remarks captured exactly what the committee needed to hear.",
+        "zh": "她的话语恰如其分，正是委员会需要听到的。"
+      },
+      {
+        "en": "The professor chose an apposite example to illustrate the abstract theory.",
+        "zh": "教授选择了一个贴切的例子来说明这个抽象理论。"
+      },
+      {
+        "en": "His apposite comparison made the complicated policy easy to understand.",
+        "zh": "他恰当的类比让这项复杂的政策变得易于理解。"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "word": "apprise",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "inform, give notice to",
+        "zh": "通知；告知"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Please apprise me of any changes to the schedule as soon as possible.",
+        "zh": "请尽快将日程安排的任何变动通知我。"
+      },
+      {
+        "en": "The lawyer apprised her client of the risks involved in the lawsuit.",
+        "zh": "律师告知了委托人诉讼中涉及的风险。"
+      },
+      {
+        "en": "Employees were apprised of the merger only a day before it was announced.",
+        "zh": "员工们直到合并宣布前一天才得知这一消息。"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "word": "approbation",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "praise or approval, especially formal approval",
+        "zh": "赞许；正式认可"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The committee gave its official approbation to the new curriculum.",
+        "zh": "委员会正式批准了新的课程设置。"
+      },
+      {
+        "en": "The young violinist basked in the approbation of the audience.",
+        "zh": "那位年轻的小提琴手沉浸在观众的赞许之中。"
+      },
+      {
+        "en": "The design won the approbation of even the harshest critics.",
+        "zh": "这个设计赢得了即便是最苛刻的评论家的赞许。"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "word": "appropriate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "set aside or authorize, such as money, for a particular purpose",
+        "zh": "拨(款)；划拨"
+      },
+      {
+        "pos": "v.",
+        "en": "take for one's own use",
+        "zh": "挪用；擅自占用"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Congress voted to appropriate additional funds for disaster relief.",
+        "zh": "国会投票通过为救灾拨付额外资金。"
+      },
+      {
+        "en": "The company was accused of appropriating the designer's work without credit.",
+        "zh": "该公司被指控在未署名的情况下挪用了这位设计师的作品。"
+      },
+      {
+        "en": "The city council appropriated a portion of the budget for new parks.",
+        "zh": "市议会拨出一部分预算用于新建公园。"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "word": "arbiter",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "judge, umpire, person empowered to decide matters at hand",
+        "zh": "仲裁者；裁决者"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The court served as the final arbiter in the dispute between the two nations.",
+        "zh": "法院充当了两国争端的最终仲裁者。"
+      },
+      {
+        "en": "Critics have long acted as arbiters of public taste in the art world.",
+        "zh": "评论家长期以来一直是艺术界公众品味的仲裁者。"
+      },
+      {
+        "en": "The referee acted as the sole arbiter of the game's disputed calls.",
+        "zh": "裁判是这场比赛中有争议判罚的唯一裁决者。"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "word": "arcane",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "known or understood by only a few; obscure, secret",
+        "zh": "神秘的；晦涩难懂的；只有少数人懂的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The manual was filled with arcane technical jargon that confused most readers.",
+        "zh": "这本手册充斥着大多数读者难以理解的晦涩专业术语。"
+      },
+      {
+        "en": "Only a handful of scholars understand the arcane rules of the ancient game.",
+        "zh": "只有少数学者了解这个古老游戏的深奥规则。"
+      },
+      {
+        "en": "Tax law is full of arcane provisions that even experts find confusing.",
+        "zh": "税法中充满了连专家都感到困惑的晦涩条款。"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "word": "archaic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "characteristic of an earlier period, ancient, primitive",
+        "zh": "古老的；过时的；古体的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The document was written in archaic English that is hard to read today.",
+        "zh": "这份文件是用如今难以读懂的古体英语写成的。"
+      },
+      {
+        "en": "Some archaic laws remain on the books despite never being enforced.",
+        "zh": "一些过时的法律尽管从未被执行，却依然留在法典中。"
+      },
+      {
+        "en": "The museum displays archaic pottery dating back three thousand years.",
+        "zh": "该博物馆展出了可追溯到三千年前的古代陶器。"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "word": "ardent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "very passionate, devoted, or enthusiastic",
+        "zh": "热情的；热忱的；狂热的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She has always been an ardent supporter of public education reform.",
+        "zh": "她一直是公共教育改革的热忱支持者。"
+      },
+      {
+        "en": "His ardent devotion to his craft earned him widespread respect.",
+        "zh": "他对手艺的热忱投入为他赢得了广泛的尊重。"
+      },
+      {
+        "en": "The team's ardent fans traveled hundreds of miles for the final match.",
+        "zh": "这支球队热情的球迷们为了这场决赛跋涉了数百英里。"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "word": "arduous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "very difficult, strenuous; severe, hard to endure",
+        "zh": "艰难的；费力的；艰苦的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The climbers faced an arduous ascent through blizzard conditions.",
+        "zh": "登山者们在暴风雪中经历了一段艰苦的攀登。"
+      },
+      {
+        "en": "Rebuilding trust after the scandal proved to be an arduous process.",
+        "zh": "丑闻之后重建信任被证明是一个艰难的过程。"
+      },
+      {
+        "en": "Studying for the bar exam was the most arduous task of her life.",
+        "zh": "备考律师资格考试是她一生中最艰苦的任务。"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "word": "arrogate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "claim or take presumptuously or without the right to do so",
+        "zh": "妄取；僭越；擅自据为己有"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The general arrogated to himself powers that belonged only to the elected government.",
+        "zh": "那位将军擅自攫取了本应只属于民选政府的权力。"
+      },
+      {
+        "en": "He arrogated credit for a discovery made largely by his students.",
+        "zh": "他把主要由学生完成的发现的功劳据为己有。"
+      },
+      {
+        "en": "The committee chairman arrogated decision-making authority that was never granted to him.",
+        "zh": "委员会主席擅自行使了从未被授予他的决策权。"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "word": "articulate",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "using language in a clear, fluent way",
+        "zh": "表达清晰的；口齿伶俐的"
+      },
+      {
+        "pos": "v.",
+        "en": "speak distinctly or give clarity to an idea",
+        "zh": "清楚地表达；阐明"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The young debater was remarkably articulate for her age.",
+        "zh": "这位年轻的辩手在同龄人中表现得异常能言善辩。"
+      },
+      {
+        "en": "He struggled to articulate exactly why the proposal troubled him.",
+        "zh": "他很难清楚地说出这个提案究竟让他哪里感到不安。"
+      },
+      {
+        "en": "The report articulates a clear vision for the company's next decade.",
+        "zh": "这份报告清晰地阐明了公司下一个十年的发展愿景。"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "word": "artifact",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "any object made by humans, especially those from an earlier time, such as those excavated by archaeologists",
+        "zh": "人工制品；文物"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Archaeologists unearthed several ancient artifacts at the dig site.",
+        "zh": "考古学家在发掘现场出土了几件古代文物。"
+      },
+      {
+        "en": "The museum's collection includes artifacts from a dozen different civilizations.",
+        "zh": "该博物馆的藏品包括来自十几个不同文明的文物。"
+      },
+      {
+        "en": "Each artifact in the exhibit tells a story about daily life centuries ago.",
+        "zh": "展览中的每件文物都讲述着几个世纪前日常生活的故事。"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "word": "artless",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "free of deceit or craftiness, natural, genuine",
+        "zh": "天真无邪的；质朴自然的"
+      },
+      {
+        "pos": "adj.",
+        "en": "lacking skill or knowledge, crude, uncultured",
+        "zh": "粗糙的；笨拙的；缺乏技巧的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her artless honesty was refreshing in a world of calculated speech.",
+        "zh": "在这个充满算计言辞的世界里，她那种天真直率的诚实令人耳目一新。"
+      },
+      {
+        "en": "The artless sketch lacked the technical polish of a trained artist's work.",
+        "zh": "这幅笨拙的素描缺乏训练有素的艺术家作品所具有的技巧打磨。"
+      },
+      {
+        "en": "The child's artless comment made the entire room burst into laughter.",
+        "zh": "那个孩子天真无邪的话让满屋子的人都笑了起来。"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "word": "ascertain",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "find out with certainty",
+        "zh": "确定；查明"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Investigators worked to ascertain the exact cause of the fire.",
+        "zh": "调查人员努力查明火灾的确切原因。"
+      },
+      {
+        "en": "She called the hotel to ascertain whether her reservation had been confirmed.",
+        "zh": "她给酒店打电话以确认自己的预订是否已经确认。"
+      },
+      {
+        "en": "The scientists ran further tests to ascertain the accuracy of their initial results.",
+        "zh": "科学家们进行了进一步的测试以确定初步结果的准确性。"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "word": "ascetic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "abstinent or austere in lifestyle",
+        "zh": "苦行的；禁欲的"
+      },
+      {
+        "pos": "n.",
+        "en": "a person who leads an austere and simple life without material pleasures, especially someone who does this for religious reasons",
+        "zh": "苦行者；禁欲主义者"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The monk led an ascetic life, owning nothing beyond a robe and a bowl.",
+        "zh": "这位僧人过着苦行的生活，除了一件僧袍和一个钵之外一无所有。"
+      },
+      {
+        "en": "As an ascetic, he renounced all worldly comforts to pursue spiritual enlightenment.",
+        "zh": "作为一名苦行者，他放弃了一切尘世的享受以追求精神上的觉悟。"
+      },
+      {
+        "en": "Her ascetic diet consisted of little more than rice and water.",
+        "zh": "她那近乎苦行的饮食几乎只有米饭和水。"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "word": "ascribe",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "assign or credit to a certain cause or source",
+        "zh": "归因于；归咎于"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Historians ascribe the empire's decline to a combination of economic and military failures.",
+        "zh": "历史学家将这个帝国的衰落归因于经济和军事失败的共同作用。"
+      },
+      {
+        "en": "She ascribed her success to years of disciplined practice.",
+        "zh": "她将自己的成功归功于多年严格的练习。"
+      },
+      {
+        "en": "He ascribes his recovery to the support of his family and friends.",
+        "zh": "他将自己的康复归功于家人和朋友的支持。"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "word": "aseptic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "free from germs",
+        "zh": "无菌的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Surgeons operate in an aseptic environment to prevent infection.",
+        "zh": "外科医生在无菌环境中进行手术以防止感染。"
+      },
+      {
+        "en": "The lab requires aseptic technique when handling bacterial cultures.",
+        "zh": "该实验室在处理细菌培养物时要求采用无菌操作技术。"
+      },
+      {
+        "en": "The wound was dressed with aseptic bandages to avoid contamination.",
+        "zh": "伤口用无菌绷带包扎以避免感染。"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "word": "asperity",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "rigor, severity; harshness or sharpness of tone; roughness of surface",
+        "zh": "严厉；粗暴；(言辞)刻薄；(表面)粗糙"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She responded to the criticism with unexpected asperity.",
+        "zh": "她对这一批评做出了出人意料的严厉回应。"
+      },
+      {
+        "en": "The desert climate is known for the asperity of its winters.",
+        "zh": "沙漠气候以其冬季的严酷而闻名。"
+      },
+      {
+        "en": "His voice took on a note of asperity when the negotiations stalled.",
+        "zh": "当谈判陷入僵局时，他的语气变得严厉起来。"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "word": "aspersions",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "damaging remarks, defamation, slander",
+        "zh": "诽谤；中伤；恶意中伤的言论"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He cast aspersions on his rival's integrity during the debate.",
+        "zh": "他在辩论中恶意中伤对手的人品。"
+      },
+      {
+        "en": "The newspaper retracted its story after casting unfounded aspersions on the charity.",
+        "zh": "该报在对这家慈善机构进行毫无根据的诽谤后撤回了这篇报道。"
+      },
+      {
+        "en": "She refused to respond to the aspersions cast on her reputation.",
+        "zh": "她拒绝对针对她名誉的诽谤做出回应。"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "word": "assail",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "attack violently, assault",
+        "zh": "猛烈攻击；抨击"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Critics assailed the new policy as shortsighted and unfair.",
+        "zh": "评论家猛烈抨击这项新政策目光短浅且不公平。"
+      },
+      {
+        "en": "Waves assailed the small boat throughout the stormy night.",
+        "zh": "整个风暴之夜，巨浪不断冲击着这艘小船。"
+      },
+      {
+        "en": "Doubts assailed her as she waited for the exam results.",
+        "zh": "在等待考试结果的时候，疑虑不断向她袭来。"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "word": "assiduous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "persevering, diligent, constant",
+        "zh": "勤勉的；孜孜不倦的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her assiduous research eventually uncovered the missing documents.",
+        "zh": "她孜孜不倦的研究最终发现了那些丢失的文件。"
+      },
+      {
+        "en": "The assiduous student reviewed her notes every single night.",
+        "zh": "这位勤奋的学生每天晚上都复习笔记。"
+      },
+      {
+        "en": "He was assiduous in his efforts to repay every debt he owed.",
+        "zh": "他孜孜不倦地努力偿还自己所欠的每一笔债务。"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "word": "assuage",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "make milder, relieve; soothe, pacify, or calm",
+        "zh": "缓解；平息；抚慰"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The mayor's speech did little to assuage the residents' fears.",
+        "zh": "市长的讲话几乎没有缓解居民们的担忧。"
+      },
+      {
+        "en": "A warm cup of tea helped assuage her nerves before the interview.",
+        "zh": "面试前，一杯热茶帮助她平复了紧张的情绪。"
+      },
+      {
+        "en": "The company issued a refund to assuage angry customers.",
+        "zh": "该公司发放退款以平息愤怒的顾客。"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "word": "attenuate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "weaken or thin out",
+        "zh": "削弱；稀释；使变薄"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The thick concrete walls attenuate most of the outside noise.",
+        "zh": "厚厚的混凝土墙削弱了大部分外界噪音。"
+      },
+      {
+        "en": "Years of drought have attenuated the region's water supply.",
+        "zh": "多年的干旱削弱了该地区的水资源供应。"
+      },
+      {
+        "en": "The vaccine uses an attenuated form of the virus to trigger immunity.",
+        "zh": "这种疫苗使用减毒形式的病毒来激发免疫力。"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "word": "attuned",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "in harmony; in sympathetic relationship",
+        "zh": "协调一致的；敏锐感知的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A good teacher stays attuned to the needs of each individual student.",
+        "zh": "优秀的老师会始终敏锐地关注每个学生的个别需求。"
+      },
+      {
+        "en": "Musicians in the orchestra must remain attuned to one another's timing.",
+        "zh": "管弦乐队中的乐手必须始终与彼此的节奏保持协调一致。"
+      },
+      {
+        "en": "After years together, the couple became deeply attuned to each other's moods.",
+        "zh": "在一起多年后，这对夫妻变得对彼此的情绪极为敏感。"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "word": "audacious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "very bold or brave, often in a rude or reckless way",
+        "zh": "大胆的；鲁莽无礼的"
+      },
+      {
+        "pos": "adj.",
+        "en": "extremely original",
+        "zh": "异想天开的；大胆创新的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The company launched an audacious plan to colonize Mars within a decade.",
+        "zh": "该公司启动了一项大胆的计划，要在十年内实现火星殖民。"
+      },
+      {
+        "en": "His audacious remarks at the shareholders' meeting shocked the board.",
+        "zh": "他在股东大会上大胆无礼的言论震惊了董事会。"
+      },
+      {
+        "en": "The architect's audacious design broke every convention of the era.",
+        "zh": "这位建筑师大胆创新的设计打破了那个时代的一切常规。"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "word": "augment",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "make larger",
+        "zh": "增加；增大"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The company hired freelancers to augment its permanent staff during the busy season.",
+        "zh": "该公司在旺季雇用自由职业者来扩充其正式员工队伍。"
+      },
+      {
+        "en": "Vitamin supplements can augment a diet lacking in certain nutrients.",
+        "zh": "维生素补充剂可以弥补饮食中某些营养素的不足。"
+      },
+      {
+        "en": "The general requested more troops to augment the depleted battalion.",
+        "zh": "将军请求增派更多部队以补充这支已经损耗严重的营。"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "word": "augury",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "telling the future, such as through supernatural means",
+        "zh": "占卜；预兆"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Ancient priests practiced augury by observing the flight patterns of birds.",
+        "zh": "古代祭司通过观察鸟类的飞行模式来占卜。"
+      },
+      {
+        "en": "The unexpected eclipse was seen by many as an augury of disaster.",
+        "zh": "那次意外的日食被许多人视为灾难的预兆。"
+      },
+      {
+        "en": "The old sailors trusted augury more than modern weather forecasts.",
+        "zh": "老水手们比起现代天气预报，更相信占卜之术。"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "word": "august",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "venerable, majestic; inspiring admiration",
+        "zh": "威严的；令人敬畏的；崇高的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The award was presented by an august panel of Nobel laureates.",
+        "zh": "这项奖项由一个由诺贝尔奖得主组成的、令人敬畏的评审团颁发。"
+      },
+      {
+        "en": "She addressed the august assembly with quiet confidence.",
+        "zh": "她以从容的自信向这个庄严的集会发表讲话。"
+      },
+      {
+        "en": "The cathedral's august facade has awed visitors for centuries.",
+        "zh": "这座大教堂庄严的外观几个世纪以来一直令游客惊叹不已。"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "word": "austere",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "severe in manner or appearance; very self-disciplined, ascetic; without luxury or ease; sober or serious",
+        "zh": "严峻的；朴素的；禁欲的；简朴的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The monks lived in austere cells furnished with only a bed and a candle.",
+        "zh": "僧侣们住在朴素的僧舍里，里面只有一张床和一支蜡烛。"
+      },
+      {
+        "en": "His austere expression rarely betrayed any hint of emotion.",
+        "zh": "他那严肃的表情很少流露出任何情感的迹象。"
+      },
+      {
+        "en": "The government imposed austere budget cuts to reduce the national debt.",
+        "zh": "政府实施了严厉的预算削减以减少国债。"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "word": "autonomous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "self-governing, independent",
+        "zh": "自治的；独立自主的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The region was granted autonomous status after decades of negotiation.",
+        "zh": "经过几十年的谈判，该地区获得了自治地位。"
+      },
+      {
+        "en": "Autonomous vehicles rely on sensors to navigate without human input.",
+        "zh": "自动驾驶汽车依靠传感器在无需人工操作的情况下导航。"
+      },
+      {
+        "en": "Each department operates as an autonomous unit within the larger corporation.",
+        "zh": "每个部门在这家大公司内部都作为一个自治单位运作。"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "word": "avarice",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "insatiable greed; a miserly desire to hoard wealth",
+        "zh": "贪婪；贪财"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The old miser's avarice kept him from ever enjoying his fortune.",
+        "zh": "那个老守财奴的贪婪使他从未真正享受过自己的财富。"
+      },
+      {
+        "en": "Unchecked avarice among executives contributed to the company's collapse.",
+        "zh": "高管们不受约束的贪婪是导致公司倒闭的原因之一。"
+      },
+      {
+        "en": "The novel portrays avarice as the tragic flaw that destroys its protagonist.",
+        "zh": "这部小说将贪婪描绘成毁掉主人公的悲剧性缺陷。"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "word": "aver",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "declare or affirm with confidence",
+        "zh": "断言；郑重声明"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The witness averred that she had seen the defendant leave the scene.",
+        "zh": "那位证人郑重声明她曾看见被告离开现场。"
+      },
+      {
+        "en": "He averred his innocence throughout the entire trial.",
+        "zh": "在整个审判过程中，他始终坚称自己是无辜的。"
+      },
+      {
+        "en": "The scientist averred that the results were consistent across every trial.",
+        "zh": "这位科学家断言，每次试验的结果都是一致的。"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "word": "avid",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "enthusiastic, dedicated, passionate",
+        "zh": "热衷的；渴望的"
+      },
+      {
+        "pos": "adj.",
+        "en": "excessively desirous",
+        "zh": "贪婪的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She has been an avid reader of mystery novels since childhood.",
+        "zh": "她从小就是悬疑小说的狂热读者。"
+      },
+      {
+        "en": "His avid pursuit of wealth left little time for his family.",
+        "zh": "他对财富的贪婪追求几乎没有留给家人任何时间。"
+      },
+      {
+        "en": "The avid collector spent decades searching for rare first editions.",
+        "zh": "这位痴迷的收藏家花了几十年寻找罕见的初版书籍。"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "word": "axiom",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "self-evident truth requiring no proof; universally or generally accepted principle",
+        "zh": "公理；不言自明的道理"
+      }
+    ],
+    "examples": [
+      {
+        "en": "It is almost an axiom in business that customer trust takes years to build and moments to destroy.",
+        "zh": "商界几乎公认的一条道理是，客户信任需要多年建立，却可能瞬间毁于一旦。"
+      },
+      {
+        "en": "Geometry begins with a small set of basic axioms.",
+        "zh": "几何学是从一小组基本公理出发的。"
+      },
+      {
+        "en": "She treated punctuality as an axiom of professional life.",
+        "zh": "她把守时视为职业生活中不言自明的准则。"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "word": "balk",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "refuse to proceed or to do something",
+        "zh": "拒绝；畏缩不前"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Many investors balked at the plan's enormous risk.",
+        "zh": "许多投资者对这项计划的巨大风险望而却步。"
+      },
+      {
+        "en": "The horse balked at the edge of the narrow bridge and would not cross.",
+        "zh": "那匹马在窄桥边停住不肯继续前进。"
+      },
+      {
+        "en": "He balked at the idea of working weekends without extra pay.",
+        "zh": "他对没有额外报酬却要周末上班的提议表示抗拒。"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "word": "balloon",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "swell or puff out; increase rapidly",
+        "zh": "迅速膨胀；骤增"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The company's debt ballooned after several years of reckless spending.",
+        "zh": "经过几年的挥霍无度，该公司的债务迅速膨胀。"
+      },
+      {
+        "en": "His cheeks ballooned as he tried to hold in his laughter.",
+        "zh": "他强忍笑意时，双颊鼓了起来。"
+      },
+      {
+        "en": "Enrollment at the university ballooned after the new campus opened.",
+        "zh": "新校区开放后，该大学的入学人数迅速增长。"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "word": "banal",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "lacking freshness and originality; cliché",
+        "zh": "陈腐的；老套的；平庸乏味的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The movie's dialogue felt banal and predictable.",
+        "zh": "这部电影的台词显得陈腐而可预测。"
+      },
+      {
+        "en": "She grew tired of the banal small talk at corporate networking events.",
+        "zh": "她厌倦了企业社交活动中那些老套乏味的闲聊。"
+      },
+      {
+        "en": "His speech was full of banal phrases that failed to inspire anyone.",
+        "zh": "他的演讲充斥着老生常谈，未能激励任何人。"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "word": "bane",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "something that ruins or spoils",
+        "zh": "祸根；克星；致命伤"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Procrastination has always been the bane of his productivity.",
+        "zh": "拖延症一直是他工作效率的克星。"
+      },
+      {
+        "en": "Rust is the bane of every shipbuilder's existence.",
+        "zh": "锈蚀是每个造船工匠的心头大患。"
+      },
+      {
+        "en": "Traffic congestion is the bane of daily commuting in this city.",
+        "zh": "交通拥堵是这座城市日常通勤的一大祸患。"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "word": "base",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "morally low, mean, dishonorable; of little or no value; crude and unrefined; counterfeit",
+        "zh": "卑鄙的；低劣的；不纯的；伪造的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He was driven by the basest of motives: pure greed.",
+        "zh": "驱使他行动的是最卑鄙的动机——纯粹的贪婪。"
+      },
+      {
+        "en": "The coins turned out to be made of base metal rather than gold.",
+        "zh": "这些硬币原来是用低劣金属而非黄金制成的。"
+      },
+      {
+        "en": "Betraying a close friend for money is a base act.",
+        "zh": "为了钱背叛一位好友是一种卑鄙的行为。"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "word": "baying",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "howling in a deep way, like a dog or wolf",
+        "zh": "(犬、狼等)长嗥"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The hunters could hear the baying of the hounds echoing through the forest.",
+        "zh": "猎人们能听到猎犬的长嗥声在森林中回荡。"
+      },
+      {
+        "en": "A lone wolf's baying pierced the silence of the winter night.",
+        "zh": "一只孤狼的长嗥划破了冬夜的寂静。"
+      },
+      {
+        "en": "The baying of the dogs grew louder as they closed in on the fox.",
+        "zh": "随着猎犬逐渐逼近狐狸，它们的嗥叫声也越来越响。"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "word": "belie",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "contradict or misrepresent",
+        "zh": "掩饰；与...不符；辜负"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her calm expression belied the panic she felt inside.",
+        "zh": "她平静的表情掩饰了内心的恐慌。"
+      },
+      {
+        "en": "The company's cheerful advertisements belied its troubled financial situation.",
+        "zh": "该公司欢快的广告与其陷入困境的财务状况形成了鲜明反差。"
+      },
+      {
+        "en": "His youthful appearance belied his many years of experience.",
+        "zh": "他年轻的外表与他多年的丰富经验并不相符。"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "word": "beneficent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "doing good",
+        "zh": "仁慈的；行善的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The beneficent donor funded scholarships for hundreds of students.",
+        "zh": "这位仁慈的捐赠者为数百名学生提供了奖学金资助。"
+      },
+      {
+        "en": "Villagers regarded the old healer as a beneficent presence in their community.",
+        "zh": "村民们认为这位老医者是社区中一股行善的力量。"
+      },
+      {
+        "en": "The foundation's beneficent work has transformed dozens of struggling neighborhoods.",
+        "zh": "该基金会的慈善工作改变了数十个陷入困境的社区。"
+      }
+    ]
+  }
+]

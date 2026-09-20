@@ -1,0 +1,2613 @@
+[
+ {
+  "id": 801,
+  "word": "rescind",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to annul, repeal, or make void",
+    "zh": "废除；撤销；取消"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The university decided to rescind its offer of admission after discovering the applicant had falsified her transcript.",
+    "zh": "学校在发现该申请人伪造成绩单后决定撤销录取通知。"
+   },
+   {
+    "en": "Facing public backlash, the mayor rescinded the controversial curfew within a week.",
+    "zh": "面对公众的强烈反对，市长在一周内废除了那项有争议的宵禁令。"
+   },
+   {
+    "en": "The company rescinded its earlier statement once the facts came to light.",
+    "zh": "事实真相大白后，公司撤回了此前的声明。"
+   }
+  ]
+ },
+ {
+  "id": 802,
+  "word": "resolution",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "firmness of purpose; determination",
+    "zh": "坚定；决心"
+   },
+   {
+    "pos": "n.",
+    "en": "a firm decision to do something; a formal judgment or decision reached by vote",
+    "zh": "决议；（经表决通过的）正式决定"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Her resolution to finish the marathon never wavered, even in the final grueling mile.",
+    "zh": "即使在最后艰难的一英里，她完成马拉松的决心也从未动摇。"
+   },
+   {
+    "en": "The board passed a resolution condemning the unethical practices of its former director.",
+    "zh": "董事会通过了一项决议，谴责前任主管的不道德行为。"
+   },
+   {
+    "en": "He made a New Year's resolution to read one book every week.",
+    "zh": "他许下新年愿望，决心每周读一本书。"
+   }
+  ]
+ },
+ {
+  "id": 803,
+  "word": "resolve",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to find a solution to a problem; to decide firmly, or to decide by formal vote",
+    "zh": "解决；下定决心；（通过表决）决定"
+   },
+   {
+    "pos": "n.",
+    "en": "firmness of purpose; determination",
+    "zh": "决心；毅力"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The engineers worked through the night to resolve the software glitch before launch.",
+    "zh": "工程师们通宵工作，以便在发布前解决这个软件故障。"
+   },
+   {
+    "en": "She resolved never to compromise her principles for financial gain.",
+    "zh": "她下定决心绝不为了钱财而放弃自己的原则。"
+   },
+   {
+    "en": "His resolve remained unshaken despite years of setbacks.",
+    "zh": "尽管多年屡遭挫折，他的决心依然坚定不移。"
+   }
+  ]
+ },
+ {
+  "id": 804,
+  "word": "respectively",
+  "senses": [
+   {
+    "pos": "adv.",
+    "en": "in the order given, each in turn",
+    "zh": "分别地；各自按顺序"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The gold, silver, and bronze medals were awarded to France, Italy, and Spain, respectively.",
+    "zh": "金牌、银牌和铜牌分别授予了法国、意大利和西班牙。"
+   },
+   {
+    "en": "The two committees are chaired by Dr. Lee and Professor Diaz, respectively.",
+    "zh": "这两个委员会分别由李博士和迪亚兹教授担任主席。"
+   }
+  ]
+ },
+ {
+  "id": 805,
+  "word": "restive",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "impatient or uneasy under restraint or control; resistant to being controlled",
+    "zh": "不安分的；难以驾驭的；躁动的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The restive crowd grew louder as the delayed flight's departure time slipped further away.",
+    "zh": "随着航班延误时间不断推迟，躁动不安的人群变得越来越吵闹。"
+   },
+   {
+    "en": "The restive colony had long chafed under the strict rule of its distant governor.",
+    "zh": "这个躁动不安的殖民地早已厌倦了远方总督的严苛统治。"
+   },
+   {
+    "en": "The horse grew restive as the storm approached.",
+    "zh": "暴风雨临近时，那匹马变得焦躁不安。"
+   }
+  ]
+ },
+ {
+  "id": 806,
+  "word": "resurgent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "experiencing a revival; rising or surging again",
+    "zh": "复兴的；再度兴起的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "A resurgent interest in vinyl records has revived several small record shops downtown.",
+    "zh": "人们对黑胶唱片重新燃起的兴趣使市中心几家小唱片店重获生机。"
+   },
+   {
+    "en": "The once-dormant volcano became resurgent, spewing ash for the first time in decades.",
+    "zh": "这座曾经沉寂的火山重新活跃起来，数十年来首次喷出火山灰。"
+   },
+   {
+    "en": "The team's resurgent defense carried them to the championship after a dismal season.",
+    "zh": "在惨淡的一个赛季之后，球队重振旗鼓的防守帮助他们赢得了冠军。"
+   }
+  ]
+ },
+ {
+  "id": 807,
+  "word": "reticent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "reserved, not inclined to talk much; restrained",
+    "zh": "沉默寡言的；含蓄的；矜持的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He remained reticent about his childhood, deflecting every question with a joke.",
+    "zh": "他对自己的童年只字不提，每次被问起都用玩笑搪塞过去。"
+   },
+   {
+    "en": "The usually reticent scientist surprised everyone by giving a passionate speech.",
+    "zh": "这位平时沉默寡言的科学家发表了一场慷慨激昂的演讲，令所有人大吃一惊。"
+   },
+   {
+    "en": "She was reticent to share her true opinion in front of her boss.",
+    "zh": "她在老板面前不愿透露自己的真实想法。"
+   }
+  ]
+ },
+ {
+  "id": 808,
+  "word": "retrospective",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "looking back on the past; applying to the past, retroactive",
+    "zh": "回顾的；追溯的"
+   },
+   {
+    "pos": "n.",
+    "en": "an exhibition or review covering an artist's body of work over time",
+    "zh": "回顾展"
+   }
+  ],
+  "examples": [
+   {
+    "en": "In a retrospective mood, she flipped through old photographs from her college years.",
+    "zh": "怀着追忆往昔的心情，她翻看着大学时代的旧照片。"
+   },
+   {
+    "en": "The new tax law was applied retrospectively, affecting income earned the previous year.",
+    "zh": "这项新税法被追溯适用，影响了上一年度获得的收入。"
+   },
+   {
+    "en": "The museum's retrospective celebrated fifty years of the sculptor's evolving style.",
+    "zh": "这家博物馆的回顾展展示了这位雕塑家五十年来风格的演变。"
+   }
+  ]
+ },
+ {
+  "id": 809,
+  "word": "revamp",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to renovate, redo, or revise",
+    "zh": "革新；改造；修订"
+   },
+   {
+    "pos": "n.",
+    "en": "a restructuring or upgrade",
+    "zh": "改造；革新（方案）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The company plans to revamp its outdated website before the holiday shopping season.",
+    "zh": "公司计划在假日购物季前对其过时的网站进行改版。"
+   },
+   {
+    "en": "The restaurant's menu revamp introduced several plant-based dishes.",
+    "zh": "这家餐厅对菜单的革新推出了几道植物性菜肴。"
+   },
+   {
+    "en": "After the scandal, the agency underwent a complete revamp of its hiring practices.",
+    "zh": "丑闻曝光后，该机构对招聘制度进行了彻底改革。"
+   }
+  ]
+ },
+ {
+  "id": 810,
+  "word": "reverent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "feeling or showing deep respect and awe",
+    "zh": "虔诚的；恭敬的；充满敬意的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Visitors spoke in reverent whispers as they walked through the ancient cathedral.",
+    "zh": "游客们走过这座古老的大教堂时，都用虔敬的低语交谈。"
+   },
+   {
+    "en": "She held a reverent silence at the memorial, moved by the soldiers' sacrifice.",
+    "zh": "在纪念仪式上，她怀着崇敬之情保持沉默，深受士兵们牺牲精神的感动。"
+   },
+   {
+    "en": "The students listened with reverent attention as the retired professor recounted his discoveries.",
+    "zh": "学生们怀着敬意专注地聆听这位退休教授讲述他的发现。"
+   }
+  ]
+ },
+ {
+  "id": 811,
+  "word": "rhetoric",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "the art or study of persuasive speaking or writing",
+    "zh": "修辞学；辩术"
+   },
+   {
+    "pos": "n.",
+    "en": "language that is elaborate or pretentious but essentially meaningless",
+    "zh": "华而不实的言辞；空话"
+   }
+  ],
+  "examples": [
+   {
+    "en": "She studied classical rhetoric to strengthen her skills as a courtroom lawyer.",
+    "zh": "她研习古典修辞学，以增强自己作为出庭律师的能力。"
+   },
+   {
+    "en": "Critics dismissed the politician's promises as empty rhetoric with no real plan behind them.",
+    "zh": "评论家们认为这位政客的承诺只是空洞的言辞，背后并无实际计划。"
+   },
+   {
+    "en": "Behind the inspiring rhetoric of the campaign speech lay very few concrete policies.",
+    "zh": "在这场竞选演说振奋人心的辞藻背后，几乎没有具体的政策。"
+   }
+  ]
+ },
+ {
+  "id": 812,
+  "word": "ribald",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "using or relating to coarse, vulgar humor",
+    "zh": "粗俗的；下流的（尤指幽默）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The sailors traded ribald jokes as they hauled in the fishing nets.",
+    "zh": "水手们在拉渔网时互相讲着粗俗的笑话。"
+   },
+   {
+    "en": "The comedian's ribald routine offended some members of the more conservative audience.",
+    "zh": "这位喜剧演员的低俗表演冒犯了一些较为保守的观众。"
+   },
+   {
+    "en": "Ribald songs echoed through the tavern late into the night.",
+    "zh": "下流的歌声在酒馆里回荡到深夜。"
+   }
+  ]
+ },
+ {
+  "id": 813,
+  "word": "ridden",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "dominated or burdened by (usually in compounds, e.g. debt-ridden)",
+    "zh": "充满……的；被……困扰的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The guilt-ridden witness finally confessed to withholding evidence from the police.",
+    "zh": "这位深受愧疚折磨的证人最终承认曾向警方隐瞒证据。"
+   },
+   {
+    "en": "The disease-ridden village desperately needed medical supplies and clean water.",
+    "zh": "疫病肆虐的村庄急需医疗物资和干净的水。"
+   },
+   {
+    "en": "His speech was ridden with cliches that bored the entire audience.",
+    "zh": "他的演讲充斥着陈词滥调，让全场听众感到乏味。"
+   }
+  ]
+ },
+ {
+  "id": 814,
+  "word": "rife",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "widespread, abundant, or currently prevalent",
+    "zh": "普遍的；盛行的；充斥的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Rumors were rife in the office after the sudden resignation of the CEO.",
+    "zh": "首席执行官突然辞职后，办公室里谣言四起。"
+   },
+   {
+    "en": "The region was rife with corruption long before the new government took power.",
+    "zh": "早在新政府上台之前，这个地区就腐败横行。"
+   },
+   {
+    "en": "Misinformation is rife on social media during election season.",
+    "zh": "选举季期间，虚假信息在社交媒体上泛滥成灾。"
+   }
+  ]
+ },
+ {
+  "id": 815,
+  "word": "rift",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a gap or fissure (as in rock); a break in friendly relations",
+    "zh": "裂缝；（感情、关系上的）裂痕，不和"
+   }
+  ],
+  "examples": [
+   {
+    "en": "A deep rift opened in the earth's crust after the earthquake.",
+    "zh": "地震后，地壳裂开了一道深深的裂缝。"
+   },
+   {
+    "en": "The inheritance dispute caused a lasting rift between the two brothers.",
+    "zh": "遗产纠纷在两兄弟之间造成了持久的裂痕。"
+   },
+   {
+    "en": "A political rift within the party threatened to derail the upcoming election.",
+    "zh": "党内的政治分裂可能会使即将到来的选举脱轨。"
+   }
+  ]
+ },
+ {
+  "id": 816,
+  "word": "rococo",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "very elaborate and ornate (in decoration, speech, or writing); relating to the highly ornate 18th-century French artistic style",
+    "zh": "过分雕琢的；洛可可式的（繁复华丽的艺术风格）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The ballroom's rococo ceiling was covered in gilded curls and pastel cherubs.",
+    "zh": "舞厅那洛可可式的天花板上布满了镀金卷纹和粉彩天使图案。"
+   },
+   {
+    "en": "Critics found his prose too rococo, weighed down by excessive ornamentation.",
+    "zh": "评论家认为他的散文过于雕琢繁复，被过多的辞藻修饰所拖累。"
+   },
+   {
+    "en": "The palace remains one of the finest surviving examples of rococo architecture.",
+    "zh": "这座宫殿仍是现存最精美的洛可可建筑范例之一。"
+   }
+  ]
+ },
+ {
+  "id": 817,
+  "word": "rudimentary",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "basic or elementary; undeveloped, primitive",
+    "zh": "基本的；初步的；未充分发展的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The students learned only the rudimentary principles of chemistry in their first week.",
+    "zh": "学生们在第一周只学习了化学的基本原理。"
+   },
+   {
+    "en": "The camp's rudimentary shelters offered little protection from the wind.",
+    "zh": "营地简陋的棚屋几乎无法抵御风寒。"
+   },
+   {
+    "en": "Even a rudimentary understanding of statistics can help you spot misleading graphs.",
+    "zh": "即使只有初步的统计学知识，也能帮你识别出误导性的图表。"
+   }
+  ]
+ },
+ {
+  "id": 818,
+  "word": "rue",
+  "senses": [
+   {
+    "pos": "v./n.",
+    "en": "to feel regret or remorse (verb); regret, remorse (noun)",
+    "zh": "懊悔；后悔（动词）；懊悔，遗憾（名词）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He would come to rue the day he ignored his mentor's advice.",
+    "zh": "他后来对自己无视导师建议的那一天追悔莫及。"
+   },
+   {
+    "en": "She felt a pang of rue as she watched the house she grew up in being demolished.",
+    "zh": "看着自己长大的房子被拆除，她感到一阵懊悔。"
+   },
+   {
+    "en": "You'll rue this decision once the deadline arrives and nothing is finished.",
+    "zh": "一旦截止日期到来而事情还没完成，你会后悔做出这个决定的。"
+   }
+  ]
+ },
+ {
+  "id": 819,
+  "word": "ruminate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to turn over in the mind, ponder",
+    "zh": "沉思；反复思考"
+   },
+   {
+    "pos": "v.",
+    "en": "to chew cud, as a cow does",
+    "zh": "反刍"
+   }
+  ],
+  "examples": [
+   {
+    "en": "She spent the train ride ruminating on the choices that had led her to this point.",
+    "zh": "在火车上，她一直在思考是什么样的选择让她走到了今天这一步。"
+   },
+   {
+    "en": "Cattle ruminate for hours each day to fully digest the tough grasses they eat.",
+    "zh": "牛每天要反刍数小时，才能完全消化它们吃下的坚韧牧草。"
+   },
+   {
+    "en": "He tends to ruminate over minor mistakes long after everyone else has forgotten them.",
+    "zh": "他常常在别人早已忘记的小错误上反复纠结很久。"
+   }
+  ]
+ },
+ {
+  "id": 820,
+  "word": "rustic",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "relating to country life; simple, unsophisticated, or roughly made (as of wood)",
+    "zh": "乡村的；质朴的；粗糙的（乡土风格的）"
+   },
+   {
+    "pos": "n.",
+    "en": "a person from the countryside; an unsophisticated person",
+    "zh": "乡下人；不谙世事的人"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The cabin's rustic charm came from its exposed wooden beams and stone fireplace.",
+    "zh": "这间小屋质朴的魅力源于裸露的木梁和石砌壁炉。"
+   },
+   {
+    "en": "City visitors sometimes mistake the villagers' plain manners for the naivety of rustics.",
+    "zh": "城里来的游客有时会把村民朴实的举止误解为乡下人的天真。"
+   },
+   {
+    "en": "They spent the weekend at a rustic farmhouse far from any modern conveniences.",
+    "zh": "他们在一处远离现代便利设施的质朴农舍里度过了周末。"
+   }
+  ]
+ },
+ {
+  "id": 821,
+  "word": "sacrosanct",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "sacred and inviolable; regarded as above criticism or interference",
+    "zh": "神圣不可侵犯的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "For the family, Sunday dinner together was sacrosanct, no matter how busy the week had been.",
+    "zh": "对这家人来说，周日的家庭聚餐是神圣不可侵犯的，无论那一周多忙碌。"
+   },
+   {
+    "en": "The editor treated the author's original voice as sacrosanct and refused to alter it.",
+    "zh": "编辑把作者原有的写作风格视为不容侵犯，拒绝对其做任何改动。"
+   },
+   {
+    "en": "Freedom of the press is considered sacrosanct in many democratic societies.",
+    "zh": "在许多民主社会中，新闻自由被视为神圣不可侵犯的权利。"
+   }
+  ]
+ },
+ {
+  "id": 822,
+  "word": "sagacious",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "wise; showing keen judgment and foresight",
+    "zh": "睿智的；有远见的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The sagacious old merchant predicted the market crash months before it happened.",
+    "zh": "这位睿智的老商人在市场崩盘前几个月就已预见到了它的发生。"
+   },
+   {
+    "en": "Her sagacious advice helped the young entrepreneur avoid a costly mistake.",
+    "zh": "她富有远见的建议帮助这位年轻的创业者避免了一次代价高昂的失误。"
+   },
+   {
+    "en": "A sagacious leader anticipates problems long before they become crises.",
+    "zh": "睿智的领导者能在问题演变成危机之前就预见到它们。"
+   }
+  ]
+ },
+ {
+  "id": 823,
+  "word": "salient",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "prominent, standing out, most noticeable; projecting or jutting out",
+    "zh": "显著的；突出的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The report's most salient finding was a sharp rise in youth unemployment.",
+    "zh": "该报告中最显著的发现是青年失业率急剧上升。"
+   },
+   {
+    "en": "The professor highlighted the salient points of the argument before opening the floor to questions.",
+    "zh": "教授在开放提问之前先概述了论点中最突出的几点。"
+   },
+   {
+    "en": "A salient ridge jutted out from the mountainside, visible from miles away.",
+    "zh": "一道突出的山脊从山坡上凸出，数英里外都能看到。"
+   }
+  ]
+ },
+ {
+  "id": 824,
+  "word": "salubrious",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "healthful, favorable to health",
+    "zh": "有益健康的；卫生的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The doctor recommended a stay in the mountains for its salubrious climate.",
+    "zh": "医生建议她到山区疗养，因为那里气候有益健康。"
+   },
+   {
+    "en": "The neighborhood's salubrious surroundings, with parks and clean air, attracted many young families.",
+    "zh": "这个社区环境宜人有益健康，公园众多、空气清新，吸引了许多年轻家庭。"
+   },
+   {
+    "en": "Regular exercise and a salubrious diet can significantly reduce the risk of heart disease.",
+    "zh": "规律运动和有益健康的饮食能大幅降低患心脏病的风险。"
+   }
+  ]
+ },
+ {
+  "id": 825,
+  "word": "sanction",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "official permission or approval; support given to something",
+    "zh": "批准；认可；支持"
+   },
+   {
+    "pos": "v.",
+    "en": "to officially allow, approve, or ratify",
+    "zh": "批准；认可"
+   },
+   {
+    "pos": "n./v.",
+    "en": "a penalty imposed by one or more countries against another to force compliance (noun); to impose such penalties (verb)",
+    "zh": "（国际）制裁（名词）；对……实施制裁（动词）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The board gave its sanction to the merger after months of negotiation.",
+    "zh": "经过数月谈判，董事会批准了这次合并。"
+   },
+   {
+    "en": "The university refused to sanction the unauthorized fraternity event.",
+    "zh": "学校拒绝批准这场未经授权的兄弟会活动。"
+   },
+   {
+    "en": "The United Nations voted to impose sanctions on the country after it violated the treaty.",
+    "zh": "联合国在该国违反条约后投票决定对其实施制裁。"
+   }
+  ]
+ },
+ {
+  "id": 826,
+  "word": "sanguine",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "cheerfully optimistic, hopeful",
+    "zh": "乐观的；充满信心的"
+   },
+   {
+    "pos": "adj.",
+    "en": "reddish, ruddy (as in healthy rosy cheeks)",
+    "zh": "红润的（面色）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Despite the setbacks, she remained sanguine about the company's long-term prospects.",
+    "zh": "尽管遭遇挫折，她对公司的长期前景仍然乐观。"
+   },
+   {
+    "en": "His sanguine complexion made him look far healthier than he actually was.",
+    "zh": "他红润的面色让他看起来比实际状况健康得多。"
+   },
+   {
+    "en": "Investors grew increasingly sanguine as the quarterly earnings report exceeded expectations.",
+    "zh": "随着季度财报超出预期，投资者变得越来越乐观。"
+   }
+  ]
+ },
+ {
+  "id": 827,
+  "word": "sap",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "the inner fluid of a plant, or vital energy/vitality",
+    "zh": "树液；（体内的）活力，元气"
+   },
+   {
+    "pos": "n.",
+    "en": "a person easily taken advantage of",
+    "zh": "易受骗的人；容易被利用的人"
+   },
+   {
+    "pos": "v.",
+    "en": "to undermine, weaken, or gradually drain of energy",
+    "zh": "消耗；使衰弱；逐渐削弱"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Maple sap is collected each spring and boiled down into syrup.",
+    "zh": "每年春天人们都会采集枫树的树液，熬制成糖浆。"
+   },
+   {
+    "en": "He felt like such a sap after realizing he'd fallen for the same scam twice.",
+    "zh": "意识到自己两次上了同一个骗局的当后，他觉得自己简直是个大傻瓜。"
+   },
+   {
+    "en": "Months of chronic insomnia had sapped her energy and concentration.",
+    "zh": "数月的慢性失眠已经耗尽了她的精力和注意力。"
+   }
+  ]
+ },
+ {
+  "id": 828,
+  "word": "sardonic",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "scornfully mocking; cynically derisive",
+    "zh": "讥讽的；冷嘲热讽的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He greeted the bad news with a sardonic smile rather than any visible distress.",
+    "zh": "面对这个坏消息，他报以一个冷笑，而非流露出丝毫沮丧。"
+   },
+   {
+    "en": "Her sardonic remarks about office politics often left her coworkers uneasy.",
+    "zh": "她对办公室政治的冷嘲热讽常常让同事们感到不自在。"
+   },
+   {
+    "en": "The critic's sardonic review mocked nearly every aspect of the film.",
+    "zh": "这位影评人的尖酸评论几乎嘲讽了这部电影的每一个方面。"
+   }
+  ]
+ },
+ {
+  "id": 829,
+  "word": "satiate or sate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to fully satisfy; to satisfy to the point of excess",
+    "zh": "使充分满足；使过量满足（以至生厌）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "A single slice of the rich chocolate cake was enough to satiate her sweet tooth.",
+    "zh": "一片浓郁的巧克力蛋糕就足以满足她对甜食的渴望。"
+   },
+   {
+    "en": "No amount of praise seemed to sate his craving for recognition.",
+    "zh": "无论多少赞美似乎都无法满足他对认可的渴求。"
+   },
+   {
+    "en": "After the feast, the guests were thoroughly satiated and could barely move.",
+    "zh": "宴席结束后，宾客们都吃得心满意足，几乎动弹不得。"
+   }
+  ]
+ },
+ {
+  "id": 830,
+  "word": "saturate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to soak or imbue thoroughly; to cause a substance to combine with the maximum possible amount of another",
+    "zh": "使湿透；使浸透；使饱和"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The heavy rain saturated the soil, making the hiking trail impossibly muddy.",
+    "zh": "大雨浸透了土壤，使得徒步小径泥泞不堪。"
+   },
+   {
+    "en": "Advertisements have saturated nearly every corner of the internet.",
+    "zh": "广告几乎充斥了互联网的每一个角落。"
+   },
+   {
+    "en": "Chemists saturated the solution with salt until no more would dissolve.",
+    "zh": "化学家们向溶液中不断加盐，直到无法再溶解为止，使其达到饱和状态。"
+   }
+  ]
+ },
+ {
+  "id": 831,
+  "word": "savant",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a learned scholar; also, a person with extraordinary mental abilities alongside a cognitive difference or disability",
+    "zh": "学者；（在特定领域有非凡才能的）学者型天才，学者症候群患者"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The elderly savant could recite entire volumes of poetry from memory.",
+    "zh": "这位年迈的学者能够凭记忆背诵整部诗集。"
+   },
+   {
+    "en": "The film portrayed an autistic savant capable of performing complex calculations instantly.",
+    "zh": "这部电影描绘了一位患有自闭症的学者型天才，他能瞬间完成复杂的运算。"
+   },
+   {
+    "en": "Colleagues regarded him as a savant in the field of theoretical physics.",
+    "zh": "同事们都把他视为理论物理学领域的博学之士。"
+   }
+  ]
+ },
+ {
+  "id": 832,
+  "word": "savor",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to appreciate or enjoy fully; to taste or smell with pleasure",
+    "zh": "细细品味；享受"
+   }
+  ],
+  "examples": [
+   {
+    "en": "She closed her eyes to savor the first sip of freshly brewed coffee.",
+    "zh": "她闭上眼睛，细细品味刚煮好的咖啡的第一口滋味。"
+   },
+   {
+    "en": "He savored every moment of his final week before retirement.",
+    "zh": "退休前的最后一周，他珍惜并享受着每一个时刻。"
+   },
+   {
+    "en": "The chef encouraged diners to savor the dish slowly rather than rush through it.",
+    "zh": "主厨鼓励食客慢慢品尝这道菜，而不是匆匆吃完。"
+   }
+  ]
+ },
+ {
+  "id": 833,
+  "word": "scant",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "barely sufficient; insufficient",
+    "zh": "不足的；缺乏的；勉强的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The rescue team had only scant hours of daylight left to find the missing hikers.",
+    "zh": "救援队只剩下寥寥几个小时的日光来寻找失踪的徒步者。"
+   },
+   {
+    "en": "Given the scant evidence, the jury could not reach a verdict.",
+    "zh": "由于证据不足，陪审团无法作出裁决。"
+   },
+   {
+    "en": "The novelist paid scant attention to the reviews and continued writing as she pleased.",
+    "zh": "这位小说家对评论毫不在意，依旧随心所欲地写作。"
+   }
+  ]
+ },
+ {
+  "id": 834,
+  "word": "scathing",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "bitterly harsh or critical; severely damaging",
+    "zh": "严厉的；尖刻的；猛烈抨击的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The critic wrote a scathing review that all but ended the play's run.",
+    "zh": "这位评论家写了一篇措辞尖刻的评论，几乎让这部戏剧就此收场。"
+   },
+   {
+    "en": "Her scathing remarks about the proposal left the committee speechless.",
+    "zh": "她对这项提案的严厉批评让委员会成员们哑口无言。"
+   },
+   {
+    "en": "The report offered a scathing assessment of the agency's handling of the crisis.",
+    "zh": "该报告对该机构应对危机的方式给出了严厉的评价。"
+   }
+  ]
+ },
+ {
+  "id": 835,
+  "word": "scintilla",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a tiny trace or bit of something",
+    "zh": "少量；一丝一毫"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Not a scintilla of doubt remained after the DNA evidence was presented.",
+    "zh": "DNA证据呈上后，一丝疑虑都不复存在。"
+   },
+   {
+    "en": "There was only a scintilla of truth in his exaggerated account of the event.",
+    "zh": "他对那件事的夸张描述中只有一丝真实成分。"
+   },
+   {
+    "en": "Even a scintilla of evidence would have been enough to reopen the case.",
+    "zh": "哪怕只有一丝证据，也足以让此案重新立案调查。"
+   }
+  ]
+ },
+ {
+  "id": 836,
+  "word": "scurvy",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "contemptible, mean, or low",
+    "zh": "卑鄙的；可鄙的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "That was a scurvy trick to play on someone who trusted you completely.",
+    "zh": "对一个完全信任你的人耍这种卑鄙的把戏，实在可耻。"
+   },
+   {
+    "en": "The pirate captain in the novel was portrayed as a scurvy, treacherous villain.",
+    "zh": "小说中的海盗船长被刻画成一个卑鄙奸诈的恶棍。"
+   },
+   {
+    "en": "He felt ashamed of the scurvy way he had abandoned his old friend.",
+    "zh": "他为自己抛弃老朋友的卑鄙行为感到羞愧。"
+   }
+  ]
+ },
+ {
+  "id": 837,
+  "word": "searchingly",
+  "senses": [
+   {
+    "pos": "adv.",
+    "en": "in a penetrating, probing manner; while examining closely",
+    "zh": "探究地；锐利地（审视）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The detective looked searchingly at the suspect, waiting for any flicker of guilt.",
+    "zh": "侦探探究地注视着嫌疑人，等待着任何一丝愧疚的流露。"
+   },
+   {
+    "en": "She questioned the witness searchingly, hoping to uncover an inconsistency.",
+    "zh": "她对证人进行了细致入微的盘问，希望找出其中的矛盾之处。"
+   },
+   {
+    "en": "He studied the contract searchingly before signing it.",
+    "zh": "他在签字前仔细审视了这份合同。"
+   }
+  ]
+ },
+ {
+  "id": 838,
+  "word": "secrete",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to produce and release a substance from a cell, gland, or organ",
+    "zh": "分泌"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The pancreas secretes insulin to help regulate blood sugar levels.",
+    "zh": "胰腺分泌胰岛素以帮助调节血糖水平。"
+   },
+   {
+    "en": "Certain frogs secrete a toxin through their skin as a defense against predators.",
+    "zh": "某些青蛙会通过皮肤分泌毒素来抵御捕食者。"
+   },
+   {
+    "en": "Stress can cause the body to secrete higher levels of cortisol.",
+    "zh": "压力会导致人体分泌更多的皮质醇。"
+   }
+  ]
+ },
+ {
+  "id": 839,
+  "word": "secular",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "not religious or spiritual; concerned with worldly rather than sacred matters",
+    "zh": "世俗的；非宗教的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The country's constitution establishes a secular government with no official state religion.",
+    "zh": "该国宪法确立了政教分离的世俗政府，不设官方国教。"
+   },
+   {
+    "en": "The university offers both religious studies and purely secular philosophy courses.",
+    "zh": "该大学既开设宗教研究课程，也开设纯世俗的哲学课程。"
+   },
+   {
+    "en": "Over the past century, many European societies have become increasingly secular.",
+    "zh": "在过去一个世纪里，许多欧洲社会变得日益世俗化。"
+   }
+  ]
+ },
+ {
+  "id": 840,
+  "word": "sedition",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "speech or writing that incites rebellion against a government",
+    "zh": "煽动叛乱（罪）；煽动性言论"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The pamphlet was banned by the crown on charges of sedition.",
+    "zh": "这本小册子因涉嫌煽动叛乱而被王室查禁。"
+   },
+   {
+    "en": "He was arrested for sedition after publishing articles calling for the overthrow of the regime.",
+    "zh": "他因发表呼吁推翻政权的文章而以煽动叛乱罪被捕。"
+   },
+   {
+    "en": "The colonial authorities treated any criticism of the governor as sedition.",
+    "zh": "殖民当局把任何对总督的批评都视为煽动叛乱。"
+   }
+  ]
+ },
+ {
+  "id": 841,
+  "word": "sedulous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "persevering, diligent, and persistent in effort",
+    "zh": "孜孜不倦的；勤勉的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Her sedulous attention to detail made her the most reliable editor on staff.",
+    "zh": "她对细节孜孜不倦的关注使她成为员工中最可靠的编辑。"
+   },
+   {
+    "en": "Through sedulous practice, the young violinist mastered the difficult concerto.",
+    "zh": "通过不懈的练习，这位年轻的小提琴手掌握了这首高难度协奏曲。"
+   },
+   {
+    "en": "The historian's sedulous research uncovered documents no one had examined in decades.",
+    "zh": "这位历史学家孜孜不倦的研究发现了几十年来无人查阅过的文献。"
+   }
+  ]
+ },
+ {
+  "id": 842,
+  "word": "semantic",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "relating to the meaning of words or other symbols",
+    "zh": "语义的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The two proposals were nearly identical; the disagreement was purely semantic.",
+    "zh": "这两项提案几乎完全一样，分歧纯粹是措辞上的。"
+   },
+   {
+    "en": "Linguists study semantic shifts to understand how word meanings change over centuries.",
+    "zh": "语言学家研究语义演变，以理解词义如何随几个世纪的时间发生变化。"
+   },
+   {
+    "en": "A semantic analysis of the poem revealed layers of meaning the reader had missed.",
+    "zh": "对这首诗的语义分析揭示了读者未曾察觉的多层含义。"
+   }
+  ]
+ },
+ {
+  "id": 843,
+  "word": "sentient",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "conscious; capable of experiencing sensations or perceiving through the senses",
+    "zh": "有知觉的；有感知能力的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Philosophers continue to debate at what point an artificial system could be considered sentient.",
+    "zh": "哲学家们仍在争论人工系统在何种程度上可以被视为具有知觉的。"
+   },
+   {
+    "en": "The novel explores a future in which robots become sentient and demand rights.",
+    "zh": "这部小说探讨了一个机器人产生知觉并要求权利的未来世界。"
+   },
+   {
+    "en": "Marine biologists have found evidence that octopuses are remarkably sentient creatures.",
+    "zh": "海洋生物学家发现证据表明，章鱼是感知能力非凡的生物。"
+   }
+  ]
+ },
+ {
+  "id": 844,
+  "word": "seraphic",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "angelic; serene and spiritually elevated",
+    "zh": "天使般的；圣洁安详的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The choir's seraphic voices filled the cathedral during the midnight mass.",
+    "zh": "午夜弥撒时，唱诗班天使般的歌声回荡在整座大教堂中。"
+   },
+   {
+    "en": "A seraphic smile spread across the sleeping infant's face.",
+    "zh": "熟睡的婴儿脸上浮现出天使般的微笑。"
+   },
+   {
+    "en": "The painting depicted a seraphic figure bathed in golden light.",
+    "zh": "这幅画描绘了一个沐浴在金色光辉中的天使般的形象。"
+   }
+  ]
+ },
+ {
+  "id": 845,
+  "word": "shard",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a sharp fragment of a brittle substance, such as pottery or glass",
+    "zh": "碎片（尤指陶瓷、玻璃等易碎物的锋利碎片）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Archaeologists carefully brushed dirt away from the ancient pottery shards.",
+    "zh": "考古学家小心翼翼地拂去古代陶器碎片上的泥土。"
+   },
+   {
+    "en": "A shard of glass from the broken window cut his hand.",
+    "zh": "破碎窗户上的一块玻璃碎片划伤了他的手。"
+   },
+   {
+    "en": "The vase shattered into countless shards when it fell from the shelf.",
+    "zh": "花瓶从架子上掉落，摔成了无数碎片。"
+   }
+  ]
+ },
+ {
+  "id": 846,
+  "word": "simultaneous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "occurring or existing at the same time",
+    "zh": "同时发生的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The conference offered simultaneous translation into five languages.",
+    "zh": "这场会议提供五种语言的同声传译。"
+   },
+   {
+    "en": "The two events were simultaneous, making it impossible for the suspect to have committed both crimes.",
+    "zh": "这两起事件是同时发生的，因此嫌疑人不可能同时犯下这两桩罪行。"
+   },
+   {
+    "en": "Simultaneous eruptions of applause broke out across the stadium.",
+    "zh": "体育场各处同时爆发出阵阵掌声。"
+   }
+  ]
+ },
+ {
+  "id": 847,
+  "word": "sinecure",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a position that pays well but requires little or no actual work",
+    "zh": "闲职；挂名职位"
+   }
+  ],
+  "examples": [
+   {
+    "en": "His uncle arranged for him to receive a comfortable sinecure at the family firm.",
+    "zh": "他的叔叔为他在家族企业里安排了一个待遇优厚的闲职。"
+   },
+   {
+    "en": "Critics accused the mayor of handing out sinecures to his political allies.",
+    "zh": "批评者指责市长将闲职分配给他的政治盟友。"
+   },
+   {
+    "en": "The advisory board position turned out to be little more than a sinecure.",
+    "zh": "这个顾问委员会的职位到头来不过是个挂名闲差。"
+   }
+  ]
+ },
+ {
+  "id": 848,
+  "word": "skeptic",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a person inclined to doubt or question generally accepted beliefs",
+    "zh": "怀疑论者；持怀疑态度的人"
+   }
+  ],
+  "examples": [
+   {
+    "en": "As a lifelong skeptic, she demanded rigorous evidence before accepting any new theory.",
+    "zh": "作为一个一贯持怀疑态度的人，她要求提供严谨的证据才肯接受任何新理论。"
+   },
+   {
+    "en": "Even skeptics were impressed by the sheer accuracy of the prediction.",
+    "zh": "就连怀疑论者也对这一预测的高度精准感到惊叹。"
+   },
+   {
+    "en": "The scientist remained a skeptic of the miracle cure until clinical trials proved otherwise.",
+    "zh": "在临床试验证明其有效之前，这位科学家始终对这种“神奇疗法”持怀疑态度。"
+   }
+  ]
+ },
+ {
+  "id": 849,
+  "word": "skirt",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to border or lie along the edge of; to go around; to evade",
+    "zh": "沿……边缘行进；绕过；回避"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The trail skirts the edge of the lake before climbing into the forest.",
+    "zh": "这条小径沿着湖边延伸，然后爬升进入森林。"
+   },
+   {
+    "en": "He skillfully skirted the reporter's question about the merger.",
+    "zh": "他巧妙地回避了记者关于此次合并的问题。"
+   },
+   {
+    "en": "The truck skirted the flooded road by taking a longer route through the hills.",
+    "zh": "卡车绕过被淹的道路，改走一条穿过丘陵地带的更长路线。"
+   }
+  ]
+ },
+ {
+  "id": 850,
+  "word": "skittish",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "nervous, easily frightened, or unpredictably jumpy; excessively lively or restless",
+    "zh": "易受惊的；神经质的；轻浮不定的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The skittish colt bolted at the slightest unfamiliar noise.",
+    "zh": "这匹易受惊的小马驹一听到最轻微的陌生声响就会突然逃窜。"
+   },
+   {
+    "en": "Investors grew skittish after the surprise announcement, and the stock price plummeted.",
+    "zh": "这一突如其来的公告让投资者变得神经紧张，股价随之暴跌。"
+   },
+   {
+    "en": "She's always been a bit skittish about commitment in relationships.",
+    "zh": "她在感情关系中的承诺问题上一直有些患得患失。"
+   }
+  ]
+ },
+ {
+  "id": 851,
+  "word": "slack",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "loose; negligent, lazy; weak",
+    "zh": "松弛的；懈怠的；不严格的"
+   },
+   {
+    "pos": "v.",
+    "en": "to neglect one's duties; to loosen or relax",
+    "zh": "偷懒；松懈；放松"
+   },
+   {
+    "pos": "n.",
+    "en": "a period of little activity or work",
+    "zh": "（业务）清淡期；空闲时段"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The rope hung slack between the two posts, offering no support at all.",
+    "zh": "绳子在两根柱子之间松垮地垂着，毫无支撑作用。"
+   },
+   {
+    "en": "Employees who slack off during the busy season are quickly noticed by management.",
+    "zh": "在旺季偷懒的员工很快就会被管理层注意到。"
+   },
+   {
+    "en": "The shop took on part-time staff to handle the summer rush, then let them go during the slack.",
+    "zh": "这家店雇了兼职员工来应付夏季的忙碌高峰，而在业务清淡期又将他们辞退。"
+   }
+  ]
+ },
+ {
+  "id": 852,
+  "word": "slake",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to satisfy (especially thirst), cool, or refresh; to make less active",
+    "zh": "解渴；使凉爽；消解，缓和"
+   }
+  ],
+  "examples": [
+   {
+    "en": "They stopped by the stream to slake their thirst after hours of hiking.",
+    "zh": "徒步数小时后，他们在小溪边停下来解渴。"
+   },
+   {
+    "en": "No amount of success seemed to slake his ambition for more.",
+    "zh": "无论取得多大的成功似乎都无法消解他对更多成就的渴望。"
+   },
+   {
+    "en": "The cool evening breeze slaked the heat of the summer afternoon.",
+    "zh": "傍晚凉爽的微风消解了夏日午后的暑热。"
+   }
+  ]
+ },
+ {
+  "id": 853,
+  "word": "slew",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a large number or quantity of something",
+    "zh": "大量；许多"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The new policy prompted a slew of complaints from local business owners.",
+    "zh": "这项新政策引发了当地企业主的大量投诉。"
+   },
+   {
+    "en": "She fielded a slew of questions from reporters after the announcement.",
+    "zh": "公告发布后，她回答了记者提出的大量问题。"
+   },
+   {
+    "en": "A slew of new restaurants opened downtown this year.",
+    "zh": "今年市中心新开了一大批餐厅。"
+   }
+  ]
+ },
+ {
+  "id": 854,
+  "word": "slight",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "small in degree; not very important; slender or delicate",
+    "zh": "轻微的；不重要的；纤细的"
+   },
+   {
+    "pos": "v.",
+    "en": "to treat as unimportant; to snub or ignore",
+    "zh": "轻视；怠慢；冷落"
+   },
+   {
+    "pos": "n.",
+    "en": "an act of treating someone as unimportant; a discourtesy",
+    "zh": "怠慢；侮辱；轻视之举"
+   }
+  ],
+  "examples": [
+   {
+    "en": "There was only a slight difference between the two proposals.",
+    "zh": "这两项提案之间只有轻微的差异。"
+   },
+   {
+    "en": "She felt slighted when her contribution went unmentioned in the final report.",
+    "zh": "她的贡献在最终报告中只字未提，这让她感到被怠慢了。"
+   },
+   {
+    "en": "He took the unintentional slight far more personally than his colleague had meant it.",
+    "zh": "同事本无意冒犯，但他还是把这次无心的怠慢看得非常个人化。"
+   }
+  ]
+ },
+ {
+  "id": 855,
+  "word": "sobriquet",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a nickname",
+    "zh": "绰号；诨名"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The boxer earned the sobriquet 'The Hammer' for his devastating punches.",
+    "zh": "这位拳击手因出拳威力惊人而获得了“铁锤”的绰号。"
+   },
+   {
+    "en": "New York City carries the sobriquet 'The Big Apple.'",
+    "zh": "纽约市有一个绰号叫“大苹果”。"
+   },
+   {
+    "en": "Historians still debate the origin of the emperor's peculiar sobriquet.",
+    "zh": "历史学家至今仍在争论这位皇帝那个古怪绰号的来源。"
+   }
+  ]
+ },
+ {
+  "id": 856,
+  "word": "solecism",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a nonstandard or ungrammatical use of language; a mistake, especially in etiquette",
+    "zh": "语法错误；（礼仪上的）失礼，不当行为"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The editor circled every solecism in the manuscript, from dangling modifiers to subject-verb disagreements.",
+    "zh": "编辑把手稿中每一处语法错误都圈了出来，从悬垂修饰语到主谓不一致的问题。"
+   },
+   {
+    "en": "Wearing sneakers to the formal gala was considered a minor solecism by some guests.",
+    "zh": "一些宾客认为穿运动鞋出席正式晚会是一种轻微的失礼行为。"
+   },
+   {
+    "en": "His speech, though eloquent, contained several solecisms that grammar purists noticed immediately.",
+    "zh": "他的演讲虽然辞藻华丽，却含有几处语法错误，语法纯粹主义者一眼就看了出来。"
+   }
+  ]
+ },
+ {
+  "id": 857,
+  "word": "solicitous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "showing concern or care for another; eager or desirous; very careful",
+    "zh": "关切的；殷勤的；渴望的；细心周到的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The nurse was solicitous of every patient's comfort, checking in every hour.",
+    "zh": "这位护士对每位病人的舒适度都关怀备至，每小时都会过来查看。"
+   },
+   {
+    "en": "He seemed unusually solicitous about my opinion on the matter.",
+    "zh": "他对我在这件事上的看法表现得异乎寻常地热切关心。"
+   },
+   {
+    "en": "The hotel staff were solicitous almost to the point of being intrusive.",
+    "zh": "酒店员工的殷勤周到几乎到了让人觉得有些打扰的地步。"
+   }
+  ]
+ },
+ {
+  "id": 858,
+  "word": "solidarity",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "unity or fellowship arising from common interests, feelings, or responsibilities among a group",
+    "zh": "团结；共同一致"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Workers across the city marched in solidarity with the striking factory employees.",
+    "zh": "全市各地的工人游行，声援罢工的工厂员工。"
+   },
+   {
+    "en": "The tragedy brought the whole community together in a remarkable show of solidarity.",
+    "zh": "这场悲剧使整个社区空前团结，展现出非凡的凝聚力。"
+   },
+   {
+    "en": "The coalition of nations expressed solidarity in their response to the humanitarian crisis.",
+    "zh": "这一国家联盟在应对人道主义危机时表现出高度的团结一致。"
+   }
+  ]
+ },
+ {
+  "id": 859,
+  "word": "somatic",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "relating to the body, as distinct from the mind",
+    "zh": "躯体的；肉体的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The therapist explored whether her anxiety produced any somatic symptoms, such as headaches.",
+    "zh": "治疗师探究了她的焦虑是否引发了任何躯体症状，比如头痛。"
+   },
+   {
+    "en": "Somatic cells, unlike reproductive cells, do not pass genetic material to offspring.",
+    "zh": "与生殖细胞不同，体细胞不会将遗传物质传递给后代。"
+   },
+   {
+    "en": "Chronic stress can manifest as somatic pain even without a clear physical cause.",
+    "zh": "慢性压力即使没有明确的生理病因，也可能表现为躯体疼痛。"
+   }
+  ]
+ },
+ {
+  "id": 860,
+  "word": "soporific",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "causing sleep; drowsy",
+    "zh": "催眠的；使人昏昏欲睡的"
+   },
+   {
+    "pos": "n.",
+    "en": "something that induces sleep",
+    "zh": "安眠药；催眠剂"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The professor's monotonous lecture had a soporific effect on the entire class.",
+    "zh": "教授单调乏味的讲课让全班同学都昏昏欲睡。"
+   },
+   {
+    "en": "Warm milk is a mild, natural soporific that many people swear by.",
+    "zh": "温牛奶是一种温和的天然安眠剂，许多人对此深信不疑。"
+   },
+   {
+    "en": "The gentle rocking of the train proved soporific, and soon she drifted off.",
+    "zh": "火车轻柔的摇晃让人昏昏欲睡，不一会儿她就睡着了。"
+   }
+  ]
+ },
+ {
+  "id": 861,
+  "word": "sound",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to measure the depth of (usually water)",
+    "zh": "测（水）深；探测"
+   },
+   {
+    "pos": "v.",
+    "en": "to investigate or probe in order to discover the meaning or nature of something (often 'sound out')",
+    "zh": "探究；试探（想法、意见等）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The crew used a weighted line to sound the harbor before bringing in the large ship.",
+    "zh": "船员们在引导大船进港前，用一根系有重物的绳索测量了港口的水深。"
+   },
+   {
+    "en": "The diplomat was sent to sound out the foreign minister's true position on the treaty.",
+    "zh": "这位外交官被派去探明外交部长对该条约的真实立场。"
+   },
+   {
+    "en": "She tried to sound the depths of his intentions before agreeing to the partnership.",
+    "zh": "在同意合作之前，她试图探清他的真实意图。"
+   }
+  ]
+ },
+ {
+  "id": 862,
+  "word": "spartan",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "disciplined and stern; frugal and austere; reminiscent of the ancient Spartans",
+    "zh": "斯巴达式的；严酷简朴的；节俭的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The monk lived a spartan existence, owning little more than a bed and a few books.",
+    "zh": "这位僧人过着斯巴达式的简朴生活，除了一张床和几本书外几乎一无所有。"
+   },
+   {
+    "en": "The dormitory rooms were spartan, furnished with only a cot and a desk.",
+    "zh": "宿舍房间十分简陋，只配有一张小床和一张书桌。"
+   },
+   {
+    "en": "Her spartan training regimen left no room for rest days.",
+    "zh": "她那近乎苛刻的训练计划里没有留出任何休息日。"
+   }
+  ]
+ },
+ {
+  "id": 863,
+  "word": "spate",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a sudden outpouring or rush; a flood",
+    "zh": "（突然）大量涌现；一连串"
+   }
+  ],
+  "examples": [
+   {
+    "en": "A spate of burglaries in the neighborhood prompted residents to install security cameras.",
+    "zh": "这一带接连发生的一连串盗窃案促使居民安装了监控摄像头。"
+   },
+   {
+    "en": "The company faced a spate of lawsuits following the product recall.",
+    "zh": "该公司在产品召回后面临一连串诉讼。"
+   },
+   {
+    "en": "A spate of heavy rain caused the river to overflow its banks.",
+    "zh": "一场突如其来的暴雨导致河水泛滥，冲出堤岸。"
+   }
+  ]
+ },
+ {
+  "id": 864,
+  "word": "spearhead",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to lead or be at the forefront of (an effort or campaign)",
+    "zh": "率领；带头发起"
+   }
+  ],
+  "examples": [
+   {
+    "en": "She spearheaded the initiative to bring affordable housing to the downtown area.",
+    "zh": "她带头发起了在市中心建设经济适用房的倡议。"
+   },
+   {
+    "en": "The general spearheaded the assault, leading his troops across the river at dawn.",
+    "zh": "这位将军亲自率领突击行动，在黎明时分带领部队渡河。"
+   },
+   {
+    "en": "A team of young researchers spearheaded the development of the new vaccine.",
+    "zh": "一支年轻研究人员团队带头推动了这种新疫苗的研发。"
+   }
+  ]
+ },
+ {
+  "id": 865,
+  "word": "specious",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "seemingly true or plausible but actually false; deceptively attractive",
+    "zh": "似是而非的；貌似有理实则错误的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The lawyer easily dismantled the defendant's specious argument that he had acted in self-defense.",
+    "zh": "律师轻而易举地驳倒了被告那看似合理实则站不住脚的自卫说法。"
+   },
+   {
+    "en": "The advertisement made a specious claim that the supplement could cure a dozen ailments.",
+    "zh": "这则广告作出了一个似是而非的宣称，声称这种保健品能治愈十几种疾病。"
+   },
+   {
+    "en": "His reasoning sounded convincing at first, but on closer inspection it was entirely specious.",
+    "zh": "他的推理乍听之下颇具说服力，但细究之下却完全站不住脚。"
+   }
+  ]
+ },
+ {
+  "id": 866,
+  "word": "spectrum",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a broad range of related qualities or ideas that blend into one another continuously",
+    "zh": "范围；系列；光谱（连续变化的整体）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The panel represented a wide spectrum of political opinions, from far left to far right.",
+    "zh": "该小组成员代表了从极左到极右的广泛政治观点。"
+   },
+   {
+    "en": "Autism is now understood as a spectrum, with symptoms varying greatly in severity.",
+    "zh": "如今人们将自闭症理解为一种谱系障碍，症状的严重程度差异很大。"
+   },
+   {
+    "en": "A prism splits white light into the visible spectrum of colors.",
+    "zh": "棱镜将白光分解成可见光谱中的各种颜色。"
+   }
+  ]
+ },
+ {
+  "id": 867,
+  "word": "speculate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to contemplate or make an educated guess about something",
+    "zh": "推测；沉思；猜测"
+   },
+   {
+    "pos": "v.",
+    "en": "to engage in a risky financial transaction hoping for profit",
+    "zh": "投机（买卖）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Journalists began to speculate about the reasons behind the sudden resignation.",
+    "zh": "记者们开始猜测这次突然辞职背后的原因。"
+   },
+   {
+    "en": "He lost his savings after speculating heavily in volatile tech stocks.",
+    "zh": "他因大举投机于波动剧烈的科技股而损失了全部积蓄。"
+   },
+   {
+    "en": "Scientists speculate that the ancient lake dried up due to a shift in climate.",
+    "zh": "科学家推测，这个古老的湖泊是因气候变化而干涸的。"
+   }
+  ]
+ },
+ {
+  "id": 868,
+  "word": "sporadic",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "occurring occasionally, irregularly, or in scattered instances",
+    "zh": "零星的；偶发的；断断续续的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Sporadic gunfire could still be heard in the distance long after the ceasefire began.",
+    "zh": "停火协议生效很久之后，远处仍能听到零星的枪声。"
+   },
+   {
+    "en": "Her attendance at the meetings has been sporadic at best this semester.",
+    "zh": "这学期她出席会议的情况充其量只能说是断断续续的。"
+   },
+   {
+    "en": "Sporadic outbreaks of the virus continued to appear in remote villages.",
+    "zh": "偏远村庄仍不时出现零星的病毒疫情。"
+   }
+  ]
+ },
+ {
+  "id": 869,
+  "word": "sportive",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "playful, merry, done in fun rather than seriously",
+    "zh": "嬉戏的；开玩笑的；闹着玩的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The puppies engaged in sportive wrestling matches across the living room floor.",
+    "zh": "这些小狗在客厅地板上嬉戏打闹，玩起了摔跤游戏。"
+   },
+   {
+    "en": "His sportive teasing was never meant to hurt anyone's feelings.",
+    "zh": "他那些闹着玩的调侃从来无意伤害任何人的感情。"
+   },
+   {
+    "en": "The dolphins leapt about in a sportive display near the boat.",
+    "zh": "海豚在船边跳跃嬉戏，尽情玩耍。"
+   }
+  ]
+ },
+ {
+  "id": 870,
+  "word": "squalid",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "filthy and disgusting, especially from neglect or poverty",
+    "zh": "肮脏的；污秽的；破败的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The refugees were forced to live in squalid conditions with no running water.",
+    "zh": "难民们被迫生活在没有自来水的肮脏环境中。"
+   },
+   {
+    "en": "The inspector shut down the restaurant after discovering its squalid kitchen.",
+    "zh": "检查员发现这家餐厅厨房肮脏不堪后将其关闭。"
+   },
+   {
+    "en": "The novel vividly depicts the squalid slums of the nineteenth-century city.",
+    "zh": "这部小说生动地描绘了十九世纪城市中破败肮脏的贫民窟。"
+   }
+  ]
+ },
+ {
+  "id": 871,
+  "word": "squelch",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to crush or squash; to suppress or silence",
+    "zh": "压碎；镇压；压制"
+   },
+   {
+    "pos": "v.",
+    "en": "to walk through mud or wet ground, making a sucking sound",
+    "zh": "啪嗒啪嗒地走（过泥泞）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The government moved quickly to squelch any hint of dissent within the ranks.",
+    "zh": "政府迅速采取行动，压制内部任何异议的苗头。"
+   },
+   {
+    "en": "Her sarcastic comment squelched his enthusiasm for the project entirely.",
+    "zh": "她那句讽刺的话彻底浇灭了他对这个项目的热情。"
+   },
+   {
+    "en": "They squelched through the muddy field after the storm had passed.",
+    "zh": "暴风雨过后，他们踩着泥泞的田地啪嗒啪嗒地走过。"
+   }
+  ]
+ },
+ {
+  "id": 872,
+  "word": "standing",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "status, rank, or reputation",
+    "zh": "地位；名望"
+   },
+   {
+    "pos": "adj.",
+    "en": "existing on a permanent or indefinite basis; not movable",
+    "zh": "长期存在的；固定的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Her standing in the academic community grew after the publication of her landmark study.",
+    "zh": "她那项具有里程碑意义的研究发表后，她在学术界的地位大大提升。"
+   },
+   {
+    "en": "The committee has a standing rule that meetings must end by five o'clock.",
+    "zh": "委员会有一项长期规定，会议必须在五点前结束。"
+   },
+   {
+    "en": "He damaged his professional standing by leaking confidential information to the press.",
+    "zh": "他因向媒体泄露机密信息而损害了自己的职业声誉。"
+   }
+  ]
+ },
+ {
+  "id": 873,
+  "word": "stark",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "complete or utter; harsh, grim, or extremely plain and severe",
+    "zh": "完全的；荒凉的；严峻的；朴素的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The stark contrast between the two neighborhoods revealed the depth of the city's inequality.",
+    "zh": "这两个街区之间鲜明的对比揭示了这座城市不平等现象的严重程度。"
+   },
+   {
+    "en": "The documentary offered a stark portrayal of life in the war-torn region.",
+    "zh": "这部纪录片对战火纷飞地区的生活进行了严峻真实的描绘。"
+   },
+   {
+    "en": "The room was furnished in a stark, minimalist style with almost no decoration.",
+    "zh": "这个房间以一种朴素极简的风格布置，几乎没有任何装饰。"
+   }
+  ]
+ },
+ {
+  "id": 874,
+  "word": "stasis",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a state of equilibrium or inactivity, especially caused by opposing forces in balance",
+    "zh": "停滞；平衡状态；（相持导致的）静止"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The peace talks reached a stasis, with neither side willing to make further concessions.",
+    "zh": "和谈陷入僵局，双方都不愿再作进一步让步。"
+   },
+   {
+    "en": "Economists worried that the labor market had settled into a prolonged stasis.",
+    "zh": "经济学家担心劳动力市场已陷入长期停滞状态。"
+   },
+   {
+    "en": "The ecosystem exists in a delicate stasis, easily disrupted by a single invasive species.",
+    "zh": "这个生态系统处于一种脆弱的平衡状态，一种入侵物种就可能轻易将其打破。"
+   }
+  ]
+ },
+ {
+  "id": 875,
+  "word": "static",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "fixed, unchanging, or lacking vitality",
+    "zh": "静止的；停滞的；缺乏活力的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Population growth in the region has remained largely static for the past decade.",
+    "zh": "过去十年间，该地区的人口增长基本保持停滞。"
+   },
+   {
+    "en": "The company's stagnant, static culture discouraged any new or creative ideas.",
+    "zh": "公司那种一成不变、缺乏活力的文化压制了任何新颖或有创意的想法。"
+   },
+   {
+    "en": "Unlike a photograph, a painting can capture motion within a static frame.",
+    "zh": "与照片不同，绘画能在静止的画面中捕捉动感。"
+   }
+  ]
+ },
+ {
+  "id": 876,
+  "word": "status quo",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "the existing state of affairs",
+    "zh": "现状"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The new manager was determined to challenge the status quo rather than simply maintain it.",
+    "zh": "新任经理决心打破现状，而非只是维持原样。"
+   },
+   {
+    "en": "Many voters were satisfied with the status quo and saw no need for reform.",
+    "zh": "许多选民对现状感到满意，认为没有必要进行改革。"
+   },
+   {
+    "en": "Radical proposals often meet fierce resistance from those who benefit from the status quo.",
+    "zh": "激进的提案往往会遭到那些从现状中获益者的强烈抵制。"
+   }
+  ]
+ },
+ {
+  "id": 877,
+  "word": "steeped",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "thoroughly immersed in or saturated with",
+    "zh": "沉浸于……的；充满……的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The old university is steeped in centuries of tradition and academic history.",
+    "zh": "这所历史悠久的大学浸润着数百年的传统与学术历史。"
+   },
+   {
+    "en": "Having grown up steeped in classical music, she could identify a symphony within seconds.",
+    "zh": "她自幼浸润在古典音乐的氛围中，几秒钟内就能辨认出一首交响乐。"
+   },
+   {
+    "en": "The tea leaves should be steeped in hot water for at least five minutes.",
+    "zh": "茶叶应在热水中浸泡至少五分钟。"
+   }
+  ]
+ },
+ {
+  "id": 878,
+  "word": "stentorian",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "extremely loud and powerful, typically describing a voice",
+    "zh": "声如洪钟的；洪亮的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The drill sergeant's stentorian voice could be heard across the entire training field.",
+    "zh": "教官那洪亮如钟的嗓音响彻整个训练场。"
+   },
+   {
+    "en": "With a stentorian command, the coach silenced the rowdy stadium crowd.",
+    "zh": "教练一声洪亮的命令，让喧闹的体育场观众瞬间安静下来。"
+   },
+   {
+    "en": "The auctioneer's stentorian calls kept the bidding lively throughout the evening.",
+    "zh": "拍卖师洪亮的叫卖声让整晚的竞拍气氛都十分热烈。"
+   }
+  ]
+ },
+ {
+  "id": 879,
+  "word": "stigma",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a mark of disgrace; a figurative stain on someone's reputation",
+    "zh": "耻辱；污名"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Despite growing awareness, a stigma still surrounds mental illness in many communities.",
+    "zh": "尽管公众意识不断提高，精神疾病在许多社区仍带有一定的耻辱色彩。"
+   },
+   {
+    "en": "The scandal left a stigma on the company's brand that took years to overcome.",
+    "zh": "这场丑闻给公司品牌留下了污名，花了多年时间才得以消除。"
+   },
+   {
+    "en": "She refused to let the stigma of divorce define how others saw her.",
+    "zh": "她拒绝让离婚的污名左右别人对她的看法。"
+   }
+  ]
+ },
+ {
+  "id": 880,
+  "word": "stingy",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "unwilling to spend or give money; not generous",
+    "zh": "吝啬的；小气的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Despite his wealth, he was notoriously stingy, even refusing to tip waiters.",
+    "zh": "尽管他很富有，却出了名地吝啬，甚至连给服务员小费都不肯。"
+   },
+   {
+    "en": "The landlord was stingy with repairs, letting the building fall into disrepair.",
+    "zh": "房东在维修上极为吝啬，任由这栋楼日渐破败。"
+   },
+   {
+    "en": "She wasn't stingy with her praise, complimenting every team member's contribution.",
+    "zh": "她从不吝惜赞美之词，对每位团队成员的贡献都给予了肯定。"
+   }
+  ]
+ },
+ {
+  "id": 881,
+  "word": "stint",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a fixed period of time spent doing something, or a limited amount of assigned work",
+    "zh": "（一段）工作期；定额工作"
+   },
+   {
+    "pos": "v.",
+    "en": "to be frugal with; to get by on very little",
+    "zh": "节省；吝惜"
+   }
+  ],
+  "examples": [
+   {
+    "en": "She completed a two-year stint as a foreign correspondent before returning home.",
+    "zh": "她在担任驻外记者两年后回国了。"
+   },
+   {
+    "en": "He never stinted on quality, even when the budget was tight.",
+    "zh": "即使预算紧张，他也从不在品质上吝惜投入。"
+   },
+   {
+    "en": "During his brief stint at the startup, he learned more than in years at his old job.",
+    "zh": "在这家初创公司短暂任职期间，他学到的东西比之前在老公司干了多年还要多。"
+   }
+  ]
+ },
+ {
+  "id": 882,
+  "word": "stipulate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to specify as a condition of an agreement; to demand explicitly",
+    "zh": "规定；明确要求（作为协议条件）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The contract stipulates that payment must be made within thirty days of delivery.",
+    "zh": "合同规定，货款须在交货后三十天内付清。"
+   },
+   {
+    "en": "Her will stipulated that the estate be divided equally among her three children.",
+    "zh": "她的遗嘱规定，遗产应在三个子女之间平均分配。"
+   },
+   {
+    "en": "The union stipulated a minimum wage increase before agreeing to end the strike.",
+    "zh": "工会要求先提高最低工资，才同意结束罢工。"
+   }
+  ]
+ },
+ {
+  "id": 883,
+  "word": "stoic or stoical",
+  "senses": [
+   {
+    "pos": "adj./n.",
+    "en": "indifferent to pleasure or pain; enduring hardship without complaint (adjective); a person who does so (noun)",
+    "zh": "坚忍的；不为苦乐所动的（形容词）；坚忍克己的人（名词）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "She remained stoic throughout the surgery, never once complaining of the pain.",
+    "zh": "整个手术过程中她始终坚忍克制，从未抱怨过疼痛。"
+   },
+   {
+    "en": "Like a true stoic, he accepted the loss of his job without a trace of bitterness.",
+    "zh": "他像真正的斯多葛式坚忍者一样，毫无怨言地接受了失业的事实。"
+   },
+   {
+    "en": "The soldiers marched on with stoical endurance despite the freezing conditions.",
+    "zh": "尽管天气严寒，士兵们仍以坚忍不拔的毅力继续行军。"
+   }
+  ]
+ },
+ {
+  "id": 884,
+  "word": "stolid",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "showing little emotion; not easily excited or moved",
+    "zh": "不动感情的；麻木迟钝的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "His stolid expression gave no hint of the anxiety he felt inside.",
+    "zh": "他那毫无表情的脸上丝毫看不出内心的焦虑。"
+   },
+   {
+    "en": "The stolid farmer accepted the drought's damage with a shrug and got back to work.",
+    "zh": "这位沉着冷静的农民耸耸肩接受了干旱造成的损失，然后又重新投入劳作。"
+   },
+   {
+    "en": "Even the most shocking testimony failed to shake the judge's stolid demeanor.",
+    "zh": "即便是最令人震惊的证词，也未能撼动法官那波澜不惊的神情。"
+   }
+  ]
+ },
+ {
+  "id": 885,
+  "word": "stratagem",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a military maneuver meant to deceive or surprise the enemy; a crafty scheme",
+    "zh": "计谋；策略；诡计"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The general devised a clever stratagem to lure the enemy into an ambush.",
+    "zh": "这位将军设计了一条巧妙的计谋，引诱敌军进入埋伏圈。"
+   },
+   {
+    "en": "Her business rival's stratagem involved secretly poaching key employees.",
+    "zh": "她商业对手的策略是暗中挖走关键员工。"
+   },
+   {
+    "en": "The negotiators suspected a stratagem behind the sudden, generous offer.",
+    "zh": "谈判者怀疑这个突如其来的慷慨提议背后藏有诡计。"
+   }
+  ]
+ },
+ {
+  "id": 886,
+  "word": "stratum",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "one of a series of layers, as in rock formations or the classes of a society",
+    "zh": "（岩层、社会等的）层，阶层"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Geologists identified a distinct stratum of volcanic ash dating back thousands of years.",
+    "zh": "地质学家发现了一层可追溯至数千年前的独特火山灰层。"
+   },
+   {
+    "en": "The novel explores life across every stratum of society, from the wealthy elite to the poorest laborers.",
+    "zh": "这部小说描绘了社会各个阶层的生活，从富裕精英到最贫困的劳工。"
+   },
+   {
+    "en": "Each stratum of the canyon wall reveals a different chapter of the region's geological history.",
+    "zh": "峡谷岩壁的每一层岩层都揭示了该地区地质历史的不同篇章。"
+   }
+  ]
+ },
+ {
+  "id": 887,
+  "word": "strut",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a structural support or brace",
+    "zh": "支柱；支撑杆"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Engineers added a diagonal strut to reinforce the bridge's weakened frame.",
+    "zh": "工程师们加装了一根斜向支柱，以加固桥梁已经削弱的结构框架。"
+   },
+   {
+    "en": "One of the wing struts on the old biplane had begun to rust.",
+    "zh": "这架老式双翼飞机的一根机翼支柱开始生锈了。"
+   },
+   {
+    "en": "The tent collapsed after one of its aluminum struts snapped in the wind.",
+    "zh": "大风中一根铝制支柱折断后，帐篷随即坍塌。"
+   }
+  ]
+ },
+ {
+  "id": 888,
+  "word": "stymie",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to block, hinder, or thwart",
+    "zh": "阻碍；妨碍；使受挫"
+   },
+   {
+    "pos": "n.",
+    "en": "an obstacle",
+    "zh": "障碍"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Heavy bureaucracy stymied the nonprofit's efforts to deliver aid quickly.",
+    "zh": "繁琐的官僚程序阻碍了这家非营利组织快速提供援助的努力。"
+   },
+   {
+    "en": "The investigation was stymied by a lack of physical evidence at the scene.",
+    "zh": "由于现场缺乏物证，调查一度陷入僵局。"
+   },
+   {
+    "en": "Funding shortages proved to be a major stymie to the research team's progress.",
+    "zh": "资金短缺成为研究团队取得进展的一大障碍。"
+   }
+  ]
+ },
+ {
+  "id": 889,
+  "word": "subjective",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "existing in the mind; relating to one's own thoughts, opinions, or feelings rather than objective facts",
+    "zh": "主观的；个人的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Taste in art is inherently subjective, varying widely from one viewer to another.",
+    "zh": "对艺术的品味本质上是主观的，不同观者之间差异很大。"
+   },
+   {
+    "en": "The judges tried to minimize subjective bias by using a detailed scoring rubric.",
+    "zh": "评委们试图通过使用详细的评分标准来减少主观偏见。"
+   },
+   {
+    "en": "Her review was highly subjective, reflecting personal taste more than objective critique.",
+    "zh": "她的评论带有强烈的主观色彩，更多反映的是个人喜好而非客观评价。"
+   }
+  ]
+ },
+ {
+  "id": 890,
+  "word": "sublime",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "lofty or elevated, inspiring awe or reverence; supremely excellent or majestic; also, complete or utter",
+    "zh": "崇高的；壮丽的；极好的；（用于强调）彻底的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Standing before the sublime peaks of the Himalayas left the climbers speechless.",
+    "zh": "站在喜马拉雅山那崇高壮丽的群峰前，登山者们一时说不出话来。"
+   },
+   {
+    "en": "The soprano's sublime performance earned a ten-minute standing ovation.",
+    "zh": "这位女高音歌唱家近乎完美的演出赢得了长达十分钟的起立喝彩。"
+   },
+   {
+    "en": "His indifference to the deadline bordered on sublime confidence, or perhaps sheer recklessness.",
+    "zh": "他对截止日期的满不在乎近乎一种极致的自信，又或许只是纯粹的鲁莽。"
+   }
+  ]
+ },
+ {
+  "id": 891,
+  "word": "subpoena",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a court order requiring a person to appear and give testimony",
+    "zh": "传票（要求出庭作证）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The witness received a subpoena ordering her to testify before the grand jury.",
+    "zh": "这名证人收到了一份传票，要求她到大陪审团面前作证。"
+   },
+   {
+    "en": "Lawyers issued a subpoena for the company's internal emails related to the case.",
+    "zh": "律师们发出传票，要求提供与该案相关的公司内部邮件。"
+   },
+   {
+    "en": "He tried to avoid the process server delivering the subpoena for weeks.",
+    "zh": "他好几个星期都在设法躲避送达传票的法警。"
+   }
+  ]
+ },
+ {
+  "id": 892,
+  "word": "subside",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to sink or settle down; to become less active or intense; to return to a normal level",
+    "zh": "平息；下沉；减弱；恢复正常水平"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The floodwaters slowly subsided after three days of continuous rain finally stopped.",
+    "zh": "连续三天的降雨终于停止后，洪水慢慢消退了。"
+   },
+   {
+    "en": "Her anger began to subside once she understood the misunderstanding.",
+    "zh": "一旦她明白了这是一场误会，她的怒气便渐渐平息下来。"
+   },
+   {
+    "en": "The doctor assured them that the swelling would subside within a few days.",
+    "zh": "医生向他们保证，肿胀会在几天内消退。"
+   }
+  ]
+ },
+ {
+  "id": 893,
+  "word": "substantiate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to support with evidence or proof; to give material or concrete existence to",
+    "zh": "证实；证明；使具体化"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The prosecution failed to substantiate its claims with credible witnesses.",
+    "zh": "检方未能提供可信的证人来证实其指控。"
+   },
+   {
+    "en": "Further research is needed to substantiate the theory linking the two phenomena.",
+    "zh": "需要进一步的研究来证实这两种现象之间存在关联的理论。"
+   },
+   {
+    "en": "He could not substantiate his alibi, which only deepened the detective's suspicion.",
+    "zh": "他无法证实自己的不在场证明，这只会加深侦探的怀疑。"
+   }
+  ]
+ },
+ {
+  "id": 894,
+  "word": "succeeding",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "coming after or following",
+    "zh": "随后的；接下来的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Each succeeding generation of the device was smaller and more powerful than the last.",
+    "zh": "这款设备的每一代产品都比前一代更小巧、更强大。"
+   },
+   {
+    "en": "The first chapter sets up the mystery that unravels over the succeeding pages.",
+    "zh": "第一章埋下了悬念，随后的篇幅逐步揭开谜底。"
+   },
+   {
+    "en": "In the succeeding months, sales figures steadily climbed.",
+    "zh": "在接下来的几个月里，销售数字稳步攀升。"
+   }
+  ]
+ },
+ {
+  "id": 895,
+  "word": "sully",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to make dirty; to stain, tarnish, or defile (often figuratively, as a reputation)",
+    "zh": "玷污；败坏；损害（名誉等）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The corruption scandal sullied the reputation of an otherwise respected institution.",
+    "zh": "这起腐败丑闻玷污了这家原本备受尊敬的机构的声誉。"
+   },
+   {
+    "en": "He refused to let a single mistake sully his years of dedicated service.",
+    "zh": "他不愿让一次失误玷污自己多年来兢兢业业的付出。"
+   },
+   {
+    "en": "The pristine snow was quickly sullied by footprints and litter.",
+    "zh": "洁白的雪地很快就被脚印和垃圾弄脏了。"
+   }
+  ]
+ },
+ {
+  "id": 896,
+  "word": "supersede",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to replace or take the place of, especially by rendering the former thing obsolete",
+    "zh": "取代；替代（使原有的作废、过时）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The new safety regulations supersede all previous guidelines issued by the agency.",
+    "zh": "新的安全法规取代了该机构此前发布的所有指导方针。"
+   },
+   {
+    "en": "Digital cameras quickly superseded film in the commercial photography industry.",
+    "zh": "数码相机迅速取代了商业摄影行业中的胶片相机。"
+   },
+   {
+    "en": "This updated contract supersedes any prior agreements between the two parties.",
+    "zh": "这份更新后的合同取代了双方此前达成的任何协议。"
+   }
+  ]
+ },
+ {
+  "id": 897,
+  "word": "supplant",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to take the place of or displace, especially through underhanded means",
+    "zh": "篡夺；（用不正当手段）取代"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The ambitious deputy schemed for years to supplant his boss as head of the department.",
+    "zh": "这位野心勃勃的副手多年来一直在谋划，想取代上司成为部门主管。"
+   },
+   {
+    "en": "Synthetic fibers have largely supplanted wool in many types of outdoor clothing.",
+    "zh": "合成纤维在许多户外服装中已在很大程度上取代了羊毛。"
+   },
+   {
+    "en": "He was quietly supplanted by a younger rival before he even realized what was happening.",
+    "zh": "他还没意识到发生了什么，就已经被一个更年轻的对手悄然取代了。"
+   }
+  ]
+ },
+ {
+  "id": 898,
+  "word": "supplicate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to pray humbly; to ask, beg, or seek something in a humble manner",
+    "zh": "恳求；祈求；卑微地请求"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The pilgrims knelt to supplicate before the ancient shrine.",
+    "zh": "朝圣者们跪在古老的神龛前虔诚祈祷。"
+   },
+   {
+    "en": "He was forced to supplicate before the court for leniency after his conviction.",
+    "zh": "定罪之后，他被迫向法庭卑微地请求从轻发落。"
+   },
+   {
+    "en": "In the hymn, the congregation supplicates for peace and forgiveness.",
+    "zh": "在这首赞美诗中，会众祈求和平与宽恕。"
+   }
+  ]
+ },
+ {
+  "id": 899,
+  "word": "supposition",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "an assumption or hypothesis; something that has been supposed",
+    "zh": "假设；推测"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The entire theory rested on the supposition that the ancient trade routes remained unchanged for centuries.",
+    "zh": "整个理论都建立在一个假设之上，即这些古代贸易路线数百年间未曾改变。"
+   },
+   {
+    "en": "Her supposition proved correct once the lab results came back.",
+    "zh": "实验室结果出来后，证实了她的推测是正确的。"
+   },
+   {
+    "en": "It would be a dangerous supposition to assume the market will keep rising indefinitely.",
+    "zh": "假设市场会无限期持续上涨，这将是一个危险的推测。"
+   }
+  ]
+ },
+ {
+  "id": 900,
+  "word": "surfeit",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "an excessive amount; overindulgence",
+    "zh": "过量；过度；（尤指饮食的）过多"
+   }
+  ],
+  "examples": [
+   {
+    "en": "A surfeit of rich food at the banquet left many guests feeling ill.",
+    "zh": "宴会上过量的丰盛美食让不少宾客感到不适。"
+   },
+   {
+    "en": "The market suffered from a surfeit of similar products, driving prices down.",
+    "zh": "市场上同类产品供过于求，导致价格下跌。"
+   },
+   {
+    "en": "Despite a surfeit of advice, she still felt unsure about which path to choose.",
+    "zh": "尽管得到了过多的建议，她仍然不确定该选择哪条路。"
+   }
+  ]
+ }
+]

@@ -1,0 +1,2152 @@
+[
+  {
+    "id": 301,
+    "word": "emulate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to copy someone or something in an attempt to equal or surpass it",
+        "zh": "效仿；仿效（以求超越）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The young violinist tried to emulate her idol's flawless technique.",
+        "zh": "这位年轻的小提琴手努力效仿她偶像的完美技巧。"
+      },
+      {
+        "en": "Many startups emulate the management style of successful tech giants.",
+        "zh": "许多初创公司都效仿成功科技巨头的管理方式。"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "word": "encomium",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "warm, glowing praise, especially a formal expression of praise",
+        "zh": "（正式的）颂词；赞词"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The retiring professor was honored with an encomium from his former students.",
+        "zh": "这位退休教授收到了昔日学生们献上的颂词。"
+      },
+      {
+        "en": "Critics offered nothing but encomiums for the director's latest film.",
+        "zh": "评论家们对这位导演的新片只有满口的赞誉。"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "word": "endemic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "native to, or confined to, a particular place or group",
+        "zh": "（某地或某群体）特有的；地方性的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The lemur is a species endemic to Madagascar.",
+        "zh": "狐猴是马达加斯加特有的物种。"
+      },
+      {
+        "en": "Corruption had become endemic within the agency long before the scandal broke.",
+        "zh": "早在丑闻爆发之前，腐败就已经在该机构内根深蒂固。"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "word": "enervate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to weaken or tire someone",
+        "zh": "使衰弱；使疲惫"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The stifling humidity enervated the hikers long before they reached the summit.",
+        "zh": "闷热潮湿的天气还没等徒步者到达山顶就已使他们疲惫不堪。"
+      },
+      {
+        "en": "Years of chronic illness had enervated her once-boundless energy.",
+        "zh": "多年的慢性病消磨了她曾经旺盛的精力。"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "word": "engender",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to produce, give rise to, or cause something to exist",
+        "zh": "产生；引起；造成"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The CEO's candid apology engendered a renewed sense of trust among employees.",
+        "zh": "首席执行官的坦诚道歉在员工中重新建立起了信任感。"
+      },
+      {
+        "en": "Prolonged drought can engender fierce competition for scarce resources.",
+        "zh": "长期干旱可能引发对稀缺资源的激烈争夺。"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "word": "enhance",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to raise something to a higher value, desirability, or quality",
+        "zh": "提高；增强；使更完美"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A dash of saffron can enhance the flavor of an ordinary rice dish.",
+        "zh": "一撮藏红花就能提升普通米饭菜肴的风味。"
+      },
+      {
+        "en": "The museum's new lighting greatly enhances the visitor's experience of the paintings.",
+        "zh": "博物馆的新照明大大提升了参观者欣赏画作的体验。"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "word": "enigma",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a puzzle or mystery; also a mysterious or contradictory person",
+        "zh": "谜；难解之谜；令人费解的人"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The sudden disappearance of the ship remains an enigma to this day.",
+        "zh": "那艘船的突然失踪至今仍是一个谜。"
+      },
+      {
+        "en": "Reclusive and rarely photographed, the novelist was an enigma to the public.",
+        "zh": "这位深居简出、极少露面的小说家在公众眼中是个谜一样的人物。"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "word": "entitlement",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the fact of having a right to certain privileges",
+        "zh": "（应得的）权利；福利资格"
+      },
+      {
+        "pos": "n.",
+        "en": "the belief, sometimes unjustified, that one deserves special privileges",
+        "zh": "特权意识；自认应得的心态"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Retirees rely on the entitlements guaranteed by the pension system.",
+        "zh": "退休人员依赖养老金制度所保障的福利权利。"
+      },
+      {
+        "en": "His sense of entitlement made him assume the promotion was already his.",
+        "zh": "他那种理所应得的心态让他以为晋升已是囊中之物。"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "word": "enumerate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to count or list items one by one",
+        "zh": "列举；枚举；一一列出"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The contract enumerates each party's responsibilities in painstaking detail.",
+        "zh": "合同中详细地一一列出了双方的责任。"
+      },
+      {
+        "en": "She enumerated three reasons why the proposal should be rejected.",
+        "zh": "她列举了三条理由说明为何应该否决该提案。"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "word": "ephemeral",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "lasting only a short time, fleeting",
+        "zh": "短暂的；朝生暮死的；转瞬即逝的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Cherry blossoms are prized precisely because their beauty is so ephemeral.",
+        "zh": "樱花之所以珍贵，正因为它的美如此短暂。"
+      },
+      {
+        "en": "Internet fame can be remarkably ephemeral, vanishing within a matter of weeks.",
+        "zh": "网络名气往往极为短暂，可能在几周内就销声匿迹。"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "word": "epicure",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a person with cultivated, refined tastes, especially in food and wine",
+        "zh": "美食家；讲究饮食享受的人"
+      }
+    ],
+    "examples": [
+      {
+        "en": "An epicure at heart, he could identify a wine's vintage by scent alone.",
+        "zh": "他是个骨子里的美食家，仅凭香气就能辨出葡萄酒的年份。"
+      },
+      {
+        "en": "The restaurant's tasting menu was designed to delight even the most discerning epicure.",
+        "zh": "这家餐厅的品鉴菜单即便对最挑剔的美食家也颇具吸引力。"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "word": "equanimity",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "composure and evenness of mind, especially under stress",
+        "zh": "镇定；沉着；泰然自若"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Despite the chaos backstage, the conductor faced the performance with equanimity.",
+        "zh": "尽管后台一片混乱，指挥家仍泰然自若地面对演出。"
+      },
+      {
+        "en": "She received the harsh criticism with surprising equanimity.",
+        "zh": "面对严厉的批评，她表现出令人惊讶的镇定。"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "word": "equitable",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "fair, equal, and just",
+        "zh": "公平的；公正的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The mediator sought an equitable division of the couple's assets.",
+        "zh": "调解员寻求对这对夫妇的财产进行公平分配。"
+      },
+      {
+        "en": "Advocates called for a more equitable distribution of vaccines worldwide.",
+        "zh": "倡导者呼吁在全球范围内更公平地分配疫苗。"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "word": "equivocate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to use unclear language to deceive or avoid committing to a position",
+        "zh": "含糊其辞；支吾搪塞；模棱两可地回避"
+      }
+    ],
+    "examples": [
+      {
+        "en": "When asked about the layoffs, the spokesperson equivocated rather than giving a direct answer.",
+        "zh": "被问及裁员一事时，发言人含糊其辞，没有给出直接回答。"
+      },
+      {
+        "en": "The witness equivocated on the stand, unwilling to name names.",
+        "zh": "证人在庭上模棱两可，不愿指名道姓。"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "word": "erratic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "inconsistent, wandering, having no fixed course",
+        "zh": "不稳定的；反复无常的；不规则的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The patient's erratic heartbeat alarmed the attending nurses.",
+        "zh": "病人不规则的心跳让值班护士十分担心。"
+      },
+      {
+        "en": "His erratic behavior in recent weeks worried his closest friends.",
+        "zh": "他最近几周反复无常的行为让最亲近的朋友们感到担忧。"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "word": "erroneous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "mistaken, containing error; also improper or morally incorrect",
+        "zh": "错误的；不正确的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The report was based on erroneous data collected during a faulty survey.",
+        "zh": "该报告基于一次有缺陷的调查中收集到的错误数据。"
+      },
+      {
+        "en": "It is erroneous to assume that correlation always implies causation.",
+        "zh": "认为相关性总是意味着因果关系，这种想法是错误的。"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "word": "ersatz",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "artificial or synthetic; an inferior substitute",
+        "zh": "人造的；代用的；劣质仿制的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "During the shortage, shoppers made do with ersatz coffee brewed from chicory root.",
+        "zh": "物资短缺期间，购物者只能用菊苣根冲泡的代用咖啡将就。"
+      },
+      {
+        "en": "The film's ersatz sentimentality failed to move the critics.",
+        "zh": "这部电影那种矫揉造作的感伤并未打动评论家。"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "word": "erstwhile",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "former, previous",
+        "zh": "以前的；从前的"
+      },
+      {
+        "pos": "adv.",
+        "en": "in the past, formerly",
+        "zh": "从前；曾经"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her erstwhile business partner now runs a rival company.",
+        "zh": "她昔日的商业伙伴如今经营着一家竞争对手公司。"
+      },
+      {
+        "en": "Erstwhile allies, the two nations now regard each other with suspicion.",
+        "zh": "这两个国家曾经是盟友，如今却相互猜忌。"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "word": "erudite",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "scholarly, possessing deep and often systematic knowledge",
+        "zh": "博学的；学识渊博的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The erudite professor could discuss medieval history as fluently as quantum physics.",
+        "zh": "这位博学的教授谈论中世纪历史与量子物理同样得心应手。"
+      },
+      {
+        "en": "Her erudite footnotes revealed years of painstaking archival research.",
+        "zh": "她那些学识渊博的脚注展现出多年细致入微的档案研究。"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "word": "eschew",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to shun, avoid, or abstain from something",
+        "zh": "回避；避免；戒绝"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The monastery's residents eschew all forms of luxury.",
+        "zh": "修道院的住客戒绝一切形式的奢华享受。"
+      },
+      {
+        "en": "The new CEO eschewed corporate jargon in favor of plain, direct language.",
+        "zh": "新任首席执行官摒弃了商业术语，选择使用平实直接的语言。"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "word": "esoteric",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "understood by or intended for only a select few; secret",
+        "zh": "深奥难懂的；只有少数人理解的；秘传的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The seminar delved into esoteric aspects of number theory few undergraduates ever encounter.",
+        "zh": "这场研讨会深入探讨了本科生鲜少接触的深奥数论问题。"
+      },
+      {
+        "en": "His hobby of collecting esoteric medieval manuscripts baffled his friends.",
+        "zh": "他收集晦涩难懂的中世纪手稿的爱好让朋友们大惑不解。"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "word": "estimable",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "worthy of esteem, admirable",
+        "zh": "值得敬重的；可敬的"
+      },
+      {
+        "pos": "adj.",
+        "en": "able to be estimated",
+        "zh": "可估量的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The judge was known throughout the district for her estimable integrity.",
+        "zh": "这位法官因其可敬的正直品格而闻名全区。"
+      },
+      {
+        "en": "The damage from the flood was not easily estimable given its scale.",
+        "zh": "由于洪水规模巨大，损失难以轻易估量。"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "word": "ethos",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the character, personality, or moral values distinctive to a person, group, or era",
+        "zh": "精神气质；风气；价值观"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The company's ethos emphasizes collaboration over individual competition.",
+        "zh": "该公司的企业精神强调协作而非个人竞争。"
+      },
+      {
+        "en": "The novel captures the restless ethos of the 1960s counterculture.",
+        "zh": "这部小说捕捉到了20世纪60年代反主流文化那种不安分的精神气质。"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "word": "eulogy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a speech or written work of praise, especially one given at a funeral",
+        "zh": "颂词；悼词"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His daughter delivered a moving eulogy at the memorial service.",
+        "zh": "他的女儿在追悼会上致了一段感人的悼词。"
+      },
+      {
+        "en": "The eulogy recounted the professor's decades of quiet generosity toward his students.",
+        "zh": "这篇悼词回顾了这位教授数十年来对学生默默的慷慨相助。"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "word": "euphemism",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a mild or indirect expression substituted for one considered offensive or too blunt",
+        "zh": "委婉语；婉辞"
+      }
+    ],
+    "examples": [
+      {
+        "en": "\"Passed away\" is a common euphemism for \"died.\"",
+        "zh": "“去世”是“死”的常见委婉说法。"
+      },
+      {
+        "en": "The company used the euphemism \"restructuring\" to describe mass layoffs.",
+        "zh": "公司用“重组”这一委婉说法来描述大规模裁员。"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "word": "euphony",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a pleasing or sweet sound, especially from a harmonious arrangement of words",
+        "zh": "悦耳；和谐悦耳的声音（尤指语言的音韵美）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The poet chose each word carefully to achieve a sense of euphony.",
+        "zh": "诗人精心挑选每一个词，以营造出悦耳的音韵效果。"
+      },
+      {
+        "en": "The euphony of the string quartet filled the small concert hall.",
+        "zh": "弦乐四重奏悦耳的乐声充满了这间小音乐厅。"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "word": "exacerbate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to make something worse, more violent, or more severe; to irritate a person",
+        "zh": "使恶化；加剧；激怒"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Skipping physical therapy sessions only exacerbated his knee injury.",
+        "zh": "不去做物理治疗只会使他的膝伤更加恶化。"
+      },
+      {
+        "en": "The drought exacerbated an already dire food shortage.",
+        "zh": "干旱使本已严重的粮食短缺问题雪上加霜。"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "word": "exacting",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "very severe in making demands; requiring precise attention",
+        "zh": "苛刻的；严格要求的；一丝不苟的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The exacting chef demanded that every plate be plated with millimeter precision.",
+        "zh": "这位要求苛刻的主厨要求每道菜的摆盘都要精确到毫米。"
+      },
+      {
+        "en": "Restoring the antique clock required exacting attention to its tiny gears.",
+        "zh": "修复这座古董钟需要对其细小的齿轮给予一丝不苟的关注。"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "word": "exculpate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to clear someone from guilt or blame",
+        "zh": "开脱；证明无罪；免罪"
+      }
+    ],
+    "examples": [
+      {
+        "en": "New DNA evidence ultimately exculpated the man after twenty years in prison.",
+        "zh": "新的DNA证据最终为这名服刑二十年的男子洗清了罪名。"
+      },
+      {
+        "en": "The internal review exculpated the manager of any wrongdoing.",
+        "zh": "内部审查证明该经理并无任何不当行为。"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "word": "exhaustive",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "comprehensive and thorough, covering all possibilities; also draining, tending to exhaust",
+        "zh": "详尽的；彻底的；无遗漏的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The detective conducted an exhaustive search of the crime scene.",
+        "zh": "侦探对犯罪现场进行了一次详尽的搜查。"
+      },
+      {
+        "en": "Her exhaustive study of the archive took nearly a decade to complete.",
+        "zh": "她对这批档案的详尽研究耗费了近十年才完成。"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "word": "exigent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "requiring immediate attention or action; excessively demanding",
+        "zh": "紧急的；急迫的；苛求的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The hospital treated the exigent case ahead of scheduled appointments.",
+        "zh": "医院优先处理了这个紧急病例，将其排在预约患者之前。"
+      },
+      {
+        "en": "Exigent circumstances forced the crew to abandon the flight plan.",
+        "zh": "紧急情况迫使机组人员放弃了原定的飞行计划。"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "word": "exonerate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to clear from blame or accusation; to free from a responsibility",
+        "zh": "免除（罪责）；宣告无罪"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The commission's report exonerated the officer of any misconduct.",
+        "zh": "委员会的报告宣告该警官并无任何不当行为。"
+      },
+      {
+        "en": "A confession from the true culprit finally exonerated the wrongly accused man.",
+        "zh": "真正罪犯的坦白最终为这名被冤枉的男子洗清了罪名。"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "word": "expedient",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "suitable and effective, often at the expense of ethics or other considerations",
+        "zh": "权宜的；图方便的；（有时不顾道德的）有效的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Bribing the official seemed expedient, though it was clearly unethical.",
+        "zh": "贿赂官员看似权宜之计，尽管这显然有悖道德。"
+      },
+      {
+        "en": "The manager chose the most expedient solution rather than the most thorough one.",
+        "zh": "经理选择了最省事的方案，而非最彻底的方案。"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "word": "explicit",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "direct, clear, and fully stated; also clearly depicting sex or nudity",
+        "zh": "明确的；清楚说明的；（内容）露骨的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The instructions were explicit enough that no one misunderstood the assembly steps.",
+        "zh": "说明写得十分明确，没有人误解组装步骤。"
+      },
+      {
+        "en": "The film received a restricted rating for its explicit content.",
+        "zh": "这部电影因内容露骨而被评为限制级。"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "word": "exponent",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a person who expounds or explains something; a champion or advocate of a cause",
+        "zh": "阐释者；倡导者；代表人物"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She is widely regarded as a leading exponent of minimalist architecture.",
+        "zh": "她被公认为极简主义建筑的重要代表人物之一。"
+      },
+      {
+        "en": "As an exponent of free-market policies, he opposed most government subsidies.",
+        "zh": "作为自由市场政策的倡导者，他反对大多数政府补贴。"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "word": "expurgate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to censor, removing objectionable or offensive parts",
+        "zh": "删除（不雅内容）；删节；净化（文本）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The school library kept only an expurgated version of the classic novel.",
+        "zh": "学校图书馆只保留了这部经典小说的删节版。"
+      },
+      {
+        "en": "Editors expurgated several passages before the memoir went to print.",
+        "zh": "编辑在这本回忆录付印前删去了几段内容。"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "word": "extemporaneous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "done without preparation, or with preparation but no notes; improvised",
+        "zh": "即兴的；即席的；未经准备（或不看讲稿）的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His extemporaneous remarks at the wedding were funnier than any prepared toast.",
+        "zh": "他在婚礼上的即兴致辞比任何事先准备的祝酒词都更有趣。"
+      },
+      {
+        "en": "The debate team practiced extemporaneous speaking every week.",
+        "zh": "辩论队每周都会练习即兴演讲。"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "word": "extraneous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "irrelevant; coming from without, not belonging",
+        "zh": "无关紧要的；外来的；非本质的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The editor cut every extraneous detail that did not advance the plot.",
+        "zh": "编辑删去了所有无助于推动情节发展的多余细节。"
+      },
+      {
+        "en": "Extraneous noise from the street interfered with the recording session.",
+        "zh": "街上传来的无关噪音干扰了录音过程。"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "word": "extrapolate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to conjecture about the unknown by projecting information from what is known",
+        "zh": "推断；推知；（依据已知情况）外推"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Economists extrapolated future growth rates from the previous decade's data.",
+        "zh": "经济学家根据前十年的数据推断未来的增长率。"
+      },
+      {
+        "en": "It is risky to extrapolate a person's entire character from a single encounter.",
+        "zh": "仅凭一次接触就推断一个人的全部性格是有风险的。"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "word": "facetious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "joking or humorous, especially inappropriately; not serious",
+        "zh": "轻浮的；爱开玩笑的（常不合时宜）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His facetious comments during the funeral offended several relatives.",
+        "zh": "他在葬礼上轻浮的玩笑冒犯了几位亲属。"
+      },
+      {
+        "en": "She wasn't being serious; her suggestion to skip the exam was merely facetious.",
+        "zh": "她并非当真；她提议跳过考试只是句玩笑话。"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "word": "facilitate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to make something easier, to help the progress of",
+        "zh": "促进；使便利；助长"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The new software facilitates communication between remote teams.",
+        "zh": "这款新软件促进了远程团队之间的沟通。"
+      },
+      {
+        "en": "A shared vocabulary can facilitate collaboration among scientists from different fields.",
+        "zh": "共同的术语体系能促进不同领域科学家之间的合作。"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "word": "faction",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a group or clique within a larger organization; also party strife and dissension",
+        "zh": "派系；小集团；内讧"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A rebel faction broke away from the main political party.",
+        "zh": "一个反叛派系从主要政党中分裂出来。"
+      },
+      {
+        "en": "Constant faction within the committee made reaching consensus nearly impossible.",
+        "zh": "委员会内部持续的派系纷争使达成共识几乎不可能。"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "word": "fallacious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "containing a mistake in logic, logically unsound; deceptive",
+        "zh": "谬误的；似是而非的；欺骗性的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The lawyer exposed the fallacious reasoning behind the opposing argument.",
+        "zh": "律师揭露了对方论点背后的逻辑谬误。"
+      },
+      {
+        "en": "It is fallacious to assume that a larger budget always guarantees success.",
+        "zh": "认为预算越大就一定成功，这种想法是站不住脚的。"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "word": "fallow",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "left unplanted, of land; not in use",
+        "zh": "（土地）休耕的；闲置的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Farmers let the field lie fallow for a season to restore its nutrients.",
+        "zh": "农民让这块地休耕一季，以恢复土壤养分。"
+      },
+      {
+        "en": "After his acclaimed debut, the novelist entered a fallow period of ten years.",
+        "zh": "在广受赞誉的处女作之后，这位小说家进入了长达十年的创作空白期。"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "word": "fanatical",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "excessively devoted or enthusiastic in an uncritical way",
+        "zh": "狂热的；盲目热衷的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He is fanatical about his morning running routine, never missing a single day.",
+        "zh": "他对晨跑近乎狂热，一天都不曾落下。"
+      },
+      {
+        "en": "The team's fanatical fans traveled thousands of miles to attend the final match.",
+        "zh": "该队狂热的球迷们跋涉数千英里去观看决赛。"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "word": "fanciful",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "whimsical or imaginary; freely imaginative rather than based on reason or reality",
+        "zh": "异想天开的；幻想的；不切实际的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The children's book is filled with fanciful creatures and floating islands.",
+        "zh": "这本童书里充满了异想天开的生物和漂浮的岛屿。"
+      },
+      {
+        "en": "Critics dismissed his business plan as fanciful and impractical.",
+        "zh": "评论家们认为他的商业计划不切实际、异想天开，予以否定。"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "word": "fastidious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "excessively particular and difficult to please; meticulous, requiring careful attention to detail",
+        "zh": "吹毛求疵的；一丝不苟的；过分讲究的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The fastidious editor rejected the manuscript over a single misplaced comma.",
+        "zh": "这位吹毛求疵的编辑仅因一个逗号用错位置就退回了稿件。"
+      },
+      {
+        "en": "He is famously fastidious about the arrangement of his bookshelves.",
+        "zh": "他对书架的摆放极其讲究，这一点是出了名的。"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "word": "fathom",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to measure the depth of water; also to penetrate and understand the meaning of something",
+        "zh": "测（水）深；理解；领悟"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Sailors once used a weighted line to fathom the depth of coastal waters.",
+        "zh": "过去水手们用带重物的绳子来测量近海水域的深度。"
+      },
+      {
+        "en": "I could not fathom why she suddenly resigned from such a prestigious position.",
+        "zh": "我无法理解她为何突然辞去了这样一份令人艳羡的职位。"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "word": "fatuous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "foolish or silly, especially in a smug or complacent manner",
+        "zh": "愚蠢自满的；蠢笨的；自鸣得意的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His fatuous remarks about the crisis revealed how little he understood the situation.",
+        "zh": "他对这场危机的愚蠢自满言论暴露出他对局势的无知。"
+      },
+      {
+        "en": "She rolled her eyes at his fatuous grin as he boasted about his \"genius\" idea.",
+        "zh": "看到他吹嘘自己“天才”想法时那副自鸣得意的傻笑，她翻了个白眼。"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "word": "fawn",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to show exaggerated affection or try to win favor through flattery and submissive behavior",
+        "zh": "讨好；谄媚；奉承"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The interns fawned over the visiting executive, hoping to impress him.",
+        "zh": "实习生们对来访的高管百般讨好，希望给他留下好印象。"
+      },
+      {
+        "en": "The dog fawned over its owner the moment she walked through the door.",
+        "zh": "狗一见主人进门就摇尾乞怜地围着她转。"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "word": "feasible",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "possible, likely, or suitable; capable of being done",
+        "zh": "可行的；行得通的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Engineers determined that the bridge design was structurally feasible.",
+        "zh": "工程师们确定这座桥的设计在结构上是可行的。"
+      },
+      {
+        "en": "It is not economically feasible to build a factory in such a remote location.",
+        "zh": "在如此偏远的地方建厂在经济上并不可行。"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "word": "fecund",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "fruitful or fertile; capable of abundantly producing offspring, vegetation, or creative work",
+        "zh": "多产的；肥沃的；富于创造力的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The fecund delta soil supports three rice harvests a year.",
+        "zh": "这片肥沃的三角洲土壤每年能支持三季水稻收成。"
+      },
+      {
+        "en": "The 1920s proved a remarkably fecund decade for American literature.",
+        "zh": "20世纪20年代对美国文学而言是硕果累累的十年。"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "word": "felicitous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "admirably appropriate or well-suited; pleasant, fortunate",
+        "zh": "贴切的；恰如其分的；幸运愉快的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The speaker's felicitous choice of words captured the mood of the occasion perfectly.",
+        "zh": "演讲者用词恰如其分，完美地契合了当下的气氛。"
+      },
+      {
+        "en": "It was a felicitous coincidence that both scholars arrived at the same conclusion independently.",
+        "zh": "两位学者独立得出相同结论，实属令人欣喜的巧合。"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "word": "fervid",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "very hot; also heated with passion or enthusiasm",
+        "zh": "炽热的；热情洋溢的；狂热的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The fervid summer heat left the crops wilting by midday.",
+        "zh": "炽热的夏日高温让庄稼到中午就已萎蔫。"
+      },
+      {
+        "en": "Her fervid speech roused the crowd to cheer for several minutes straight.",
+        "zh": "她那热情洋溢的演讲让人群连续欢呼了好几分钟。"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "word": "fetid",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "having an offensive smell, stinking",
+        "zh": "恶臭的；难闻的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A fetid odor rose from the stagnant pond behind the abandoned mill.",
+        "zh": "废弃磨坊后面死水塘散发出一股恶臭。"
+      },
+      {
+        "en": "The fetid air inside the cave forced the explorers to retreat.",
+        "zh": "洞穴中恶臭的空气迫使探险者们撤了出来。"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "word": "fidelity",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "faithfulness or loyalty; also accuracy in reproducing a sound or image",
+        "zh": "忠诚；忠实；（音像还原的）逼真度"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He remained loyal to his childhood friends with unwavering fidelity.",
+        "zh": "他对儿时的朋友始终怀有不变的忠诚。"
+      },
+      {
+        "en": "The new speakers reproduce orchestral recordings with remarkable fidelity.",
+        "zh": "这套新音箱以极高的保真度还原管弦乐录音。"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "word": "figurative",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "metaphorical, based on figures of speech",
+        "zh": "比喻的；修辞性的"
+      },
+      {
+        "pos": "adj.",
+        "en": "related to depicting human or animal figures, as in art",
+        "zh": "具象的（艺术中描绘人物或动物形象）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "When she said her heart was on fire, she was speaking figuratively.",
+        "zh": "她说自己心如火烧，那是一种比喻说法。"
+      },
+      {
+        "en": "The gallery's new exhibit focuses on figurative rather than abstract painting.",
+        "zh": "美术馆的新展览侧重于具象绘画而非抽象绘画。"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "word": "finesse",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "extreme delicacy, subtlety, or diplomacy in handling a sensitive situation or performing a skill",
+        "zh": "技巧；手腕；圆熟老练"
+      },
+      {
+        "pos": "v.",
+        "en": "to use tact or diplomacy, or to employ a deceptive strategy",
+        "zh": "巧妙处理；耍手段（应对）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The diplomat handled the hostage negotiation with remarkable finesse.",
+        "zh": "这位外交官以非凡的手腕处理了这场人质谈判。"
+      },
+      {
+        "en": "She managed to finesse her way out of the awkward question at the press conference.",
+        "zh": "她在新闻发布会上巧妙地避开了那个尴尬的问题。"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "word": "flag",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to get tired or lose enthusiasm; to hang limply or droop",
+        "zh": "疲惫；衰减；（精神、热情）低落"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His enthusiasm for the project began to flag after months without results.",
+        "zh": "几个月未见成效后，他对这个项目的热情开始消退。"
+      },
+      {
+        "en": "The runners' pace flagged noticeably during the final uphill stretch.",
+        "zh": "跑者们的速度在最后一段上坡路明显减慢。"
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "word": "fledgling",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a young bird that has just gotten its feathers; also an inexperienced person",
+        "zh": "雏鸟；初出茅庐的人；新手"
+      },
+      {
+        "pos": "adj.",
+        "en": "new or inexperienced",
+        "zh": "新兴的；未成熟的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A fledgling fell from its nest and hopped clumsily across the lawn.",
+        "zh": "一只雏鸟从巢里掉了下来，笨拙地在草坪上跳来跳去。"
+      },
+      {
+        "en": "The fledgling startup struggled to secure funding in its first year.",
+        "zh": "这家新兴的初创公司在第一年苦于筹措资金。"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "word": "fleeting",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "passing quickly, transitory",
+        "zh": "短暂的；转瞬即逝的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "I caught only a fleeting glimpse of the deer before it darted into the woods.",
+        "zh": "我只匆匆瞥见那只鹿一眼，它便一头钻进了树林。"
+      },
+      {
+        "en": "Fame in the entertainment industry can be remarkably fleeting.",
+        "zh": "娱乐圈的名气往往转瞬即逝。"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "word": "florid",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "reddish or rosy in color; also flowery, showy, or excessively fancy",
+        "zh": "红润的；（文风）华丽的；浮夸的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His florid complexion suggested he had spent the afternoon in the sun.",
+        "zh": "他红润的面色显示出他下午一直待在阳光下。"
+      },
+      {
+        "en": "The critic mocked the novel's florid prose as overwrought and self-indulgent.",
+        "zh": "评论家嘲讽这部小说浮华的文笔矫揉造作、自我陶醉。"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "word": "flout",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to treat with disdain or contempt, usually of rules",
+        "zh": "公然违反；蔑视（规则）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The company flouted safety regulations for years before the accident occurred.",
+        "zh": "事故发生前，这家公司多年来一直公然违反安全法规。"
+      },
+      {
+        "en": "Teenagers sometimes flout curfews simply to assert their independence.",
+        "zh": "青少年有时会公然违反宵禁令，只是为了彰显自己的独立性。"
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "word": "fluke",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a stroke of luck, something accidentally successful",
+        "zh": "侥幸；意外的成功；偶然事件"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Winning the lottery twice seemed like more than a mere fluke.",
+        "zh": "两次中彩票似乎不能仅用侥幸来解释。"
+      },
+      {
+        "en": "The rookie insisted his game-winning shot was no fluke.",
+        "zh": "这名新秀坚称他那记制胜投篮绝非侥幸。"
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "word": "foment",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to incite or stir up, promoting the growth of something; also to apply medicated liquid to a body part",
+        "zh": "煽动；挑起；（医）热敷"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The propaganda was designed to foment unrest among the population.",
+        "zh": "这些宣传旨在煽动民众的不满情绪。"
+      },
+      {
+        "en": "Rival gangs fomented violence throughout the neighborhood that summer.",
+        "zh": "那年夏天，敌对帮派在整个社区煽动暴力活动。"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "word": "forage",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to wander in search of food; to rummage or hunt",
+        "zh": "觅食；搜寻；四处搜索"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Squirrels forage for acorns throughout the autumn months.",
+        "zh": "松鼠整个秋季都在四处寻找橡子。"
+      },
+      {
+        "en": "The survivors foraged through the ruins for anything edible.",
+        "zh": "幸存者们在废墟中翻找任何可以吃的东西。"
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "word": "ford",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a place where a body of water is shallow enough to cross on foot or by vehicle",
+        "zh": "（河流的）浅滩；可涉水而过之处"
+      },
+      {
+        "pos": "v.",
+        "en": "to cross at such a shallow place",
+        "zh": "涉水而过"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Wagon trains once relied on a shallow ford to cross the river.",
+        "zh": "过去的马车队常常依靠一处浅滩涉水过河。"
+      },
+      {
+        "en": "The hikers had to ford a swift stream before reaching the campsite.",
+        "zh": "徒步者们不得不涉过一条湍急的小溪才能到达营地。"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "word": "foreshadow",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to indicate or suggest something beforehand",
+        "zh": "预示；暗示（未来的事）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The ominous music foreshadowed the tragedy that was about to unfold.",
+        "zh": "这段不祥的音乐预示着即将发生的悲剧。"
+      },
+      {
+        "en": "Early sketches in the artist's notebook foreshadowed the themes of her later masterpieces.",
+        "zh": "这位艺术家笔记本中的早期草图预示了她后期杰作的主题。"
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "word": "forestall",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to delay, hinder, or prevent by acting beforehand",
+        "zh": "预先阻止；先发制人地防止"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The company issued a public apology to forestall a wave of lawsuits.",
+        "zh": "公司发布公开道歉，以先发制人地阻止一波诉讼。"
+      },
+      {
+        "en": "Regular maintenance can forestall costly mechanical failures down the road.",
+        "zh": "定期维护可以预先避免日后代价高昂的机械故障。"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "word": "forfeit",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to surrender or lose something as a result of an error, crime, or failure to fulfill an obligation",
+        "zh": "丧失；被没收；因过失而失去（权利等）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The team forfeited the match after arriving more than an hour late.",
+        "zh": "球队因迟到超过一小时而被判弃权。"
+      },
+      {
+        "en": "Tenants who break the lease early forfeit their security deposit.",
+        "zh": "提前违约解约的租户将丧失押金。"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "word": "fortify",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to strengthen, invigorate, or encourage",
+        "zh": "加强；强化；增强（信心、体力等）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Engineers fortified the old dam to withstand stronger floods.",
+        "zh": "工程师们加固了这座老旧大坝，以抵御更强的洪水。"
+      },
+      {
+        "en": "A hearty breakfast fortified the climbers for the long ascent ahead.",
+        "zh": "一顿丰盛的早餐为登山者接下来漫长的攀登补充了体力。"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "word": "fortuitous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "happening by chance; lucky",
+        "zh": "偶然的；幸运的；碰巧的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Their meeting at the conference turned out to be a fortuitous encounter that led to a partnership.",
+        "zh": "他们在会议上的相遇后来被证明是一次促成合作的幸运邂逅。"
+      },
+      {
+        "en": "It was fortuitous that the storm passed just before the outdoor ceremony began.",
+        "zh": "暴风雨恰好在户外仪式开始前散去，实属幸运。"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "word": "fracas",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a noisy disturbance or fight, a brawl",
+        "zh": "喧闹的争吵；混战；打斗"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A fracas broke out between rival fans outside the stadium.",
+        "zh": "体育场外爆发了一场对立球迷之间的混战。"
+      },
+      {
+        "en": "Police were called to break up the fracas at the crowded bar.",
+        "zh": "警方被叫去平息拥挤酒吧里发生的喧闹斗殴。"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "word": "fractious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "unruly or troublemaking; irritable",
+        "zh": "难驾驭的；易怒的；桀骜不驯的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The fractious committee could not agree on even the meeting agenda.",
+        "zh": "这个难以驾驭的委员会甚至连会议议程都无法达成一致。"
+      },
+      {
+        "en": "The toddler grew fractious after missing his afternoon nap.",
+        "zh": "这个幼儿因为错过午睡而变得烦躁易怒。"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "word": "frenetic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "wildly excited, frantic, distracted",
+        "zh": "疯狂的；狂热忙乱的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The trading floor descended into frenetic activity as prices began to crash.",
+        "zh": "随着价格开始暴跌，交易大厅陷入了一片疯狂的忙乱。"
+      },
+      {
+        "en": "She thrives on the frenetic pace of live television production.",
+        "zh": "她在电视直播那种忙乱疯狂的节奏中如鱼得水。"
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "word": "fringe",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "on the margin or periphery",
+        "zh": "边缘的；非主流的"
+      },
+      {
+        "pos": "n.",
+        "en": "the people in a group who hold the most extreme views",
+        "zh": "（团体中持极端观点的）边缘分子；边缘群体"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Once considered a fringe theory, the idea is now widely accepted by scientists.",
+        "zh": "这个曾被视为边缘理论的观点，如今已被科学家们广泛接受。"
+      },
+      {
+        "en": "Only a small fringe of the party still supports the old policy.",
+        "zh": "党内只有一小部分边缘人士仍支持这项旧政策。"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "word": "frugal",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "economical and thrifty with money; also inexpensive",
+        "zh": "节俭的；节约的；便宜的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her frugal habits allowed her to save enough for a down payment within three years.",
+        "zh": "她的节俭习惯让她在三年内攒够了首付款。"
+      },
+      {
+        "en": "They ate a frugal meal of bread and soup during the long journey.",
+        "zh": "漫长的旅途中，他们吃了一顿简朴的面包配汤。"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "word": "fulminate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to explode or detonate; to attack verbally in a vehement, thunderous way",
+        "zh": "爆炸；猛烈抨击；大声斥责"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The columnist fulminated against government corruption in every op-ed he wrote.",
+        "zh": "这位专栏作家在每篇评论文章中都猛烈抨击政府腐败。"
+      },
+      {
+        "en": "The old volcano occasionally fulminates, sending ash across the valley.",
+        "zh": "这座古老的火山偶尔会喷发，将火山灰喷向整个山谷。"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "word": "furtive",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "done secretly; stealthy, sly, shifty",
+        "zh": "偷偷摸摸的；鬼鬼祟祟的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She cast a furtive glance at her phone during the meeting.",
+        "zh": "她在会议期间偷偷瞥了一眼手机。"
+      },
+      {
+        "en": "The cat crept across the yard with furtive, deliberate steps.",
+        "zh": "那只猫鬼鬼祟祟、步步谨慎地穿过院子。"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "word": "futile",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "producing no useful result, ineffective; trivial or unimportant",
+        "zh": "徒劳的；无效的；无意义的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Their attempts to revive the failing business proved futile.",
+        "zh": "他们试图挽救这家濒临倒闭的企业，但终究是徒劳。"
+      },
+      {
+        "en": "It felt futile to argue with someone so unwilling to listen.",
+        "zh": "和一个如此不愿倾听的人争论，感觉是徒劳无功的。"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "word": "gainsay",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to declare false, deny, or oppose",
+        "zh": "否认；反驳；反对"
+      }
+    ],
+    "examples": [
+      {
+        "en": "No one could gainsay the overwhelming evidence presented at the trial.",
+        "zh": "没有人能反驳庭审中出示的确凿证据。"
+      },
+      {
+        "en": "It would be foolish to gainsay an expert with decades of experience.",
+        "zh": "反驳一位拥有数十年经验的专家未免太愚蠢了。"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "word": "gambol",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to frolic; to skip or leap playfully",
+        "zh": "嬉戏；蹦蹦跳跳地玩耍"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Lambs gamboled across the meadow in the early spring sunlight.",
+        "zh": "羊羔们在早春的阳光下在草地上嬉戏跳跃。"
+      },
+      {
+        "en": "The children gamboled around the yard, chasing bubbles their mother blew.",
+        "zh": "孩子们在院子里追逐着妈妈吹出的泡泡，蹦蹦跳跳地玩闹。"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "word": "garner",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to gather and store; to amass or collect",
+        "zh": "收集；积累；获得（支持、声誉等）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The film garnered widespread critical acclaim upon its release.",
+        "zh": "这部电影上映后获得了广泛的好评。"
+      },
+      {
+        "en": "Farmers garnered the harvest before the first frost arrived.",
+        "zh": "农民们在初霜到来之前收好了庄稼。"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "word": "garrulous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "talkative, wordy, rambling",
+        "zh": "喋喋不休的；话多的；唠叨的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The garrulous cab driver talked nonstop for the entire ride.",
+        "zh": "这位话多的出租车司机在整趟车程中一直喋喋不休。"
+      },
+      {
+        "en": "Her garrulous uncle could turn a simple greeting into a half-hour story.",
+        "zh": "她那位话痨叔叔能把一句简单的问候变成半小时的长篇故事。"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "word": "gauche",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "tactless, lacking social grace, awkward, crude",
+        "zh": "笨拙的；不得体的；缺乏教养的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Asking about her salary at dinner was considered rather gauche.",
+        "zh": "在晚宴上打听她的薪水被认为相当不得体。"
+      },
+      {
+        "en": "He felt gauche among the sophisticated guests at the gallery opening.",
+        "zh": "在画廊开幕式上那些优雅的宾客中，他感到自己笨拙又不合时宜。"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "word": "gawky",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "physically awkward, especially of a tall, skinny person, often used of teenagers",
+        "zh": "笨拙的；瘦长笨拙的（常指青少年）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The gawky teenager tripped over his own feet as he walked across the stage.",
+        "zh": "这个瘦长笨拙的少年走上舞台时被自己的脚绊了一下。"
+      },
+      {
+        "en": "She remembered her gawky adolescent years with a mix of embarrassment and fondness.",
+        "zh": "她回忆起自己笨拙青涩的少年时期，既觉得尴尬又觉得怀念。"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "word": "germane",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "relevant and appropriate, on-topic",
+        "zh": "相关的；切题的；贴切的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The judge reminded the attorney to keep her questions germane to the case.",
+        "zh": "法官提醒律师要让提问始终与案件相关。"
+      },
+      {
+        "en": "His comment, though interesting, was not germane to the discussion at hand.",
+        "zh": "他的评论虽然有趣，但与当前的讨论无关。"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "word": "gestation",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "pregnancy; the period from conception to birth, literally or metaphorically",
+        "zh": "妊娠期；（观念、计划的）孕育期"
+      }
+    ],
+    "examples": [
+      {
+        "en": "An elephant's gestation period lasts nearly two years.",
+        "zh": "大象的妊娠期长达近两年。"
+      },
+      {
+        "en": "The novel went through a decade-long gestation before the author finally published it.",
+        "zh": "这部小说经过十年之久的酝酿，作者才最终将其出版。"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "word": "gist",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the main idea or essence of something",
+        "zh": "要旨；大意；核心内容"
+      }
+    ],
+    "examples": [
+      {
+        "en": "I only caught the gist of the lecture since I arrived halfway through.",
+        "zh": "由于我中途才到，只听懂了讲座的大意。"
+      },
+      {
+        "en": "Could you give me the gist of the report instead of reading the whole thing?",
+        "zh": "你能不能给我讲讲报告的要点，而不用把整篇都读一遍？"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "word": "glacial",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "pertaining to glaciers; also cold, icy, slow, or unsympathetic",
+        "zh": "冰川的；冰冷的；（态度）冷淡的；极其缓慢的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Glacial valleys throughout the region were carved thousands of years ago.",
+        "zh": "该地区遍布的冰川峡谷是数千年前形成的。"
+      },
+      {
+        "en": "Negotiations proceeded at a glacial pace, frustrating both sides.",
+        "zh": "谈判进展极其缓慢，令双方都感到沮丧。"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "word": "glib",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "fluent and easy in speech in a way that suggests superficiality or insincerity",
+        "zh": "油腔滑调的；能说会道却不真诚的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The salesman's glib assurances failed to convince the wary customer.",
+        "zh": "这位推销员油腔滑调的保证并未说服那位谨慎的顾客。"
+      },
+      {
+        "en": "Her glib response suggested she hadn't actually thought about the question at all.",
+        "zh": "她那随口敷衍的回答显示出她根本没有认真思考这个问题。"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "word": "glower",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to stare in an angry, sullen way",
+        "zh": "怒视；瞪眼；愠怒地凝视"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He glowered at the referee after the controversial call.",
+        "zh": "那次有争议的判罚之后，他怒视着裁判。"
+      },
+      {
+        "en": "The child glowered from the corner, still upset about the punishment.",
+        "zh": "那个孩子仍因受罚而不满，在角落里怒目而视。"
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "word": "goad",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to urge on, as cattle, with a pointed stick; to spur on or stimulate",
+        "zh": "驱使；刺激；怂恿"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His friends goaded him into attempting the dangerous stunt.",
+        "zh": "朋友们怂恿他去尝试那个危险的特技动作。"
+      },
+      {
+        "en": "Fear of failure goaded her to work even harder before the exam.",
+        "zh": "对失败的恐惧驱使她在考试前更加努力地学习。"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "word": "goosebumps",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the small bumps on the skin caused by hairs standing up in response to cold, fear, or excitement",
+        "zh": "鸡皮疙瘩"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The chilling ghost story gave everyone around the campfire goosebumps.",
+        "zh": "这个令人毛骨悚然的鬼故事让篝火旁的每个人都起了鸡皮疙瘩。"
+      },
+      {
+        "en": "The soprano's final high note sent goosebumps down my arms.",
+        "zh": "女高音最后那记高音让我手臂上起满了鸡皮疙瘩。"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "word": "gouge",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a scooping or digging tool like a chisel, or a hole made with such a tool",
+        "zh": "凿子；凿孔"
+      },
+      {
+        "pos": "v.",
+        "en": "to cut or scoop out; to swindle or overcharge someone",
+        "zh": "挖出；凿出；敲诈；漫天要价"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The carpenter used a gouge to carve a deep groove into the wood.",
+        "zh": "木匠用凿子在木头上刻出了一道深槽。"
+      },
+      {
+        "en": "Vendors were accused of gouging tourists with inflated prices during the festival.",
+        "zh": "节日期间，商贩被指控哄抬价格敲诈游客。"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "word": "gradation",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a gradual progression or process taking place in stages; one such stage",
+        "zh": "渐变；分级；（渐变过程中的）阶段"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The painter blended subtle gradations of blue to depict the twilight sky.",
+        "zh": "画家调和出了细微渐变的蓝色，描绘出黄昏的天空。"
+      },
+      {
+        "en": "The exam scores are divided into fine gradations rather than broad letter grades.",
+        "zh": "考试分数被划分为细致的等级，而非笼统的字母等级。"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "word": "graft",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to insert part of a plant into another so it continues to grow, or to join living tissue similarly",
+        "zh": "嫁接；移植（组织）"
+      },
+      {
+        "pos": "n.",
+        "en": "the acquisition of money or benefits through illegal means, especially by abusing power",
+        "zh": "贪污；靠权力谋取的不义之财"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The gardener grafted a rare rose variety onto sturdy rootstock.",
+        "zh": "园丁将一种稀有的月季品种嫁接到了健壮的砧木上。"
+      },
+      {
+        "en": "Investigators uncovered years of graft within the city's public works department.",
+        "zh": "调查人员揭露了该市公共工程部门多年来的贪腐行为。"
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "word": "grandiloquent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "relating to lofty, pompous speech, bombastic",
+        "zh": "夸夸其谈的；言辞浮夸的；华而不实的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The politician's grandiloquent promises rarely translated into concrete policy.",
+        "zh": "这位政客夸夸其谈的承诺很少转化为具体的政策。"
+      },
+      {
+        "en": "His grandiloquent toast went on for nearly twenty minutes.",
+        "zh": "他那浮夸的祝酒词持续了将近二十分钟。"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "word": "grandstand",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to perform showily in an attempt to impress onlookers",
+        "zh": "哗众取宠；卖弄表现"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Critics accused the senator of grandstanding for the cameras instead of debating policy.",
+        "zh": "批评者指责这位参议员是在对着镜头哗众取宠，而非认真讨论政策。"
+      },
+      {
+        "en": "The forward was benched for grandstanding instead of passing to open teammates.",
+        "zh": "这名前锋因为卖弄个人表现、不肯传球给有空档的队友而被换下场。"
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "word": "grating",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "irritating; harsh or discordant, especially of a noise; scraping",
+        "zh": "刺耳的；令人不快的；摩擦刺耳的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The grating screech of chalk on the blackboard made everyone wince.",
+        "zh": "粉笔在黑板上摩擦发出的刺耳声让所有人都皱起了眉头。"
+      },
+      {
+        "en": "His grating laugh could be heard from the other end of the office.",
+        "zh": "他那令人不悦的刺耳笑声在办公室的另一端都能听到。"
+      }
+    ]
+  }
+]

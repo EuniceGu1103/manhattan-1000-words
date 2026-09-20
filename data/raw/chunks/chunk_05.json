@@ -1,0 +1,2191 @@
+[
+ {
+  "id": 401,
+  "word": "gregarious",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "sociable, fond of company",
+    "zh": "合群的；喜好社交的"
+   },
+   {
+    "pos": "adj.",
+    "en": "pertaining to a flock or crowd",
+    "zh": "群居的；成群的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Her gregarious nature made her the first to strike up conversation at every party.",
+    "zh": "她喜好社交的性格使她在每次聚会上都第一个主动攀谈。"
+   },
+   {
+    "en": "Starlings are gregarious birds that travel in enormous, swirling flocks.",
+    "zh": "椋鸟是群居性鸟类，常成群结队地飞翔盘旋。"
+   }
+  ]
+ },
+ {
+  "id": 402,
+  "word": "grievous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "causing grief or suffering; very serious, grave",
+    "zh": "令人悲痛的；严重的，重大的"
+   },
+   {
+    "pos": "adj.",
+    "en": "flagrant, outrageous",
+    "zh": "恶劣的，令人发指的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The scandal inflicted a grievous blow to the senator's reputation.",
+    "zh": "这起丑闻给参议员的声誉造成了沉重打击。"
+   },
+   {
+    "en": "Historians regard the treaty as a grievous injustice imposed on the defeated nation.",
+    "zh": "历史学家认为该条约是强加给战败国的一项极其恶劣的不公正安排。"
+   }
+  ]
+ },
+ {
+  "id": 403,
+  "word": "grouse",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "complain or grumble",
+    "zh": "抱怨，发牢骚"
+   },
+   {
+    "pos": "n.",
+    "en": "a reason for complaint",
+    "zh": "抱怨的理由；牢骚"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The interns groused about the long hours but rarely asked for a raise.",
+    "zh": "实习生们抱怨工作时间太长，却很少要求加薪。"
+   },
+   {
+    "en": "His main grouse with the new policy is that it was adopted without any debate.",
+    "zh": "他对新政策的主要不满在于它未经任何讨论就被采纳了。"
+   }
+  ]
+ },
+ {
+  "id": 404,
+  "word": "grovel",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "creep with one's face to the ground; abase oneself in servile submission",
+    "zh": "卑躬屈膝，摇尾乞怜；自贬自轻"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He groveled before the committee, begging them to reconsider his dismissal.",
+    "zh": "他在委员会面前卑躬屈膝，恳求他们重新考虑对他的解雇决定。"
+   },
+   {
+    "en": "She refused to grovel for a promotion she felt she had already earned.",
+    "zh": "她拒绝为一个她认为自己早已应得的晋升而低声下气。"
+   }
+  ]
+ },
+ {
+  "id": 405,
+  "word": "guile",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "clever deceit, cunning, craftiness",
+    "zh": "狡诈；诡计；奸诈"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The con artist used guile rather than force to relieve tourists of their savings.",
+    "zh": "这名骗子靠狡诈手段而非暴力骗取游客的积蓄。"
+   },
+   {
+    "en": "Diplomats sometimes need a measure of guile to outmaneuver a stubborn adversary.",
+    "zh": "外交官有时需要一点手腕才能智胜顽固的对手。"
+   }
+  ]
+ },
+ {
+  "id": 406,
+  "word": "hackneyed",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "so commonplace as to be stale; unoriginal",
+    "zh": "陈腐的，老生常谈的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The critic dismissed the film's script as hackneyed and predictable.",
+    "zh": "评论家批评这部电影的剧本陈腐且情节可预见。"
+   },
+   {
+    "en": "Rather than rely on hackneyed metaphors, the poet coined striking new images.",
+    "zh": "这位诗人没有依赖陈词滥调的比喻，而是创造了令人耳目一新的意象。"
+   }
+  ]
+ },
+ {
+  "id": 407,
+  "word": "halcyon",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "calm and peaceful, carefree; prosperous, successful, happy",
+    "zh": "平静安宁的；繁荣兴旺的，幸福美满的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "She often reminisced about the halcyon days of her childhood summers.",
+    "zh": "她常常回忆起童年夏日那段宁静美好的时光。"
+   },
+   {
+    "en": "The company enjoyed a halcyon decade of steady growth before the crisis hit.",
+    "zh": "在危机来袭之前，公司经历了长达十年稳步增长的兴旺时期。"
+   }
+  ]
+ },
+ {
+  "id": 408,
+  "word": "hallmark",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a mark indicating quality, purity, or genuineness; any distinguishing characteristic",
+    "zh": "（表明品质的）标记，印记；特征，标志"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Meticulous attention to detail is the hallmark of her design work.",
+    "zh": "对细节的一丝不苟是她设计作品的标志性特征。"
+   },
+   {
+    "en": "Silver items often carry a hallmark certifying their purity.",
+    "zh": "银器上常常带有证明其纯度的印记。"
+   }
+  ]
+ },
+ {
+  "id": 409,
+  "word": "hand-wringing",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "wringing of the hands as an expression of nervousness, guilt, or distress",
+    "zh": "（表示焦虑、内疚的）绞手动作，忧心忡忡的样子"
+   },
+   {
+    "pos": "n.",
+    "en": "extended, anxious debate over what to do about an issue without decisive action",
+    "zh": "（对某事）过度焦虑的争论；议而不决"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Behind closed doors there was much hand-wringing, but no one proposed a concrete plan.",
+    "zh": "闭门会议上大家忧心忡忡，却没有人提出具体方案。"
+   },
+   {
+    "en": "Instead of hand-wringing over the budget shortfall, the board finally voted on cuts.",
+    "zh": "董事会没有一味为预算缺口而焦虑议论，而是最终就削减开支进行了表决。"
+   }
+  ]
+ },
+ {
+  "id": 410,
+  "word": "hapless",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "unlucky, unfortunate",
+    "zh": "倒霉的，不幸的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The hapless intern spilled coffee on the CEO moments before the presentation.",
+    "zh": "这个倒霉的实习生在演讲前几分钟把咖啡洒在了首席执行官身上。"
+   },
+   {
+    "en": "A series of hapless mistakes cost the team the championship.",
+    "zh": "一连串倒霉的失误使这支球队痛失冠军。"
+   }
+  ]
+ },
+ {
+  "id": 411,
+  "word": "harangue",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a long, intense verbal attack, especially delivered publicly",
+    "zh": "长篇激烈的训斥；慷慨激昂的演说"
+   },
+   {
+    "pos": "v.",
+    "en": "to deliver such a speech at someone",
+    "zh": "对……发表长篇激烈的训斥"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The coach's halftime harangue left no doubt about his displeasure with the team's effort.",
+    "zh": "教练中场时的一番激烈训斥，让人对他对球队努力程度的不满一目了然。"
+   },
+   {
+    "en": "He harangued the crowd for nearly an hour without pausing for questions.",
+    "zh": "他对人群发表了近一个小时的激烈演说，中间没有停下来回答问题。"
+   }
+  ]
+ },
+ {
+  "id": 412,
+  "word": "hardy",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "bold, brave; capable of withstanding hardship, fatigue, or cold",
+    "zh": "勇敢的，大胆的；能吃苦耐劳的，耐寒的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Only the hardiest climbers attempt the summit during the winter months.",
+    "zh": "只有最能吃苦耐劳的登山者才会尝试在冬季登顶。"
+   },
+   {
+    "en": "This hardy strain of wheat survives even the harshest droughts.",
+    "zh": "这种耐旱的小麦品种即使在最严重的干旱中也能存活。"
+   }
+  ]
+ },
+ {
+  "id": 413,
+  "word": "harrow",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a farming tool that breaks up soil",
+    "zh": "耙（农具）"
+   },
+   {
+    "pos": "v.",
+    "en": "to painfully disturb or distress",
+    "zh": "使痛苦，折磨"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Farmers once pulled the harrow across the field by hand before mechanization.",
+    "zh": "在机械化之前，农民曾用手拉耙来耕整田地。"
+   },
+   {
+    "en": "The documentary's harrowing images of the famine left viewers deeply shaken.",
+    "zh": "这部纪录片中令人痛苦的饥荒画面让观众深受震撼。"
+   }
+  ]
+ },
+ {
+  "id": 414,
+  "word": "haven",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a harbor or port; a refuge or safe place",
+    "zh": "港口；避难所，安全之地"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The remote village became a haven for artists seeking solitude.",
+    "zh": "这个偏远的村庄成了寻求宁静的艺术家们的避风港。"
+   },
+   {
+    "en": "Ships sought haven in the bay before the storm arrived.",
+    "zh": "暴风雨来临前，船只都躲进了海湾避险。"
+   }
+  ]
+ },
+ {
+  "id": 415,
+  "word": "hearken",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to listen, pay attention to",
+    "zh": "倾听，留意"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The villagers hearkened to the elder's warning and moved to higher ground.",
+    "zh": "村民们听从了长者的警告，搬到了地势更高的地方。"
+   },
+   {
+    "en": "Hearken to the advice of those who have already made your mistakes.",
+    "zh": "要倾听那些已经犯过你正犯的错误的人的忠告。"
+   }
+  ]
+ },
+ {
+  "id": 416,
+  "word": "hedge",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to avoid commitment by leaving room to withdraw or change one's mind",
+    "zh": "含糊其辞，避免明确表态"
+   },
+   {
+    "pos": "v.",
+    "en": "to protect a bet or investment by also betting on the other side",
+    "zh": "（通过对冲）规避风险"
+   }
+  ],
+  "examples": [
+   {
+    "en": "When asked about his plans, the candidate hedged rather than giving a straight answer.",
+    "zh": "被问及计划时，这位候选人闪烁其词，没有给出直接答案。"
+   },
+   {
+    "en": "The fund manager hedged her position by purchasing options against a market downturn.",
+    "zh": "基金经理通过购买期权对冲市场下跌的风险。"
+   }
+  ]
+ },
+ {
+  "id": 417,
+  "word": "hedonist",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a person devoted to pleasure",
+    "zh": "享乐主义者"
+   }
+  ],
+  "examples": [
+   {
+    "en": "As a committed hedonist, he planned his entire year around fine dining and travel.",
+    "zh": "作为一个坚定的享乐主义者，他把整年的计划都围绕美食与旅行来安排。"
+   },
+   {
+    "en": "The philosopher argued that a hedonist mistakes fleeting pleasure for lasting happiness.",
+    "zh": "这位哲学家认为享乐主义者把转瞬即逝的快感误当作持久的幸福。"
+   }
+  ]
+ },
+ {
+  "id": 418,
+  "word": "hegemony",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "domination or authority; the influence of one country over others",
+    "zh": "霸权；支配地位"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Historians debate how long American economic hegemony can be sustained.",
+    "zh": "历史学家们对美国经济霸权能维持多久存在争议。"
+   },
+   {
+    "en": "The empire maintained hegemony over the region through both trade and military might.",
+    "zh": "该帝国凭借贸易和军事实力维持着对该地区的支配地位。"
+   }
+  ]
+ },
+ {
+  "id": 419,
+  "word": "hermetic",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "airtight, sealed, isolated; reclusive",
+    "zh": "密封的，隔绝的；与世隔绝的"
+   },
+   {
+    "pos": "adj.",
+    "en": "pertaining to alchemy or the occult",
+    "zh": "炼金术的，神秘学的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The lab stores the samples in hermetic containers to prevent contamination.",
+    "zh": "实验室将样本存放在密封容器中以防污染。"
+   },
+   {
+    "en": "The monk led a hermetic existence, rarely speaking to anyone outside the monastery.",
+    "zh": "这位僧侣过着与世隔绝的生活，很少与修道院外的人交谈。"
+   }
+  ]
+ },
+ {
+  "id": 420,
+  "word": "heterogeneous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "different in type, incongruous; composed of dissimilar elements",
+    "zh": "不同种类的，混杂的；由不同成分组成的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The committee was a heterogeneous mix of engineers, lawyers, and artists.",
+    "zh": "该委员会由工程师、律师和艺术家组成，成员构成十分多元。"
+   },
+   {
+    "en": "Granite is a heterogeneous rock containing visibly distinct mineral grains.",
+    "zh": "花岗岩是一种成分不均一的岩石，含有清晰可辨的不同矿物颗粒。"
+   }
+  ]
+ },
+ {
+  "id": 421,
+  "word": "hew",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to strike, chop, or hack, as with an axe",
+    "zh": "砍，劈"
+   },
+   {
+    "pos": "v.",
+    "en": "to make or shape something with a cutting tool; to conform closely to",
+    "zh": "（用刀斧等）雕刻塑造；恪守，遵循"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Lumberjacks hewed the fallen trunk into manageable logs.",
+    "zh": "伐木工把倒下的树干劈成便于搬运的木段。"
+   },
+   {
+    "en": "The sculptor hewed a graceful figure from a single block of marble.",
+    "zh": "雕塑家从一整块大理石中雕出了一尊优美的人像。"
+   },
+   {
+    "en": "The new administration promised to hew closely to the original constitution.",
+    "zh": "新政府承诺将严格遵循原始宪法。"
+   }
+  ]
+ },
+ {
+  "id": 422,
+  "word": "hierarchy",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a ranked series; a classification of people according to rank or ability; a ruling body",
+    "zh": "等级体系；等级制度；统治集团"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Employees at the bottom of the corporate hierarchy rarely meet the CEO.",
+    "zh": "处于公司等级体系底层的员工很少能见到首席执行官。"
+   },
+   {
+    "en": "Medieval society was structured around a rigid social hierarchy.",
+    "zh": "中世纪社会是围绕着严格的社会等级制度构建的。"
+   }
+  ]
+ },
+ {
+  "id": 423,
+  "word": "hoary",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "very old; gray or white as from age",
+    "zh": "非常古老的；灰白的，苍老的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The hoary oak had stood in the town square for over three centuries.",
+    "zh": "这棵苍老的橡树已在镇广场上矗立了三百多年。"
+   },
+   {
+    "en": "He greeted us with a hoary beard and a warm, weathered smile.",
+    "zh": "他花白的胡须下露出一个饱经风霜却温暖的笑容迎接我们。"
+   }
+  ]
+ },
+ {
+  "id": 424,
+  "word": "hodgepodge",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a mixture of different kinds of things, a jumble",
+    "zh": "大杂烩，混杂物"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The anthology is a hodgepodge of essays, poems, and half-finished stories.",
+    "zh": "这本文集是散文、诗歌和未完成故事的大杂烩。"
+   },
+   {
+    "en": "Her apartment was decorated with a hodgepodge of furniture from different eras.",
+    "zh": "她的公寓摆满了不同年代风格混杂的家具。"
+   }
+  ]
+ },
+ {
+  "id": 425,
+  "word": "homage",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "honor or respect demonstrated publicly",
+    "zh": "敬意，致敬"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Fans paid homage to the retiring musician with a standing ovation.",
+    "zh": "歌迷们以起立鼓掌的方式向这位即将退休的音乐家致敬。"
+   },
+   {
+    "en": "The mural is a homage to the neighborhood's immigrant founders.",
+    "zh": "这幅壁画是对该社区移民创建者的致敬之作。"
+   }
+  ]
+ },
+ {
+  "id": 426,
+  "word": "homogeneous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "of the same kind; uniform throughout",
+    "zh": "同质的，均匀一致的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The suburb was once remarkably homogeneous, with residents sharing similar backgrounds.",
+    "zh": "这个郊区曾经的居民背景高度相似，构成十分单一。"
+   },
+   {
+    "en": "Stir the mixture until it forms a smooth, homogeneous paste.",
+    "zh": "搅拌混合物直到形成光滑均匀的糊状物。"
+   }
+  ]
+ },
+ {
+  "id": 427,
+  "word": "hoodwink",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to trick, deceive",
+    "zh": "欺骗，蒙蔽"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The investors were hoodwinked by a scheme that promised impossible returns.",
+    "zh": "投资者被一个承诺不可能回报的骗局所蒙蔽。"
+   },
+   {
+    "en": "He tried to hoodwink the customs officer with a forged passport.",
+    "zh": "他试图用一本伪造的护照蒙骗海关官员。"
+   }
+  ]
+ },
+ {
+  "id": 428,
+  "word": "hotly",
+  "senses": [
+   {
+    "pos": "adv.",
+    "en": "in an intense, fiery, or heated way",
+    "zh": "激烈地，激动地"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The proposal was hotly debated in the assembly for over six hours.",
+    "zh": "这项提案在议会中被激烈辩论了六个多小时。"
+   },
+   {
+    "en": "She hotly denied any involvement in the scandal.",
+    "zh": "她激烈地否认与这起丑闻有任何关联。"
+   }
+  ]
+ },
+ {
+  "id": 429,
+  "word": "husband",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to manage prudently, sparingly, or economically; to conserve",
+    "zh": "节俭地使用，节约管理"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The expedition members husbanded their remaining rations carefully during the blizzard.",
+    "zh": "暴风雪期间，探险队员们小心翼翼地节约使用剩余的口粮。"
+   },
+   {
+    "en": "A wise leader husbands the organization's resources for lean times ahead.",
+    "zh": "明智的领导者会为未来的困难时期节约组织资源。"
+   }
+  ]
+ },
+ {
+  "id": 430,
+  "word": "hyperbole",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "deliberate exaggeration for effect",
+    "zh": "夸张（修辞手法）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Calling the traffic jam \"the end of civilization\" was clearly hyperbole.",
+    "zh": "把堵车称为“文明的终结”显然是夸张的说法。"
+   },
+   {
+    "en": "The advertisement relied on hyperbole, claiming the gadget would change users' lives forever.",
+    "zh": "这则广告依靠夸张手法，声称这款小工具将彻底改变用户的生活。"
+   }
+  ]
+ },
+ {
+  "id": 431,
+  "word": "iconoclast",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "an attacker of cherished beliefs or institutions",
+    "zh": "打破偶像者；抨击传统信念的人"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The young architect gained fame as an iconoclast who rejected every convention of the field.",
+    "zh": "这位年轻建筑师因摒弃该领域一切常规而以打破传统者著称。"
+   },
+   {
+    "en": "As an iconoclast, she delighted in challenging the university's most sacred traditions.",
+    "zh": "作为一名反传统者，她乐于挑战大学里最神圣不可侵犯的传统。"
+   }
+  ]
+ },
+ {
+  "id": 432,
+  "word": "idiosyncrasy",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a characteristic or habit peculiar to an individual; a quirk",
+    "zh": "（个人的）癖好，怪癖，特质"
+   }
+  ],
+  "examples": [
+   {
+    "en": "One of his idiosyncrasies was refusing to sign documents with a black pen.",
+    "zh": "他的一个怪癖是从不用黑色钢笔签署文件。"
+   },
+   {
+    "en": "Every dialect has its own idiosyncrasies of pronunciation and vocabulary.",
+    "zh": "每一种方言在发音和词汇上都有其独特之处。"
+   }
+  ]
+ },
+ {
+  "id": 433,
+  "word": "idolatry",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "idol worship",
+    "zh": "偶像崇拜"
+   },
+   {
+    "pos": "n.",
+    "en": "excessive or unthinking devotion or adoration",
+    "zh": "盲目崇拜，极度推崇"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The ancient texts condemn idolatry as a betrayal of the covenant.",
+    "zh": "古代经文谴责偶像崇拜是对盟约的背叛。"
+   },
+   {
+    "en": "Critics worry that fan idolatry of celebrities discourages independent thinking.",
+    "zh": "评论家担心粉丝对名人的盲目崇拜会抑制独立思考。"
+   }
+  ]
+ },
+ {
+  "id": 434,
+  "word": "idyllic",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "presenting a positive, peaceful view of rural life; pleasant in a natural, simple way",
+    "zh": "田园诗般的，恬静美好的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "They spent an idyllic week at a cottage beside a quiet lake.",
+    "zh": "他们在湖畔一间安静的小屋里度过了如田园诗般惬意的一周。"
+   },
+   {
+    "en": "The painting depicts an idyllic countryside scene of grazing sheep and rolling hills.",
+    "zh": "这幅画描绘了羊群吃草、丘陵起伏的田园牧歌式乡村景象。"
+   }
+  ]
+ },
+ {
+  "id": 435,
+  "word": "ignoble",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "not noble; having mean, base, or low motives; of low quality",
+    "zh": "卑鄙的，不光彩的；低劣的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He was dismissed from office in an ignoble scandal involving bribery.",
+    "zh": "他因一桩涉及贿赂的不光彩丑闻而被免职。"
+   },
+   {
+    "en": "The knight refused to win by such ignoble means as deceit.",
+    "zh": "这位骑士拒绝用欺骗这种卑鄙的手段取胜。"
+   }
+  ]
+ },
+ {
+  "id": 436,
+  "word": "illiberality",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "narrow-mindedness, bigotry",
+    "zh": "心胸狭隘，偏执"
+   },
+   {
+    "pos": "n.",
+    "en": "strictness or lack of generosity",
+    "zh": "苛刻，吝啬"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The reviewer criticized the policy's illiberality toward dissenting opinions.",
+    "zh": "评论者批评该政策对异见的态度过于狭隘偏执。"
+   },
+   {
+    "en": "His illiberality with praise left even his best students feeling unappreciated.",
+    "zh": "他吝于赞美的态度让即便是他最优秀的学生也觉得不被认可。"
+   }
+  ]
+ },
+ {
+  "id": 437,
+  "word": "imbue",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to permeate or saturate, as dye in a fabric; to influence throughout",
+    "zh": "使浸透，渗透；使充满（某种情感或品质）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The mentor's optimism imbued the entire team with fresh confidence.",
+    "zh": "导师的乐观精神使整个团队都充满了新的信心。"
+   },
+   {
+    "en": "The cloth was imbued with a deep indigo dye that never faded.",
+    "zh": "这块布浸染了永不褪色的深靛蓝染料。"
+   }
+  ]
+ },
+ {
+  "id": 438,
+  "word": "imminent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "ready to occur, impending",
+    "zh": "即将发生的，迫近的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Forecasters warned that an imminent storm would hit the coast within hours.",
+    "zh": "气象预报员警告说一场迫近的风暴将在几小时内袭击海岸。"
+   },
+   {
+    "en": "With the deadline imminent, the team worked through the night.",
+    "zh": "随着截止日期临近，团队通宵达旦地工作。"
+   }
+  ]
+ },
+ {
+  "id": 439,
+  "word": "immutable",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "unchangeable",
+    "zh": "不可改变的，永恒不变的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The physicist described the speed of light as an immutable constant.",
+    "zh": "这位物理学家将光速描述为一个恒定不变的常数。"
+   },
+   {
+    "en": "He believed human nature was essentially immutable across centuries.",
+    "zh": "他认为人性在数百年间基本上是不会改变的。"
+   }
+  ]
+ },
+ {
+  "id": 440,
+  "word": "impair",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to make worse, weaken",
+    "zh": "损害，削弱"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Chronic sleep deprivation can impair both judgment and memory.",
+    "zh": "长期睡眠不足会损害判断力和记忆力。"
+   },
+   {
+    "en": "The scandal severely impaired public trust in the institution.",
+    "zh": "这起丑闻严重削弱了公众对该机构的信任。"
+   }
+  ]
+ },
+ {
+  "id": 441,
+  "word": "impartial",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "unbiased, fair",
+    "zh": "公正的，不偏不倚的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Judges are expected to remain impartial regardless of public opinion.",
+    "zh": "无论公众舆论如何，法官都应保持公正中立。"
+   },
+   {
+    "en": "The mediator gave both sides an impartial hearing before rendering a decision.",
+    "zh": "调解员在做出裁决前公正地听取了双方的陈述。"
+   }
+  ]
+ },
+ {
+  "id": 442,
+  "word": "impasse",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a position or road from which there is no escape; a deadlock",
+    "zh": "僵局，死胡同"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Negotiations reached an impasse after neither side would concede on wages.",
+    "zh": "由于双方都不肯在工资问题上让步，谈判陷入了僵局。"
+   },
+   {
+    "en": "The two rival firms remained at an impasse over the licensing dispute for years.",
+    "zh": "这两家竞争企业在授权纠纷上僵持了多年，始终无法解决。"
+   }
+  ]
+ },
+ {
+  "id": 443,
+  "word": "impassive",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "not having or showing physical feeling or emotion",
+    "zh": "面无表情的，冷漠的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The judge remained impassive as the verdict was read aloud.",
+    "zh": "宣读判决时，法官始终面无表情。"
+   },
+   {
+    "en": "Despite the shocking news, she kept an impassive expression throughout the meeting.",
+    "zh": "尽管消息令人震惊，她在整个会议期间都保持着面无表情的样子。"
+   }
+  ]
+ },
+ {
+  "id": 444,
+  "word": "impecunious",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "poor, without money",
+    "zh": "一贫如洗的，穷困的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The impecunious student survived on instant noodles for most of the semester.",
+    "zh": "这个身无分文的学生大半个学期都靠方便面度日。"
+   },
+   {
+    "en": "Despite his impecunious upbringing, he eventually built a considerable fortune.",
+    "zh": "尽管他自幼家境贫寒，但后来还是积累了可观的财富。"
+   }
+  ]
+ },
+ {
+  "id": 445,
+  "word": "impede",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to hold back, obstruct the progress of",
+    "zh": "阻碍，妨碍"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Heavy fog impeded the rescue team's search efforts along the coast.",
+    "zh": "浓雾阻碍了救援队沿海岸展开搜救的工作。"
+   },
+   {
+    "en": "Bureaucratic red tape often impedes innovation within large organizations.",
+    "zh": "官僚主义的繁文缛节常常阻碍大型组织内部的创新。"
+   }
+  ]
+ },
+ {
+  "id": 446,
+  "word": "imperious",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "commanding, domineering; acting like a high-ranking person; urgent",
+    "zh": "专横的，盛气凌人的；紧急的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The imperious manager expected instant obedience from every employee.",
+    "zh": "这位专横的经理要求每个员工立即无条件服从。"
+   },
+   {
+    "en": "With an imperious wave of her hand, she dismissed the servants.",
+    "zh": "她盛气凌人地挥了挥手，让仆人们退下。"
+   }
+  ]
+ },
+ {
+  "id": 447,
+  "word": "impermeable",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "not allowing passage through, especially by a liquid",
+    "zh": "不可渗透的，防水的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The tent's impermeable coating kept the campers dry during the downpour.",
+    "zh": "帐篷的防水涂层让露营者在暴雨中保持干燥。"
+   },
+   {
+    "en": "Clay soil is largely impermeable, causing water to pool on the surface.",
+    "zh": "黏土基本上是不透水的，因此水会在地表积聚。"
+   }
+  ]
+ },
+ {
+  "id": 448,
+  "word": "imperturbable",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "calm, not able to be upset or agitated",
+    "zh": "镇定自若的，不为所动的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The pilot remained imperturbable even as the turbulence grew violent.",
+    "zh": "即使颠簸变得剧烈，飞行员依然镇定自若。"
+   },
+   {
+    "en": "Her imperturbable demeanor reassured the nervous passengers.",
+    "zh": "她那从容不迫的态度安抚了紧张的乘客。"
+   }
+  ]
+ },
+ {
+  "id": 449,
+  "word": "impervious",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "impenetrable; not able to be harmed or emotionally disturbed",
+    "zh": "不能穿透的；不受影响的，不为所动的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The new coating renders the surface impervious to scratches and moisture.",
+    "zh": "这种新涂层使表面不受刮擦和潮气的影响。"
+   },
+   {
+    "en": "He seemed impervious to criticism, no matter how harsh it grew.",
+    "zh": "无论批评多么严厉，他似乎都不为所动。"
+   }
+  ]
+ },
+ {
+  "id": 450,
+  "word": "impetuous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "passionately impulsive, marked by sudden, hasty emotion; forceful, violent",
+    "zh": "冲动鲁莽的，急躁的；猛烈的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "His impetuous decision to quit his job left the family scrambling for income.",
+    "zh": "他冲动地辞去工作的决定让全家人急于寻找新的收入来源。"
+   },
+   {
+    "en": "The river's impetuous current swept the small boat downstream in seconds.",
+    "zh": "湍急汹涌的河流几秒钟内就把小船冲向了下游。"
+   }
+  ]
+ },
+ {
+  "id": 451,
+  "word": "impious",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "not religious, lacking reverence, ungodly",
+    "zh": "不虔诚的，不敬神的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The priest condemned the graffiti on the altar as an impious act.",
+    "zh": "神父谴责祭坛上的涂鸦是不敬神明的行为。"
+   },
+   {
+    "en": "His impious jokes about the ceremony offended several elders.",
+    "zh": "他关于典礼的不敬玩笑冒犯了几位长者。"
+   }
+  ]
+ },
+ {
+  "id": 452,
+  "word": "implacable",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "not able to be appeased, calmed, or satisfied",
+    "zh": "难以平息的，不能安抚的；不可调和的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The general proved an implacable enemy, refusing every offer of truce.",
+    "zh": "这位将军是个不可调和的敌人，拒绝了每一次停战提议。"
+   },
+   {
+    "en": "Her implacable determination to win the case never wavered.",
+    "zh": "她那不可动摇的决心一心要打赢这场官司。"
+   }
+  ]
+ },
+ {
+  "id": 453,
+  "word": "implication",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "the act of implying, or that which is implied",
+    "zh": "暗示，含意"
+   },
+   {
+    "pos": "n.",
+    "en": "a close connection, especially in an incriminating way",
+    "zh": "牵连，涉及（尤指涉罪）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The implication of his silence was that he agreed with the proposal.",
+    "zh": "他沉默的言外之意是他赞同这项提议。"
+   },
+   {
+    "en": "Her implication in the fraud case surprised everyone who knew her.",
+    "zh": "她与这起诈骗案有牵连，令所有认识她的人都感到震惊。"
+   }
+  ]
+ },
+ {
+  "id": 454,
+  "word": "implicit",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "implied, not stated directly",
+    "zh": "含蓄的，隐含的"
+   },
+   {
+    "pos": "adj.",
+    "en": "involved in the very essence of something, unquestionable",
+    "zh": "绝对的，无保留的（如信任）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "There was an implicit understanding among the partners that profits would be split evenly.",
+    "zh": "合伙人之间有一种默契，即利润将平均分配。"
+   },
+   {
+    "en": "She placed implicit trust in her longtime business partner.",
+    "zh": "她对她多年的商业伙伴给予了绝对的信任。"
+   }
+  ]
+ },
+ {
+  "id": 455,
+  "word": "implode",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to burst inward",
+    "zh": "向内爆裂，内爆"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Engineers detonated charges that caused the old stadium to implode within seconds.",
+    "zh": "工程师引爆炸药，使旧体育场在几秒钟内向内坍塌。"
+   },
+   {
+    "en": "The startup imploded after its main investor withdrew funding overnight.",
+    "zh": "主要投资者一夜之间撤资后，这家初创公司迅速崩溃瓦解。"
+   }
+  ]
+ },
+ {
+  "id": 456,
+  "word": "imprecation",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a curse; a prayer for harm to come to someone",
+    "zh": "诅咒，咒骂"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The old sailor muttered an imprecation against the storm that had wrecked his ship.",
+    "zh": "这位老水手对摧毁了他船只的暴风雨低声咒骂。"
+   },
+   {
+    "en": "She hurled imprecations at the driver who nearly ran her off the road.",
+    "zh": "她对那个差点把她逼下路的司机破口大骂。"
+   }
+  ]
+ },
+ {
+  "id": 457,
+  "word": "impugn",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to attack the truth or integrity of",
+    "zh": "质疑，抨击（真实性或诚信）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The lawyer attempted to impugn the witness's credibility during cross-examination.",
+    "zh": "律师在盘问时试图质疑证人的可信度。"
+   },
+   {
+    "en": "No one dared impugn the judge's impartiality in open court.",
+    "zh": "没有人敢在公开法庭上质疑这位法官的公正性。"
+   }
+  ]
+ },
+ {
+  "id": 458,
+  "word": "impute",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to credit or attribute; to lay blame or responsibility for, sometimes falsely",
+    "zh": "归因于，归咎于（有时不实）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Critics imputed the company's decline to years of poor leadership.",
+    "zh": "评论家把这家公司的衰落归咎于多年来的领导不善。"
+   },
+   {
+    "en": "He resented having motives imputed to him that he never actually held.",
+    "zh": "他很反感别人把他从未有过的动机强加于他。"
+   }
+  ]
+ },
+ {
+  "id": 459,
+  "word": "inadvertent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "unintentional; characterized by a lack of attention, careless",
+    "zh": "非故意的，无心的；粗心的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The error was inadvertent, caused by a simple typo in the spreadsheet.",
+    "zh": "这个错误是无意的，只是电子表格中的一个打字失误造成的。"
+   },
+   {
+    "en": "Her inadvertent remark revealed the surprise party before it began.",
+    "zh": "她无意中说漏了嘴，提前泄露了这个惊喜派对。"
+   }
+  ]
+ },
+ {
+  "id": 460,
+  "word": "inasmuch",
+  "senses": [
+   {
+    "pos": "adv.",
+    "en": "in like manner, considering that (used as \"inasmuch as\")",
+    "zh": "鉴于，由于（常用作 inasmuch as）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Inasmuch as the witness could not be located, the trial was postponed.",
+    "zh": "鉴于找不到这名证人，庭审被推迟。"
+   },
+   {
+    "en": "The plan succeeded only inasmuch as everyone followed the schedule exactly.",
+    "zh": "这项计划只有在人人都严格按时间表执行的情况下才算成功。"
+   }
+  ]
+ },
+ {
+  "id": 461,
+  "word": "incarnadine",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "blood red or flesh-colored",
+    "zh": "血红色的；肉色的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The sunset painted the clouds an incarnadine hue over the battlefield.",
+    "zh": "落日把战场上空的云彩染成了血红色。"
+   },
+   {
+    "en": "The old tapestry's incarnadine threads had faded to a dull pink over the centuries.",
+    "zh": "这幅古老挂毯上原本血红色的丝线，经过几个世纪已褪成暗淡的粉色。"
+   }
+  ]
+ },
+ {
+  "id": 462,
+  "word": "incendiary",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "setting on fire, pertaining to arson; arousing strife or rebellion; inflaming the senses",
+    "zh": "纵火的；煽动性的，挑起争端的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The general ordered incendiary bombs dropped on the enemy's supply depots.",
+    "zh": "将军下令向敌方补给库投掷燃烧弹。"
+   },
+   {
+    "en": "His incendiary remarks about the opposition sparked outrage across the country.",
+    "zh": "他对反对派的煽动性言论在全国引发了公愤。"
+   }
+  ]
+ },
+ {
+  "id": 463,
+  "word": "incentive",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "something that encourages greater action or effort, such as a reward",
+    "zh": "激励，动机；奖励措施"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The company offered cash incentives to employees who exceeded their sales targets.",
+    "zh": "公司为超额完成销售目标的员工提供现金奖励。"
+   },
+   {
+    "en": "Tax breaks serve as an incentive for businesses to invest in renewable energy.",
+    "zh": "税收优惠为企业投资可再生能源提供了激励。"
+   }
+  ]
+ },
+ {
+  "id": 464,
+  "word": "inchoate",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "just begun, undeveloped, unorganized",
+    "zh": "刚开始的，未成形的，杂乱的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The proposal was still inchoate, little more than a few scribbled notes.",
+    "zh": "这项提案还只是初具雏形，不过是几张潦草的笔记而已。"
+   },
+   {
+    "en": "Her inchoate ideas about the novel slowly took shape over several drafts.",
+    "zh": "她对这部小说尚未成形的构思，经过几次草稿逐渐清晰起来。"
+   }
+  ]
+ },
+ {
+  "id": 465,
+  "word": "incipient",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "just beginning; in a very early stage",
+    "zh": "初期的，刚开始的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Doctors detected an incipient infection before it could spread further.",
+    "zh": "医生在感染扩散之前就发现了它的早期迹象。"
+   },
+   {
+    "en": "The report warned of incipient signs of an economic slowdown.",
+    "zh": "该报告警告说出现了经济放缓的早期迹象。"
+   }
+  ]
+ },
+ {
+  "id": 466,
+  "word": "incongruous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "out of place, inappropriate, not harmonious",
+    "zh": "不协调的，不相称的，格格不入的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The skyscraper looked strangely incongruous next to the row of centuries-old cottages.",
+    "zh": "这座摩天大楼与一排几百年历史的小屋相邻，显得格外不协调。"
+   },
+   {
+    "en": "His casual tone seemed incongruous given the gravity of the announcement.",
+    "zh": "鉴于这项声明的严肃性，他随意的语气显得很不相称。"
+   }
+  ]
+ },
+ {
+  "id": 467,
+  "word": "inconsequential",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "insignificant, unimportant",
+    "zh": "无关紧要的，微不足道的"
+   },
+   {
+    "pos": "adj.",
+    "en": "illogical",
+    "zh": "不合逻辑的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The typo was inconsequential and did not affect the report's conclusions.",
+    "zh": "这个打字错误无关紧要，并未影响报告的结论。"
+   },
+   {
+    "en": "His argument wandered off into inconsequential tangents that had nothing to do with the evidence.",
+    "zh": "他的论证扯到了与证据毫不相关的、逻辑混乱的枝节问题上。"
+   }
+  ]
+ },
+ {
+  "id": 468,
+  "word": "inconstancy",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "fickleness, unreliability; the state of changing without good reason",
+    "zh": "反复无常，易变；不忠，不可靠"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The poem laments the inconstancy of a lover who abandoned every promise made.",
+    "zh": "这首诗哀叹恋人反复无常，背弃了所有的承诺。"
+   },
+   {
+    "en": "Investors grew wary of the currency's inconstancy over the past year.",
+    "zh": "投资者对该货币过去一年里的反复波动愈发警惕。"
+   }
+  ]
+ },
+ {
+  "id": 469,
+  "word": "incorporate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to combine, unite; to embody, give physical form to",
+    "zh": "合并，融入；体现，赋予形式"
+   },
+   {
+    "pos": "v.",
+    "en": "to form a legal corporation",
+    "zh": "（依法）组成公司，注册成立"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The architect incorporated traditional motifs into an otherwise modern design.",
+    "zh": "这位建筑师将传统图案融入了一个整体现代化的设计中。"
+   },
+   {
+    "en": "The founders decided to incorporate the business in Delaware for tax reasons.",
+    "zh": "出于税务考虑，创始人决定在特拉华州注册成立公司。"
+   }
+  ]
+ },
+ {
+  "id": 470,
+  "word": "inculcate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to teach persistently, implant an idea in a person",
+    "zh": "反复灌输，谆谆教导"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The academy inculcates discipline and respect in its cadets from the first day.",
+    "zh": "这所学校从第一天起就向学员反复灌输纪律和尊重的观念。"
+   },
+   {
+    "en": "Her parents inculcated in her a deep appreciation for hard work.",
+    "zh": "她的父母从小就向她灌输了对勤奋工作的深深敬重。"
+   }
+  ]
+ },
+ {
+  "id": 471,
+  "word": "indefatigable",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "untiring, not able to become fatigued",
+    "zh": "不知疲倦的，孜孜不倦的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The indefatigable volunteers worked around the clock to distribute relief supplies.",
+    "zh": "这些不知疲倦的志愿者夜以继日地分发救援物资。"
+   },
+   {
+    "en": "Her indefatigable optimism carried the team through the project's darkest moments.",
+    "zh": "她那不知疲倦的乐观精神支撑着团队度过了项目最艰难的时刻。"
+   }
+  ]
+ },
+ {
+  "id": 472,
+  "word": "indeterminate",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "not fixed or determined, indefinite; vague",
+    "zh": "不确定的，未确定的；模糊的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The judge sentenced him to an indeterminate term, pending review by a parole board.",
+    "zh": "法官判处他不定期徒刑，需经假释委员会审查。"
+   },
+   {
+    "en": "The origin of the manuscript remains indeterminate despite years of research.",
+    "zh": "尽管经过多年研究，这份手稿的来源仍不明确。"
+   }
+  ]
+ },
+ {
+  "id": 473,
+  "word": "indifferent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "not caring, having no interest",
+    "zh": "漠不关心的，冷淡的"
+   },
+   {
+    "pos": "adj.",
+    "en": "unbiased, impartial",
+    "zh": "不偏不倚的，中立的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He remained indifferent to the applause, barely glancing up from his notes.",
+    "zh": "面对掌声他无动于衷，几乎没有从笔记本上抬起头来。"
+   },
+   {
+    "en": "A good referee must stay indifferent to which team the crowd favors.",
+    "zh": "优秀的裁判必须对观众偏爱哪支球队保持中立。"
+   }
+  ]
+ },
+ {
+  "id": 474,
+  "word": "indigence",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "extreme poverty",
+    "zh": "赤贫，极度贫困"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The charity provides food and shelter to families living in indigence.",
+    "zh": "这家慈善机构为生活在赤贫中的家庭提供食物和住所。"
+   },
+   {
+    "en": "Years of drought pushed the farming community into deep indigence.",
+    "zh": "多年的干旱使这个农业社区陷入了极度的贫困。"
+   }
+  ]
+ },
+ {
+  "id": 475,
+  "word": "indolent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "lazy, slothful",
+    "zh": "懒惰的，懒散的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The indolent cat spent the entire afternoon sprawled in a patch of sunlight.",
+    "zh": "这只懒洋洋的猫整个下午都懒散地躺在一片阳光里。"
+   },
+   {
+    "en": "His teachers criticized him as indolent, though he simply learned differently.",
+    "zh": "老师们批评他懒散，其实他只是学习方式不同而已。"
+   }
+  ]
+ },
+ {
+  "id": 476,
+  "word": "inert",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "inactive; having little or no power to move",
+    "zh": "惰性的，不活跃的；无力移动的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Helium is an inert gas that rarely reacts with other elements.",
+    "zh": "氦是一种惰性气体，很少与其他元素发生反应。"
+   },
+   {
+    "en": "The patient lay inert on the stretcher, showing no response to stimuli.",
+    "zh": "病人躺在担架上一动不动，对刺激毫无反应。"
+   }
+  ]
+ },
+ {
+  "id": 477,
+  "word": "inexorable",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "relentless, unyielding; not moved by pleading",
+    "zh": "不可阻挡的，无法通融的；铁面无私的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The inexorable advance of the glacier reshaped the entire valley over millennia.",
+    "zh": "冰川不可阻挡地推进，历经数千年重塑了整个山谷。"
+   },
+   {
+    "en": "He remained inexorable in his refusal, ignoring every appeal for mercy.",
+    "zh": "他始终不为所动地拒绝，对每一次求情都置之不理。"
+   }
+  ]
+ },
+ {
+  "id": 478,
+  "word": "infallible",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "incapable of error; certain",
+    "zh": "绝对正确的，不会出错的；确定无疑的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "No forecasting model is truly infallible, no matter how sophisticated.",
+    "zh": "无论多么复杂，任何预测模型都不可能绝对准确。"
+   },
+   {
+    "en": "She treated her mentor's advice as though it were infallible.",
+    "zh": "她把导师的建议当作绝对正确的真理来对待。"
+   }
+  ]
+ },
+ {
+  "id": 479,
+  "word": "inform",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to inspire, animate; to give substance or essence to; to be the characteristic quality of",
+    "zh": "贯穿于，赋予……以特质；成为……的本质特征"
+   }
+  ],
+  "examples": [
+   {
+    "en": "A deep sense of justice informs everything the organization does.",
+    "zh": "一种深刻的正义感贯穿于该组织所做的一切事情之中。"
+   },
+   {
+    "en": "Compassion informed her approach to teaching even the most difficult students.",
+    "zh": "同情心是她对待最难管教的学生也秉持的教学理念的核心。"
+   }
+  ]
+ },
+ {
+  "id": 480,
+  "word": "ingenuous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "genuine, sincere, not holding back; naive",
+    "zh": "率真的，坦诚的；天真的，单纯的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The child's ingenuous question caught the diplomats off guard.",
+    "zh": "这个孩子天真率直的问题让外交官们措手不及。"
+   },
+   {
+    "en": "His ingenuous trust in strangers sometimes left him vulnerable to scams.",
+    "zh": "他对陌生人天真的信任有时使他容易受骗。"
+   }
+  ]
+ },
+ {
+  "id": 481,
+  "word": "ingrained",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "deep-rooted, forming part of the very essence; worked into the fiber",
+    "zh": "根深蒂固的，深入骨髓的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Punctuality was so ingrained in him that he arrived twenty minutes early to everything.",
+    "zh": "守时的习惯在他身上根深蒂固，以至于他做任何事都会提前二十分钟到场。"
+   },
+   {
+    "en": "Ingrained prejudices are notoriously difficult to change, even with education.",
+    "zh": "根深蒂固的偏见即便通过教育也极难改变。"
+   }
+  ]
+ },
+ {
+  "id": 482,
+  "word": "ingrate",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "an ungrateful person",
+    "zh": "忘恩负义的人"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He called his former partner an ingrate for forgetting who had funded his first venture.",
+    "zh": "他称他的前合伙人忘恩负义，忘记了当初是谁资助了他的第一次创业。"
+   },
+   {
+    "en": "Refusing even a thank-you note, she was branded an ingrate by the whole family.",
+    "zh": "她连一张感谢便条都不肯写，被全家人视为忘恩负义之人。"
+   }
+  ]
+ },
+ {
+  "id": 483,
+  "word": "ingratiate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to make an effort to gain favor with",
+    "zh": "讨好，迎合（以博取好感）"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He ingratiated himself with the new boss by volunteering for every extra task.",
+    "zh": "他自愿承担各种额外任务，以此讨好新上司。"
+   },
+   {
+    "en": "The candidate tried to ingratiate herself with voters by remembering their names.",
+    "zh": "这位候选人试图通过记住选民的名字来讨好他们。"
+   }
+  ]
+ },
+ {
+  "id": 484,
+  "word": "inherent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "existing as a permanent, essential quality; intrinsic",
+    "zh": "固有的，内在的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "There is an inherent risk in any investment, no matter how carefully planned.",
+    "zh": "任何投资无论计划得多周密，都存在固有的风险。"
+   },
+   {
+    "en": "She has an inherent talent for putting nervous patients at ease.",
+    "zh": "她天生就有一种让紧张病人安下心来的才能。"
+   }
+  ]
+ },
+ {
+  "id": 485,
+  "word": "inimical",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "hostile, adverse, harmful",
+    "zh": "敌对的，有害的，不利的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Excessive secrecy is inimical to the trust a healthy team requires.",
+    "zh": "过度保密不利于健康团队所需要的信任。"
+   },
+   {
+    "en": "The two nations remained inimical toward one another for generations.",
+    "zh": "这两个国家之间的敌对状态持续了好几代人。"
+   }
+  ]
+ },
+ {
+  "id": 486,
+  "word": "iniquity",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "injustice, wickedness, sin",
+    "zh": "邪恶，罪孽，不公"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The novel exposes the iniquity hidden beneath the city's glittering surface.",
+    "zh": "这部小说揭露了这座城市光鲜表面下隐藏的罪恶。"
+   },
+   {
+    "en": "He spent his life fighting against the iniquity of the caste system.",
+    "zh": "他一生都在与种姓制度的不公进行抗争。"
+   }
+  ]
+ },
+ {
+  "id": 487,
+  "word": "innocuous",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "harmless, inoffensive",
+    "zh": "无害的，无恶意的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "What seemed like an innocuous comment ended up sparking a heated debate.",
+    "zh": "一句看似无恶意的话却引发了一场激烈的争论。"
+   },
+   {
+    "en": "The snake is innocuous, despite its frightening appearance.",
+    "zh": "这种蛇尽管外表吓人，实际上却是无毒无害的。"
+   }
+  ]
+ },
+ {
+  "id": 488,
+  "word": "inordinate",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "excessive, not within proper limits, unrestrained",
+    "zh": "过度的，无节制的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "He spent an inordinate amount of time perfecting a single paragraph.",
+    "zh": "他花了过多的时间去打磨仅仅一段文字。"
+   },
+   {
+    "en": "The project consumed an inordinate share of the department's budget.",
+    "zh": "这个项目耗费了部门预算中不成比例的一大部分。"
+   }
+  ]
+ },
+ {
+  "id": 489,
+  "word": "inquest",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a legal or judicial inquiry, especially by a coroner into a death; the results of such an inquiry",
+    "zh": "（尤指对死因的）审讯，验尸；审讯结果"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The coroner's inquest concluded that the death was accidental.",
+    "zh": "验尸官的调查结论认为该死亡事件属于意外。"
+   },
+   {
+    "en": "An inquest was opened into the factory collapse that killed twelve workers.",
+    "zh": "针对这起造成十二名工人死亡的工厂坍塌事故，一场法定调查随即展开。"
+   }
+  ]
+ },
+ {
+  "id": 490,
+  "word": "insensible",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "incapable of feeling; unconscious, unaware",
+    "zh": "失去知觉的；无意识的，未察觉的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "After the fall, he lay insensible on the pavement for several minutes.",
+    "zh": "摔倒后，他失去知觉地躺在人行道上好几分钟。"
+   },
+   {
+    "en": "She seemed insensible to the danger she was courting by ignoring the warnings.",
+    "zh": "她似乎没有意识到，无视这些警告正让自己身处险境。"
+   }
+  ]
+ },
+ {
+  "id": 491,
+  "word": "insinuate",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to hint or suggest slyly; to introduce an idea subtly and artfully",
+    "zh": "暗示，含沙射影；巧妙地渗入"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Are you insinuating that the results were fabricated?",
+    "zh": "你是在暗示这些结果是编造的吗？"
+   },
+   {
+    "en": "The rumor insinuated itself into the office until everyone believed it.",
+    "zh": "这个谣言悄悄渗透到办公室的每个角落，直到人人都信以为真。"
+   }
+  ]
+ },
+ {
+  "id": 492,
+  "word": "insipid",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "dull, stale, lacking taste or interest",
+    "zh": "乏味的，无趣的；淡而无味的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The critics called the sequel insipid, lacking any of the original's wit.",
+    "zh": "评论家称这部续集乏味无趣，丝毫没有原作的机智风趣。"
+   },
+   {
+    "en": "The soup was so insipid that she reached for the salt immediately.",
+    "zh": "这汤淡而无味，她立刻伸手去拿盐。"
+   }
+  ]
+ },
+ {
+  "id": 493,
+  "word": "insular",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "pertaining to an island; detached, standing alone",
+    "zh": "岛屿的；孤立的"
+   },
+   {
+    "pos": "adj.",
+    "en": "narrow-minded, provincial",
+    "zh": "思想狭隘的，闭塞的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The nation's insular geography shaped its distinct culture and language.",
+    "zh": "该国的岛屿地理环境塑造了其独特的文化与语言。"
+   },
+   {
+    "en": "Critics accused the committee of an insular mindset that ignored outside expertise.",
+    "zh": "评论家指责该委员会思想狭隘，忽视了外部专业意见。"
+   }
+  ]
+ },
+ {
+  "id": 494,
+  "word": "insurrection",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a rebellion or revolt against a government or established authority",
+    "zh": "叛乱，起义，暴动"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The government deployed troops to suppress the growing insurrection.",
+    "zh": "政府调派军队镇压日益扩大的叛乱。"
+   },
+   {
+    "en": "Historians still debate the causes of the failed insurrection.",
+    "zh": "历史学家至今仍在争论这场失败的起义的成因。"
+   }
+  ]
+ },
+ {
+  "id": 495,
+  "word": "intelligible",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "able to be understood, clear",
+    "zh": "可理解的，清晰易懂的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The professor rewrote the proof in more intelligible terms for undergraduates.",
+    "zh": "教授把这一证明用更易懂的方式重新写给本科生看。"
+   },
+   {
+    "en": "His mumbled apology was barely intelligible over the noise of the crowd.",
+    "zh": "在嘈杂的人群中，他含糊的道歉几乎让人听不清楚。"
+   }
+  ]
+ },
+ {
+  "id": 496,
+  "word": "inter",
+  "senses": [
+   {
+    "pos": "v.",
+    "en": "to bury a dead body or place it in a tomb",
+    "zh": "埋葬，安葬"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The general was interred with full military honors.",
+    "zh": "这位将军以隆重的军礼被安葬。"
+   },
+   {
+    "en": "Ancient kings were often interred alongside their most prized possessions.",
+    "zh": "古代国王常常与他们最珍视的财物一同下葬。"
+   }
+  ]
+ },
+ {
+  "id": 497,
+  "word": "interplay",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "interaction, reciprocal relationship or influence",
+    "zh": "相互作用，相互影响"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The novel explores the interplay between memory and identity.",
+    "zh": "这部小说探讨了记忆与身份之间的相互作用。"
+   },
+   {
+    "en": "Economic growth depends on a delicate interplay of investment, labor, and innovation.",
+    "zh": "经济增长依赖于投资、劳动力和创新之间微妙的相互作用。"
+   }
+  ]
+ },
+ {
+  "id": 498,
+  "word": "interregnum",
+  "senses": [
+   {
+    "pos": "n.",
+    "en": "a time between two reigns or regimes during which there is no ruler; any period of freedom from authority or an interruption in a series",
+    "zh": "空位期，两朝之间的过渡期；权力真空期，间歇期"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The interregnum following the king's death was marked by chaos and rival claims to the throne.",
+    "zh": "国王驾崩后的空位期充满了混乱和王位争夺。"
+   },
+   {
+    "en": "The company enjoyed a brief interregnum of calm between two turbulent CEOs.",
+    "zh": "在两任风波不断的首席执行官之间，公司经历了一段短暂平静的过渡期。"
+   }
+  ]
+ },
+ {
+  "id": 499,
+  "word": "intractable",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "difficult to control, manage, or manipulate; hard to cure; stubborn",
+    "zh": "难驾驭的，难对付的；顽固的；（疾病）难治的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "Poverty remains one of the most intractable problems facing policymakers.",
+    "zh": "贫困问题仍是决策者面临的最棘手的问题之一。"
+   },
+   {
+    "en": "The patient's intractable pain did not respond to any standard treatment.",
+    "zh": "这名患者顽固的疼痛对任何常规治疗都没有反应。"
+   }
+  ]
+ },
+ {
+  "id": 500,
+  "word": "intransigent",
+  "senses": [
+   {
+    "pos": "adj.",
+    "en": "refusing to compromise, inflexible, having extreme attitudes",
+    "zh": "不妥协的，顽固不化的；态度极端的"
+   }
+  ],
+  "examples": [
+   {
+    "en": "The union remained intransigent, rejecting every revised offer from management.",
+    "zh": "工会态度依旧强硬，拒绝了管理层的每一份修订提案。"
+   },
+   {
+    "en": "His intransigent stance on the border issue stalled the peace talks for months.",
+    "zh": "他在边界问题上不肯妥协的立场使和平谈判停滞了数月。"
+   }
+  ]
+ }
+]

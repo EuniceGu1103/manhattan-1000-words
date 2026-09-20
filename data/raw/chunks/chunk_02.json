@@ -1,0 +1,2167 @@
+[
+  {
+    "id": 101,
+    "word": "benign",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "kind, gentle, or favorable",
+        "zh": "仁慈的；温和的；有益的"
+      },
+      {
+        "pos": "adj.",
+        "en": "harmless; not cancerous (of a tumor)",
+        "zh": "无害的；（肿瘤）良性的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Despite his gruff exterior, the professor was known for his benign treatment of struggling students.",
+        "zh": "尽管外表粗犷，这位教授却以对困难学生的仁慈对待而闻名。"
+      },
+      {
+        "en": "The biopsy confirmed that the growth was benign, much to the patient's relief.",
+        "zh": "活检证实肿块是良性的，患者如释重负。"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "word": "bent",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a natural inclination or tendency",
+        "zh": "爱好；天性；倾向"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Even as a child, she showed a bent for mathematics that astonished her teachers.",
+        "zh": "她从小就表现出对数学的天赋，令老师们感到惊讶。"
+      },
+      {
+        "en": "His scientific bent led him to question every unproven claim he encountered.",
+        "zh": "他天生的科学倾向使他对遇到的每一个未经证实的说法都提出质疑。"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "word": "besiege",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to surround with armed forces, or to overwhelm with requests or demands",
+        "zh": "包围；围攻；使应接不暇"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Enemy troops besieged the fortress for months before it finally surrendered.",
+        "zh": "敌军围攻这座堡垒数月，它最终才投降。"
+      },
+      {
+        "en": "After the announcement, the celebrity was besieged by reporters demanding a statement.",
+        "zh": "消息公布后，这位名人被记者们围住，要求他发表声明。"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "word": "bevy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a group of animals, or any large gathering",
+        "zh": "（鸟兽等的）一群；大群人或物"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A bevy of quail scattered as the hikers approached the meadow.",
+        "zh": "一群鹌鹑在徒步者靠近草地时四散飞开。"
+      },
+      {
+        "en": "The senator arrived at the gala accompanied by a bevy of advisors.",
+        "zh": "这位参议员在一群顾问的陪同下抵达晚会。"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "word": "bifurcate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to divide into two branches or parts",
+        "zh": "分叉；分成两支"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The river bifurcates just north of the city, forming a small delta.",
+        "zh": "这条河在城市以北分叉，形成一个小三角洲。"
+      },
+      {
+        "en": "Linguists note that the dialect began to bifurcate from its parent language centuries ago.",
+        "zh": "语言学家指出，这种方言几个世纪前就开始从其母语中分化出来。"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "word": "bilk",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to cheat or swindle someone out of money",
+        "zh": "欺骗；诈骗（钱财）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The con artist bilked elderly investors out of their life savings.",
+        "zh": "这个骗子骗走了老年投资者一生的积蓄。"
+      },
+      {
+        "en": "He was arrested for bilking the company through a series of fraudulent invoices.",
+        "zh": "他因通过一系列虚假发票欺诈公司而被捕。"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "word": "blight",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a disease that kills plants, or any cause of destruction or decay",
+        "zh": "（植物）枯萎病；祸害；破坏因素"
+      },
+      {
+        "pos": "v.",
+        "en": "to ruin or cause to wither",
+        "zh": "使枯萎；毁坏；摧残"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A sudden blight destroyed nearly half of the potato crop that year.",
+        "zh": "一场突如其来的枯萎病摧毁了那年近一半的马铃薯作物。"
+      },
+      {
+        "en": "Poverty and crime have blighted many once-thriving neighborhoods.",
+        "zh": "贫困和犯罪已使许多曾经繁荣的社区衰败凋敝。"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "word": "blithe",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "cheerful and carefree, sometimes to the point of ignoring serious matters",
+        "zh": "快乐的，无忧无虑的；（含贬义）满不在乎的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She skipped down the street with a blithe indifference to the gathering storm clouds.",
+        "zh": "她满不在乎地沿街蹦跳，全然不顾聚集的乌云。"
+      },
+      {
+        "en": "His blithe disregard for the budget worried the entire finance team.",
+        "zh": "他对预算满不在乎的态度让整个财务团队感到担忧。"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "word": "bogus",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "not genuine; fake or fraudulent",
+        "zh": "假的；伪造的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The detective quickly determined that the passport was bogus.",
+        "zh": "侦探很快查明这本护照是伪造的。"
+      },
+      {
+        "en": "Investors lost millions after falling for the company's bogus financial reports.",
+        "zh": "投资者因轻信该公司伪造的财务报告而损失数百万美元。"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "word": "bolster",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to strengthen or reinforce something",
+        "zh": "加强；支持；巩固"
+      }
+    ],
+    "examples": [
+      {
+        "en": "New evidence bolstered the prosecution's case against the defendant.",
+        "zh": "新证据加强了检方对被告的指控。"
+      },
+      {
+        "en": "The government introduced tax breaks to bolster small businesses.",
+        "zh": "政府推出减税措施以扶持小企业。"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "word": "bombastic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "(of speech or writing) pompous and overly grand",
+        "zh": "夸夸其谈的；言辞浮夸的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The politician's bombastic speech was long on rhetoric but short on substance.",
+        "zh": "这位政客的演讲言辞浮夸，华而不实，缺乏实质内容。"
+      },
+      {
+        "en": "Critics dismissed the novel's bombastic prose as pretentious and exhausting.",
+        "zh": "评论家认为小说浮夸的文笔矫揉造作，令人厌烦。"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "word": "bonhomie",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "cheerful friendliness; good-natured geniality",
+        "zh": "友善；和蔼可亲"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The host's natural bonhomie put every guest at ease within minutes.",
+        "zh": "主人天生的和蔼可亲让每位客人几分钟内就感到自在。"
+      },
+      {
+        "en": "Despite the tense negotiations, the diplomats maintained an air of bonhomie in public.",
+        "zh": "尽管谈判紧张，外交官们在公开场合仍保持着友好和睦的姿态。"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "word": "boor",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a rude, ill-mannered person",
+        "zh": "粗鲁无礼的人；乡巴佬"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He behaved like a boor at the dinner party, interrupting everyone who spoke.",
+        "zh": "他在晚宴上举止粗鲁，打断每个说话的人。"
+      },
+      {
+        "en": "Her uncle was a well-meaning boor who never noticed when he had overstayed his welcome.",
+        "zh": "她叔叔是个心地善良却粗俗笨拙的人，从不觉察自己已经叨扰太久。"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "word": "brandish",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to wave or flourish something, especially a weapon, threateningly",
+        "zh": "挥舞（武器等）；炫耀"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The masked robber brandished a knife and demanded the cash register.",
+        "zh": "蒙面劫匪挥舞着刀子，要求打开收银机。"
+      },
+      {
+        "en": "She brandished her diploma triumphantly for the camera.",
+        "zh": "她得意洋洋地对着镜头挥舞自己的毕业证书。"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "word": "brook",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to tolerate or put up with (usually used in the negative)",
+        "zh": "容忍，忍受（常用于否定句）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The coach would brook no excuses for missing practice.",
+        "zh": "教练绝不容忍任何缺席训练的借口。"
+      },
+      {
+        "en": "A tyrant of his temperament could brook no dissent from his advisors.",
+        "zh": "以他的脾气，这样一个暴君容不得顾问们的任何异议。"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "word": "bucolic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "relating to idyllic, peaceful country life",
+        "zh": "田园的；乡村生活的（多指宁静美好）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "They spent the summer in a bucolic village surrounded by rolling hills and sheep.",
+        "zh": "他们在一个被起伏山丘和羊群环绕的田园村庄度过了整个夏天。"
+      },
+      {
+        "en": "The painting captured a bucolic scene of farmers resting beneath an oak tree.",
+        "zh": "这幅画描绘了农民在橡树下休息的田园景象。"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "word": "buffer",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "something that shields or cushions against shock or harm",
+        "zh": "缓冲物；缓冲器"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The demilitarized zone serves as a buffer between the two hostile nations.",
+        "zh": "非军事区在这两个敌对国家之间起着缓冲带的作用。"
+      },
+      {
+        "en": "Savings can act as a financial buffer during an unexpected job loss.",
+        "zh": "储蓄可以在意外失业时起到经济缓冲的作用。"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "word": "bureaucracy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a system of government or organization with many officials and rigid, often excessive rules",
+        "zh": "官僚机构；繁文缛节"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Getting the permit approved required wading through layers of bureaucracy.",
+        "zh": "获得许可证需要经历层层官僚程序。"
+      },
+      {
+        "en": "Small business owners often complain about the bureaucracy involved in filing taxes.",
+        "zh": "小企业主常常抱怨报税过程中的繁琐官僚手续。"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "word": "burgeon",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to grow or develop rapidly; to sprout",
+        "zh": "迅速成长；蓬勃发展；发芽"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The city's tech industry burgeoned after several startups moved their headquarters there.",
+        "zh": "几家初创公司将总部迁至此地后，该城市的科技产业迅速蓬勃发展。"
+      },
+      {
+        "en": "New leaves burgeoned on the branches with the arrival of spring.",
+        "zh": "春天来临，枝头新叶萌发。"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "word": "burnish",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to polish something until it shines; also, to enhance a reputation",
+        "zh": "磨光；擦亮；（喻）提升（形象、声誉）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The blacksmith burnished the sword's blade until it gleamed.",
+        "zh": "铁匠把剑刃磨得锃亮。"
+      },
+      {
+        "en": "The charity gala helped burnish the corporation's public image.",
+        "zh": "这场慈善晚会有助于提升该公司的公众形象。"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "word": "buttress",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to support or reinforce (an argument, structure, etc.)",
+        "zh": "支持；加固；巩固"
+      },
+      {
+        "pos": "n.",
+        "en": "a structure built to support a wall",
+        "zh": "扶壁；支柱"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The lawyer buttressed her argument with three independent studies.",
+        "zh": "这位律师用三项独立研究来支撑她的论点。"
+      },
+      {
+        "en": "Flying buttresses allowed medieval cathedrals to reach extraordinary heights.",
+        "zh": "飞扶壁使中世纪的大教堂得以建得异常高耸。"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "word": "bygone",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "past, belonging to an earlier time",
+        "zh": "过去的；以往的"
+      },
+      {
+        "pos": "n.",
+        "en": "(usually plural) something from the past",
+        "zh": "过去的事情（常用复数 bygones）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The museum recreates the fashions of a bygone era.",
+        "zh": "这座博物馆再现了往昔时代的服饰风尚。"
+      },
+      {
+        "en": "After years of feuding, the brothers finally agreed to let bygones be bygones.",
+        "zh": "多年不和之后，兄弟俩终于同意既往不咎。"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "word": "cacophony",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a harsh, jarring mixture of sounds",
+        "zh": "刺耳的杂音；不和谐音"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The cacophony of car horns during rush hour gave her a headache.",
+        "zh": "高峰期汽车喇叭的刺耳噪音让她头疼。"
+      },
+      {
+        "en": "Backstage was a cacophony of instruments tuning at once.",
+        "zh": "后台一片乐器同时调音的嘈杂声。"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "word": "calumny",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a false and malicious statement meant to damage someone's reputation",
+        "zh": "诽谤；中伤"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The senator's career was nearly destroyed by a campaign of calumny.",
+        "zh": "一场诽谤运动几乎毁掉了这位参议员的政治生涯。"
+      },
+      {
+        "en": "She refused to respond to the tabloid's calumny, letting her record speak for itself.",
+        "zh": "她拒绝回应小报的诽谤，让自己的实际表现来说话。"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "word": "canard",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a false, unfounded rumor or story",
+        "zh": "谣言；无根据的说法"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The claim that the medicine causes memory loss is a canard with no scientific basis.",
+        "zh": "该药物会导致记忆丧失的说法是毫无科学依据的谣言。"
+      },
+      {
+        "en": "Historians have long debunked the canard that the emperor started the fire himself.",
+        "zh": "历史学家早已驳斥了皇帝自己纵火的这一谣传。"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "word": "candid",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "open, honest, and straightforward",
+        "zh": "坦率的；直言不讳的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "In a candid interview, the CEO admitted the product launch had been a failure.",
+        "zh": "在一次坦诚的采访中，首席执行官承认产品发布是失败的。"
+      },
+      {
+        "en": "I appreciate your candid feedback, even though it was hard to hear.",
+        "zh": "我很感激你坦率的反馈，尽管听起来并不轻松。"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "word": "canonical",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "officially recognized or authoritative; relating to an accepted set of rules or works",
+        "zh": "权威的；公认的；正统的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The professor assigned the canonical texts of modern philosophy for the first week.",
+        "zh": "教授在第一周布置了现代哲学的经典权威文本。"
+      },
+      {
+        "en": "This algorithm has become the canonical solution to the routing problem.",
+        "zh": "这种算法已成为解决路由问题的标准方案。"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "word": "capricious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "acting on sudden impulse; unpredictable",
+        "zh": "反复无常的；任性的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The capricious weather in the mountains can shift from sunshine to snow within hours.",
+        "zh": "山区多变的天气几小时内就能从晴朗转为降雪。"
+      },
+      {
+        "en": "Employees grew frustrated with their capricious manager's constantly changing demands.",
+        "zh": "员工们对经理反复无常、不断变化的要求感到沮丧。"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "word": "cardinal",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "of primary importance; fundamental",
+        "zh": "主要的；基本的；极其重要的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Honesty is a cardinal virtue in her family's code of conduct.",
+        "zh": "诚实是她家庭行为准则中最重要的美德。"
+      },
+      {
+        "en": "Ignoring safety protocols is a cardinal sin in this laboratory.",
+        "zh": "在这个实验室里，无视安全规程是绝对不可饶恕的错误。"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "word": "cartography",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the science or practice of mapmaking",
+        "zh": "制图学；地图绘制"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Advances in satellite imaging revolutionized modern cartography.",
+        "zh": "卫星成像技术的进步彻底改变了现代制图学。"
+      },
+      {
+        "en": "She studied cartography to design more accurate hiking trail maps.",
+        "zh": "她学习制图学以绘制更精确的徒步路线图。"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "word": "castigate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to criticize severely, often to correct",
+        "zh": "严厉批评；惩罚（以示惩戒）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The editorial castigated the mayor for his handling of the crisis.",
+        "zh": "这篇社论严厉批评市长对危机的处理方式。"
+      },
+      {
+        "en": "Her father castigated her for missing curfew without calling.",
+        "zh": "她父亲因她未打电话就错过宵禁时间而严厉训斥她。"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "word": "catalyst",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "something that causes or accelerates a change or event",
+        "zh": "催化剂；促成变化的因素"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The oil crisis served as a catalyst for investment in renewable energy.",
+        "zh": "石油危机成为推动可再生能源投资的催化剂。"
+      },
+      {
+        "en": "Her mentor was the catalyst that transformed her tentative idea into a thriving business.",
+        "zh": "她的导师是把她那不成熟的想法转变为繁荣事业的催化剂。"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "word": "catholic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "universal in scope; broad-minded, all-embracing in taste",
+        "zh": "普遍的；包罗万象的；（品味）广泛的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His catholic taste in music ranges from baroque symphonies to underground hip-hop.",
+        "zh": "他对音乐的品味十分广泛，从巴洛克交响乐到地下嘻哈无所不包。"
+      },
+      {
+        "en": "The library's catholic collection includes texts from nearly every culture and era.",
+        "zh": "这座图书馆的藏书包罗万象，几乎涵盖每个文化和时代。"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "word": "caustic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "chemically corrosive; also, harshly critical or sarcastic",
+        "zh": "腐蚀性的；（言辞）刻薄的，讽刺的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The factory stored caustic chemicals capable of burning skin on contact.",
+        "zh": "工厂存放的腐蚀性化学品一接触皮肤就会灼伤。"
+      },
+      {
+        "en": "The critic's caustic review left the young playwright in tears.",
+        "zh": "评论家刻薄的评论让这位年轻剧作家泪流满面。"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "word": "censure",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "an expression of strong disapproval or an official reprimand",
+        "zh": "谴责；官方申斥"
+      },
+      {
+        "pos": "v.",
+        "en": "to criticize or reprimand formally",
+        "zh": "谴责；正式斥责"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The senator faced a formal censure for violating ethics rules.",
+        "zh": "这位参议员因违反道德规则而受到正式谴责。"
+      },
+      {
+        "en": "The board voted to censure the CEO for the accounting scandal.",
+        "zh": "董事会投票谴责首席执行官在会计丑闻中的行为。"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "word": "chauvinism",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "fanatical patriotism or excessive enthusiasm for one's country or military",
+        "zh": "沙文主义；狂热的爱国主义"
+      },
+      {
+        "pos": "n.",
+        "en": "biased devotion to or belief in the superiority of one's own group",
+        "zh": "（对本群体的）盲目偏袒；性别歧视（如 male chauvinism）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The propaganda relied on chauvinism to justify the invasion.",
+        "zh": "这些宣传利用沙文主义来为入侵辩护。"
+      },
+      {
+        "en": "Her thesis examined how chauvinism shaped attitudes toward women in the workplace.",
+        "zh": "她的论文探讨了大男子主义如何影响职场对女性的态度。"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "word": "chicanery",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "deception through trickery or false argument",
+        "zh": "诡计；欺诈手段"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The merger was rife with legal chicanery designed to hide the company's debts.",
+        "zh": "这次并购充斥着旨在掩盖公司债务的法律诡计。"
+      },
+      {
+        "en": "Voters grew tired of the political chicanery surrounding the redistricting plan.",
+        "zh": "选民们对围绕重新划分选区计划的政治诡计感到厌倦。"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "word": "chronological",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "arranged in the order in which events occurred",
+        "zh": "按时间顺序的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The biography presents his life in strict chronological order.",
+        "zh": "这本传记按严格的时间顺序讲述他的一生。"
+      },
+      {
+        "en": "She organized the photographs chronologically, starting with her grandparents' wedding.",
+        "zh": "她按时间顺序整理照片，从祖父母的婚礼开始。"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "word": "circumscribe",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to strictly limit the range or scope of something",
+        "zh": "限制；划定界限"
+      },
+      {
+        "pos": "v.",
+        "en": "(geometry) to draw a figure around another so that it touches as many points as possible",
+        "zh": "（几何）外接（作外接图形）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "New regulations circumscribed the agency's authority to issue permits.",
+        "zh": "新法规严格限制了该机构颁发许可证的权力。"
+      },
+      {
+        "en": "Students learned to circumscribe a triangle within a circle in geometry class.",
+        "zh": "学生们在几何课上学会了画出一个三角形的外接圆。"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "word": "circumspect",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "cautious and careful to consider consequences",
+        "zh": "谨慎的；小心翼翼的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Given the volatile market, the investor remained circumspect about committing more funds.",
+        "zh": "鉴于市场动荡，这位投资者对追加投资仍保持谨慎。"
+      },
+      {
+        "en": "The diplomat was circumspect in his choice of words during the tense negotiations.",
+        "zh": "在紧张的谈判中，这位外交官对措辞非常谨慎。"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "word": "clamber",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to climb or scramble awkwardly, using both hands and feet",
+        "zh": "笨拙地攀爬；手脚并用地爬"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The children clambered over the rocks to reach the tide pools.",
+        "zh": "孩子们爬过岩石去看潮汐水潭。"
+      },
+      {
+        "en": "Exhausted, the climbers clambered up the final ridge just before sunset.",
+        "zh": "筋疲力尽的登山者在日落前艰难地爬上了最后一段山脊。"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "word": "clamor",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a loud, continuous noise or outcry, especially of protest or demand",
+        "zh": "喧闹；喧嚣；（抗议或要求的）呼声"
+      }
+    ],
+    "examples": [
+      {
+        "en": "There was a public clamor for the mayor's resignation after the scandal.",
+        "zh": "丑闻曝光后，公众强烈要求市长辞职。"
+      },
+      {
+        "en": "The clamor of the marketplace faded as evening approached.",
+        "zh": "随着夜幕降临，集市的喧闹声渐渐平息。"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "word": "clinch",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to settle or make final conclusively",
+        "zh": "（决定性地）敲定；确定"
+      },
+      {
+        "pos": "v.",
+        "en": "to fasten or hold together securely",
+        "zh": "扣紧；固定；（拳击等）抱住对方"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A last-minute goal clinched the championship for the underdog team.",
+        "zh": "最后时刻的一个进球为这支实力较弱的球队锁定了冠军。"
+      },
+      {
+        "en": "The boxer clinched his opponent to avoid further blows.",
+        "zh": "拳击手抱住对手以避免再遭受打击。"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "word": "cloying",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "excessively sweet or sentimental, to the point of being unpleasant",
+        "zh": "过分甜腻的；令人生厌的（甜蜜）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The dessert's cloying sweetness made it impossible to finish more than a few bites.",
+        "zh": "这道甜点过于甜腻，让人难以吃下几口以上。"
+      },
+      {
+        "en": "Critics found the film's ending cloying and overly sentimental.",
+        "zh": "评论家认为这部电影的结局过于煽情，令人腻烦。"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "word": "coagulate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to cause a liquid to thicken into a solid or semisolid mass",
+        "zh": "凝结；凝固"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Blood coagulates within minutes to seal a minor wound.",
+        "zh": "血液在几分钟内凝结，封住轻微的伤口。"
+      },
+      {
+        "en": "The sauce coagulated as it cooled, forming an unappetizing skin.",
+        "zh": "酱汁冷却后凝固，形成一层令人倒胃口的表皮。"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "word": "coalesce",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to come together and unite into a single whole",
+        "zh": "结合；联合；融合"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The scattered protest groups gradually coalesced into a unified movement.",
+        "zh": "分散的抗议团体逐渐联合成一个统一的运动。"
+      },
+      {
+        "en": "Droplets of mercury coalesced into a single, larger bead.",
+        "zh": "水银的小液滴聚合成一个更大的液珠。"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "word": "coda",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the concluding section of a musical piece; more broadly, a concluding event that sums things up",
+        "zh": "（乐曲的）尾声；（事件的）结尾，总结性的结局"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The symphony's coda brought the entire theme full circle in a triumphant finale.",
+        "zh": "这首交响曲的尾声以辉煌的终章将整个主题首尾呼应。"
+      },
+      {
+        "en": "His retirement speech served as a fitting coda to a forty-year career.",
+        "zh": "他的退休演讲为四十年的职业生涯画上了恰当的句号。"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "word": "coffer",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a chest for storing valuables; (plural) a treasury or financial reserves",
+        "zh": "保险箱；宝库；（复数）金库，财政储备"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Pirates buried the coffer of gold on a remote island.",
+        "zh": "海盗把装满黄金的箱子埋在一座偏远的岛屿上。"
+      },
+      {
+        "en": "The new tax law is expected to fill the state's coffers considerably.",
+        "zh": "新税法预计将大幅充实州政府的财政收入。"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "word": "cogent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "clear, logical, and convincing",
+        "zh": "有说服力的；令人信服的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She presented a cogent argument for restructuring the department.",
+        "zh": "她提出了一个令人信服的论点，主张重组该部门。"
+      },
+      {
+        "en": "The lawyer's cogent closing statement swayed the jury.",
+        "zh": "律师有理有据的结案陈词打动了陪审团。"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "word": "collude",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to conspire or cooperate secretly for a fraudulent or illegal purpose",
+        "zh": "串通；勾结；共谋"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Investigators found that the two companies had colluded to fix prices.",
+        "zh": "调查人员发现这两家公司串通操纵价格。"
+      },
+      {
+        "en": "The whistleblower revealed that officials had colluded to hide the safety violations.",
+        "zh": "举报人揭露官员们串通隐瞒安全违规行为。"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "word": "commensurate",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "corresponding in size or degree; proportional",
+        "zh": "相称的；相符的；成比例的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her salary was finally raised to a level commensurate with her experience.",
+        "zh": "她的薪水终于提高到与其经验相称的水平。"
+      },
+      {
+        "en": "The punishment should be commensurate with the severity of the crime.",
+        "zh": "惩罚应当与罪行的严重程度相称。"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "word": "compendium",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a concise but comprehensive summary or collection",
+        "zh": "概要；纲要；汇编"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The textbook is essentially a compendium of everything a first-year student needs to know.",
+        "zh": "这本教科书本质上是一年级学生所需知识的汇编。"
+      },
+      {
+        "en": "He published a compendium of essays spanning his entire career.",
+        "zh": "他出版了一部涵盖其整个职业生涯的文集。"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "word": "complacent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "self-satisfied and unconcerned, often leading to carelessness",
+        "zh": "自满的；自鸣得意的（因而疏忽大意）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The champion grew complacent after years of easy victories and lost the final match.",
+        "zh": "这位冠军多年轻松获胜后变得自满，结果输掉了决赛。"
+      },
+      {
+        "en": "Managers warned employees not to become complacent despite the company's recent success.",
+        "zh": "尽管公司近期取得成功，管理层仍警告员工不要自满。"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "word": "complaisant",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "eager to please; cheerfully compliant",
+        "zh": "顺从的；乐于讨好他人的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The complaisant assistant agreed to every request without complaint.",
+        "zh": "这位顺从的助理对每一个要求都毫无怨言地照办。"
+      },
+      {
+        "en": "Her complaisant nature made her popular, though some saw it as a lack of backbone.",
+        "zh": "她乐于顺从的性格让她很受欢迎，尽管有人认为这是缺乏主见。"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "word": "complementary",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "completing or enhancing something else; fitting together well",
+        "zh": "互补的；相辅相成的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The two researchers' complementary skills made them an ideal team.",
+        "zh": "这两位研究人员互补的技能使他们成为理想的团队。"
+      },
+      {
+        "en": "Red and green are complementary colors on the color wheel.",
+        "zh": "在色轮上，红色和绿色是互补色。"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "word": "compliant",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "obeying rules or requirements; submissive",
+        "zh": "服从的；顺从的；符合规定的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The new factory is fully compliant with international safety standards.",
+        "zh": "这家新工厂完全符合国际安全标准。"
+      },
+      {
+        "en": "As a child, he was quiet and compliant, rarely questioning authority.",
+        "zh": "他小时候安静又顺从，很少质疑权威。"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "word": "concede",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to admit reluctantly, or to yield or give up (a point, territory, etc.)",
+        "zh": "（勉强）承认；让步；割让"
+      }
+    ],
+    "examples": [
+      {
+        "en": "After reviewing the data, the scientist conceded that her hypothesis was flawed.",
+        "zh": "在查看数据后，这位科学家承认她的假设存在缺陷。"
+      },
+      {
+        "en": "The defeated nation was forced to concede several territories in the peace treaty.",
+        "zh": "战败国被迫在和平条约中割让若干领土。"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "word": "conciliatory",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "intended to make peace or overcome distrust",
+        "zh": "安抚的；和解的；调停的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The president adopted a conciliatory tone to ease tensions with the opposition.",
+        "zh": "总统采取和解的语气以缓解与反对派的紧张关系。"
+      },
+      {
+        "en": "She made a conciliatory gesture by apologizing first, even though the fault was shared.",
+        "zh": "尽管过错是双方共同造成的，她还是率先道歉以示和解。"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "word": "concur",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to agree or express approval",
+        "zh": "赞同；同意"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Two of the three judges concurred with the majority opinion.",
+        "zh": "三位法官中有两位赞同多数意见。"
+      },
+      {
+        "en": "I concur with your assessment that the project needs more funding.",
+        "zh": "我同意你关于该项目需要更多资金的评估。"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "word": "condone",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to overlook or implicitly approve of (something wrong)",
+        "zh": "宽恕；容忍（不良行为）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The school will not condone bullying of any kind.",
+        "zh": "学校绝不容忍任何形式的欺凌行为。"
+      },
+      {
+        "en": "By staying silent, some felt the committee condoned the discriminatory policy.",
+        "zh": "由于保持沉默，一些人认为该委员会默许了这项歧视性政策。"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "word": "confer",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to consult with others; discuss",
+        "zh": "商议；磋商"
+      },
+      {
+        "pos": "v.",
+        "en": "to bestow or grant (an honor, degree, etc.)",
+        "zh": "授予；赋予"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The lawyers conferred privately before responding to the judge.",
+        "zh": "律师们在回应法官之前私下商议了一番。"
+      },
+      {
+        "en": "The university conferred an honorary degree upon the retiring professor.",
+        "zh": "大学授予这位即将退休的教授荣誉学位。"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "word": "confound",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to confuse or perplex; to mix up or make worse",
+        "zh": "使困惑；使混淆；使恶化"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The puzzling results confounded even the most experienced researchers.",
+        "zh": "这些令人费解的结果让最有经验的研究人员也感到困惑。"
+      },
+      {
+        "en": "Bad weather confounded the rescue team's efforts to reach the stranded hikers.",
+        "zh": "恶劣的天气使救援队救助被困徒步者的努力更加困难。"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "word": "connoisseur",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "an expert with refined taste, especially in the arts",
+        "zh": "鉴赏家；行家"
+      }
+    ],
+    "examples": [
+      {
+        "en": "As a connoisseur of fine wine, he could identify the vineyard from a single sip.",
+        "zh": "作为一位品酒鉴赏家，他仅凭一口就能辨认出葡萄园。"
+      },
+      {
+        "en": "The gallery owner was a connoisseur of Renaissance art.",
+        "zh": "画廊老板是文艺复兴艺术的鉴赏家。"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "word": "connote",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to suggest or imply an additional meaning beyond the literal one",
+        "zh": "隐含；暗示（引申义）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The word 'home' connotes warmth and belonging beyond its literal meaning of a dwelling.",
+        "zh": "“家”这个词除了字面意义上的住所外，还隐含着温暖与归属感。"
+      },
+      {
+        "en": "In this context, the term connotes disapproval rather than neutral description.",
+        "zh": "在这一语境中，该术语暗含不赞成之意，而非中性描述。"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "word": "console",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to comfort someone in grief or distress",
+        "zh": "安慰；抚慰"
+      },
+      {
+        "pos": "n.",
+        "en": "a control panel, or a small table or cabinet",
+        "zh": "控制台；操作台；（小型）桌柜"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Friends gathered to console her after the sudden loss of her father.",
+        "zh": "朋友们聚在一起安慰她突然失去父亲的悲痛。"
+      },
+      {
+        "en": "The pilot monitored dozens of dials on the aircraft's console.",
+        "zh": "飞行员在飞机的控制台上监视着几十个仪表。"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "word": "consolidate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to combine into a single, more coherent whole; to strengthen",
+        "zh": "合并；巩固；使一体化"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The two banks consolidated their operations after the merger.",
+        "zh": "两家银行合并后统一了业务运营。"
+      },
+      {
+        "en": "The general consolidated his power by removing rival officers.",
+        "zh": "这位将军通过清除敌对军官来巩固自己的权力。"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "word": "constrict",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to squeeze or narrow; to restrict freedom",
+        "zh": "压缩；收缩；限制（自由）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The tight collar constricted his breathing during the long ceremony.",
+        "zh": "紧绷的衣领在漫长的仪式上使他呼吸困难。"
+      },
+      {
+        "en": "New regulations constricted the freedom of small vendors to set their own prices.",
+        "zh": "新规限制了小商贩自主定价的自由。"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "word": "construe",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to interpret the meaning of something",
+        "zh": "理解；解释；翻译"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her silence was construed as an admission of guilt.",
+        "zh": "她的沉默被解读为默认有罪。"
+      },
+      {
+        "en": "The judge construed the ambiguous clause in favor of the tenant.",
+        "zh": "法官对这一含糊条款的解释有利于租户。"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "word": "contentious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "likely to cause disagreement or controversy",
+        "zh": "有争议的；好争论的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Immigration remains one of the most contentious issues in the election.",
+        "zh": "移民问题仍是此次选举中最具争议的议题之一。"
+      },
+      {
+        "en": "He has a reputation as a contentious colleague who argues over trivial matters.",
+        "zh": "他以爱为琐事争论而闻名，是个爱争论的同事。"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "word": "contextualize",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to place something within a relevant context or background",
+        "zh": "将……置于语境中；联系背景加以说明"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The historian contextualized the treaty within the political turmoil of the era.",
+        "zh": "这位历史学家将该条约置于那个时代的政治动荡背景中加以阐释。"
+      },
+      {
+        "en": "It's important to contextualize the statistic rather than presenting it in isolation.",
+        "zh": "重要的是结合背景来理解这一统计数据，而不是孤立地呈现它。"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "word": "contraries",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "opposing things; either of two opposites",
+        "zh": "对立的事物；相反的事物"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Philosophers have long debated whether love and hate are true contraries.",
+        "zh": "哲学家们长期争论爱与恨是否真的是对立的两极。"
+      },
+      {
+        "en": "The play juxtaposes contraries, light and dark, hope and despair, throughout its acts.",
+        "zh": "这部戏剧在各幕中不断并置光明与黑暗、希望与绝望这类对立事物。"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "word": "contrite",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "feeling or showing remorse for wrongdoing",
+        "zh": "悔恨的；忏悔的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The contrite employee apologized to the entire team for his outburst.",
+        "zh": "这位悔恨的员工向整个团队为自己的失态道歉。"
+      },
+      {
+        "en": "Her contrite letter convinced the judge to reduce her sentence.",
+        "zh": "她那封悔过的信打动了法官，从而获得减刑。"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "word": "contumacious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "stubbornly disobedient or rebellious, especially toward authority",
+        "zh": "顽固不服从的；桀骜不驯的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The contumacious witness refused to answer the court's questions.",
+        "zh": "这位桀骜不驯的证人拒绝回答法庭的问题。"
+      },
+      {
+        "en": "His contumacious attitude toward school rules eventually led to expulsion.",
+        "zh": "他对校规桀骜不驯的态度最终导致被开除。"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "word": "conundrum",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a difficult problem or a riddle with a puzzling answer",
+        "zh": "难题；谜语"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Economists face a conundrum: how to curb inflation without triggering a recession.",
+        "zh": "经济学家面临一个难题：如何在不引发衰退的情况下遏制通货膨胀。"
+      },
+      {
+        "en": "The detective story hinges on a clever conundrum that takes the whole book to solve.",
+        "zh": "这部侦探小说的核心是一个精巧的谜题，需要通读全书才能解开。"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "word": "converge",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to move toward a common point; to come together",
+        "zh": "汇聚；聚集；趋于一致"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Several highways converge just outside the city center.",
+        "zh": "几条高速公路在市中心外汇合。"
+      },
+      {
+        "en": "Scientists from different fields converged on a single explanation for the phenomenon.",
+        "zh": "来自不同领域的科学家们得出了对这一现象的一致解释。"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "word": "conversant",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "familiar with or knowledgeable about a subject",
+        "zh": "熟悉的；精通的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "As a longtime diplomat, she is conversant with the customs of dozens of countries.",
+        "zh": "作为一名资深外交官，她熟悉数十个国家的风俗习惯。"
+      },
+      {
+        "en": "Applicants should be conversant with at least one programming language.",
+        "zh": "应聘者应当熟悉至少一种编程语言。"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "word": "conversely",
+    "senses": [
+      {
+        "pos": "adv.",
+        "en": "in a manner that is opposite; on the other hand",
+        "zh": "相反地；反之"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Higher interest rates tend to slow spending; conversely, lower rates encourage it.",
+        "zh": "较高的利率往往抑制消费；反之，较低的利率则会刺激消费。"
+      },
+      {
+        "en": "Some plants thrive in full sun; conversely, others wither under direct light.",
+        "zh": "有些植物在充足阳光下茁壮成长；相反，另一些植物在直射光下则会枯萎。"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "word": "convoke",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to call together for a meeting",
+        "zh": "召集（会议）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The king convoked his council to discuss the looming threat of war.",
+        "zh": "国王召集他的顾问会议，商讨迫在眉睫的战争威胁。"
+      },
+      {
+        "en": "The university president convoked a special faculty meeting to address the budget crisis.",
+        "zh": "大学校长召集了一次特别教师会议，以应对预算危机。"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "word": "convoluted",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "excessively complicated or twisted",
+        "zh": "复杂难懂的；错综复杂的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The contract's convoluted language confused even the lawyers reviewing it.",
+        "zh": "合同错综复杂的措辞连审阅的律师都感到困惑。"
+      },
+      {
+        "en": "Her explanation was so convoluted that no one understood the actual plan.",
+        "zh": "她的解释过于繁琐，以至于没人真正理解这个计划。"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "word": "copious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "abundant in quantity; plentiful",
+        "zh": "丰富的；大量的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She took copious notes during the three-hour lecture.",
+        "zh": "在这场三小时的讲座中，她做了大量笔记。"
+      },
+      {
+        "en": "The region enjoys copious rainfall throughout the monsoon season.",
+        "zh": "该地区在季风季节雨量充沛。"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "word": "corroborate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to support or confirm with additional evidence",
+        "zh": "证实；佐证"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Two independent witnesses corroborated the victim's account of the incident.",
+        "zh": "两名独立的证人证实了受害者对事件的描述。"
+      },
+      {
+        "en": "The new fossil evidence corroborates the scientists' theory about the species' migration.",
+        "zh": "新的化石证据证实了科学家关于该物种迁徙的理论。"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "word": "cosmopolitan",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "worldly and free of national or local bias; at ease anywhere in the world",
+        "zh": "世界性的；见多识广的；无地域偏见的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Growing up in five countries gave her a genuinely cosmopolitan outlook.",
+        "zh": "在五个国家成长的经历让她拥有真正的国际化视野。"
+      },
+      {
+        "en": "Singapore is often described as one of the most cosmopolitan cities in Asia.",
+        "zh": "新加坡常被描述为亚洲最具国际化色彩的城市之一。"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "word": "cosset",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to pamper or treat indulgently",
+        "zh": "溺爱；娇惯；纵容"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Grandparents often cosset their grandchildren more than they ever did their own kids.",
+        "zh": "祖父母对孙辈的溺爱往往超过当年对自己孩子的照顾。"
+      },
+      {
+        "en": "The pampered heir had been cosseted since birth and rarely faced any hardship.",
+        "zh": "这位备受宠爱的继承人自出生起就被娇惯着，很少经历任何艰难。"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "word": "coterie",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a small, exclusive group of people with shared interests",
+        "zh": "小圈子；核心集团；派系"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The author was surrounded by a coterie of admiring young writers.",
+        "zh": "这位作家身边围绕着一群仰慕他的年轻作家。"
+      },
+      {
+        "en": "Decisions at the firm were made by a tight coterie of senior partners.",
+        "zh": "公司的决策由一个紧密的资深合伙人小圈子决定。"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "word": "countenance",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a person's facial expression or face",
+        "zh": "面容；表情"
+      },
+      {
+        "pos": "v.",
+        "en": "to approve of or tolerate",
+        "zh": "赞同；容忍"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A look of quiet sorrow crossed her countenance as she read the letter.",
+        "zh": "读信时，一丝静默的悲伤掠过她的面容。"
+      },
+      {
+        "en": "The principal refused to countenance any form of cheating on exams.",
+        "zh": "校长绝不容忍任何形式的考试作弊。"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "word": "counterintuitive",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "contrary to what one would intuitively expect",
+        "zh": "违反直觉的；出乎意料的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "It seems counterintuitive, but sometimes doing less work produces better results.",
+        "zh": "这看似违反直觉，但有时少做反而能产生更好的结果。"
+      },
+      {
+        "en": "The counterintuitive finding suggested that the drug worked better at lower doses.",
+        "zh": "这一违反直觉的发现表明，该药物在较低剂量下效果反而更好。"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "word": "counterpoint",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "something that contrasts with or complements another thing",
+        "zh": "对照物；对立面；相辅相成之物"
+      },
+      {
+        "pos": "n.",
+        "en": "(music) the technique of combining independent melodic lines",
+        "zh": "（音乐）对位法"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The quiet countryside scenes serve as a counterpoint to the film's chaotic city sequences.",
+        "zh": "宁静的乡村场景与影片混乱的城市片段形成对照。"
+      },
+      {
+        "en": "Bach's mastery of counterpoint is evident in every voice of the fugue.",
+        "zh": "巴赫在赋格曲每个声部中都展现出对位法的精湛技艺。"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "word": "counterproductive",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "having the opposite of the intended effect; defeating one's purpose",
+        "zh": "适得其反的；事与愿违的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Punishing employees for reporting errors is counterproductive, since it discourages honesty.",
+        "zh": "因员工报告错误而惩罚他们会适得其反，因为这会抑制诚实。"
+      },
+      {
+        "en": "Cramming the night before an exam is often counterproductive.",
+        "zh": "考前一晚临时抱佛脚往往适得其反。"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "word": "covert",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "secret or hidden; not openly acknowledged",
+        "zh": "隐秘的；秘密的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The agency conducted a covert operation to gather intelligence.",
+        "zh": "该机构展开了一次秘密行动以收集情报。"
+      },
+      {
+        "en": "She offered covert support to the campaign without publicly endorsing it.",
+        "zh": "她暗中支持这次竞选活动，但并未公开表态。"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "word": "crafty",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "cunning and skillful in deception",
+        "zh": "狡猾的；诡计多端的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The crafty fox slipped past the guard dogs without making a sound.",
+        "zh": "这只狡猾的狐狸悄无声息地溜过了看门狗。"
+      },
+      {
+        "en": "Through a crafty negotiation, she managed to lower the price by half.",
+        "zh": "通过一场精明的谈判，她成功把价格压低了一半。"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "word": "craven",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "shamefully cowardly",
+        "zh": "怯懦的；懦弱的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The soldier's craven retreat left his comrades exposed to enemy fire.",
+        "zh": "这名士兵怯懦的撤退使他的战友暴露在敌人的炮火之下。"
+      },
+      {
+        "en": "It was a craven excuse for avoiding a difficult but necessary conversation.",
+        "zh": "这是一个逃避艰难但必要对话的懦弱借口。"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "word": "credibility",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the quality of being believable or trustworthy",
+        "zh": "可信度；信誉"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The scandal severely damaged the senator's credibility with voters.",
+        "zh": "这场丑闻严重损害了这位参议员在选民中的信誉。"
+      },
+      {
+        "en": "Peer-reviewed studies lend the report greater scientific credibility.",
+        "zh": "同行评审的研究为该报告增添了更高的科学可信度。"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "word": "credulous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "too willing to believe things without sufficient evidence; gullible",
+        "zh": "轻信的；易受骗的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Credulous investors poured money into the scheme without asking basic questions.",
+        "zh": "轻信的投资者未加质疑便把钱投入了这个骗局。"
+      },
+      {
+        "en": "The salesman targeted credulous customers with exaggerated claims.",
+        "zh": "这个推销员专门用夸大其词的说辞欺骗容易轻信的顾客。"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "word": "crescendo",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a gradual increase in loudness, force, or intensity",
+        "zh": "（音量、力度的）逐渐增强"
+      },
+      {
+        "pos": "n.",
+        "en": "a climactic peak of intensity",
+        "zh": "高潮；顶点"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The orchestra built to a thunderous crescendo just before the final note.",
+        "zh": "乐团在最后一个音符之前逐渐增强至雷鸣般的高潮。"
+      },
+      {
+        "en": "Public outrage reached a crescendo after the leaked documents were published.",
+        "zh": "泄露文件公开后，公众的愤怒达到了顶点。"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "word": "culminate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to reach the highest or final point",
+        "zh": "达到顶点；最终以……告终"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Years of research culminated in a landmark discovery about the origins of the universe.",
+        "zh": "多年的研究最终迎来了关于宇宙起源的里程碑式发现。"
+      },
+      {
+        "en": "The dispute culminated in a bitter lawsuit between the former business partners.",
+        "zh": "这场纠纷最终演变为前商业伙伴之间的激烈诉讼。"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "word": "cupidity",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "excessive greed, especially for wealth",
+        "zh": "贪婪；贪欲"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The novel portrays the cupidity of a merchant who exploits every crisis for profit.",
+        "zh": "小说描绘了一个商人利用每一次危机牟利的贪婪本性。"
+      },
+      {
+        "en": "Unchecked cupidity drove the executives to falsify the company's earnings.",
+        "zh": "不受约束的贪婪驱使高管们伪造公司收益。"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "word": "curmudgeon",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a bad-tempered, often stubborn person",
+        "zh": "脾气暴躁的人；老顽固"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The old curmudgeon next door yells at anyone who steps on his lawn.",
+        "zh": "隔壁那个脾气暴躁的老头会冲着任何踩到他草坪的人大喊大叫。"
+      },
+      {
+        "en": "Despite his reputation as a curmudgeon, he quietly donated to every local charity.",
+        "zh": "尽管他以脾气古怪出名，却默默向当地每一家慈善机构捐款。"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "word": "cynical",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "distrustful of others' motives; bitterly pessimistic",
+        "zh": "愤世嫉俗的；（对人性）悲观怀疑的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Years of political disappointment left him cynical about any promise of reform.",
+        "zh": "多年的政治失望让他对任何改革承诺都持怀疑态度。"
+      },
+      {
+        "en": "She gave a cynical laugh, certain the company's apology was only for show.",
+        "zh": "她冷笑一声，确信公司的道歉不过是做做样子。"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "word": "daunt",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to discourage or intimidate",
+        "zh": "使胆怯；使气馁"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The steep climb might daunt inexperienced hikers, but the view is worth it.",
+        "zh": "陡峭的攀登也许会让没有经验的徒步者望而却步，但沿途的风景值得一试。"
+      },
+      {
+        "en": "Undaunted by early failures, she kept refining her invention until it worked.",
+        "zh": "她并未被早期的失败吓倒，不断改进自己的发明直到成功。"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "word": "debase",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "to lower in quality, value, rank, or moral standing",
+        "zh": "贬低；使降低品质（或价值、道德）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Mixing cheap metal into the coins debased their value.",
+        "zh": "在硬币中掺入廉价金属降低了它们的价值。"
+      },
+      {
+        "en": "He felt that lying to his friends would debase his own integrity.",
+        "zh": "他觉得对朋友撒谎会有损自己的人格操守。"
+      }
+    ]
+  }
+]

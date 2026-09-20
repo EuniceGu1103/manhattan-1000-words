@@ -1,0 +1,2153 @@
+[
+  {
+    "id": 201,
+    "word": "debunk",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "expose or disprove false or exaggerated claims",
+        "zh": "揭穿；戳穿（虚假或夸大的说法）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The scientist wrote an article to debunk the myth that vaccines cause autism.",
+        "zh": "这位科学家写了一篇文章来揭穿疫苗导致自闭症的谬论。"
+      },
+      {
+        "en": "Investigative journalists debunked the company's claims about its environmental record.",
+        "zh": "调查记者揭穿了该公司关于其环保记录的虚假宣传。"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "word": "declaim",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "speak in an impassioned, pompous, or oratorical manner; give a formal speech",
+        "zh": "慷慨激昂地演讲；夸张地演说"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The old actor loved to declaim Shakespearean verse at every dinner party.",
+        "zh": "那位老演员喜欢在每次晚宴上慷慨激昂地朗诵莎士比亚的诗句。"
+      },
+      {
+        "en": "The senator declaimed against corruption for nearly an hour without notes.",
+        "zh": "那位参议员脱稿慷慨激昂地抨击腐败近一个小时。"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "word": "declivity",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a downward slope",
+        "zh": "下坡；斜坡"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The path followed a gentle declivity down to the riverbank.",
+        "zh": "小路沿着一段平缓的下坡通向河岸。"
+      },
+      {
+        "en": "Rainwater collected at the bottom of the declivity behind the barn.",
+        "zh": "雨水汇集在谷仓后面斜坡的底部。"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "word": "decorous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "behaving with propriety and good taste; polite",
+        "zh": "得体的；有礼貌的；合乎礼仪的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Even at the raucous wedding, the grandmother remained decorous and composed.",
+        "zh": "即使在喧闹的婚礼上，那位祖母依然举止得体、从容不迫。"
+      },
+      {
+        "en": "The ambassador's decorous manner impressed even his harshest critics.",
+        "zh": "大使得体的举止连最严厉的批评者都印象深刻。"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "word": "deem",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "judge; consider",
+        "zh": "认为；视为；判断"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The committee deemed the proposal too risky to approve.",
+        "zh": "委员会认为该提案风险太大，不予批准。"
+      },
+      {
+        "en": "She was deemed qualified for the position after a rigorous interview.",
+        "zh": "经过严格面试后，她被认为具备该职位的资格。"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "word": "deface",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "vandalize, mar the appearance of",
+        "zh": "破坏（外观）；涂污；损毁"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Vandals defaced the statue with spray paint overnight.",
+        "zh": "破坏者一夜之间用喷漆污损了这座雕像。"
+      },
+      {
+        "en": "It is a crime to deface public property such as monuments and signs.",
+        "zh": "破坏纪念碑、标牌等公共财产是犯罪行为。"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "word": "default",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "failure to act, neglect",
+        "zh": "违约；不履行；疏忽"
+      },
+      {
+        "pos": "v.",
+        "en": "fail to fulfill an obligation, especially a financial one",
+        "zh": "拖欠（债务）；未履行义务"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The country risked international sanctions after its default on foreign loans.",
+        "zh": "该国拖欠外债，面临国际制裁的风险。"
+      },
+      {
+        "en": "If he continues to default on his payments, the bank may seize the property.",
+        "zh": "如果他继续拖欠还款，银行可能会没收该房产。"
+      },
+      {
+        "en": "By her own default, she lost her chance to appeal the decision.",
+        "zh": "由于她自己的疏忽，她失去了上诉的机会。"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "word": "deference",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "respectful submission; yielding to the authority or opinion of another",
+        "zh": "顺从；尊重；敬重（他人权威或意见）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The young lawyer spoke with deference toward the retiring judge.",
+        "zh": "年轻的律师对即将退休的法官说话时十分恭敬。"
+      },
+      {
+        "en": "In deference to local customs, the tourists removed their shoes before entering the temple.",
+        "zh": "出于对当地习俗的尊重，游客们在进入寺庙前脱掉了鞋子。"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "word": "deflect",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "cause to curve; turn aside, especially from a straight course; avoid",
+        "zh": "使偏斜；转移；避开"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The goalkeeper deflected the shot at the last second.",
+        "zh": "守门员在最后一刻将射门偏转开。"
+      },
+      {
+        "en": "The spokesperson tried to deflect questions about the scandal.",
+        "zh": "发言人试图回避有关丑闻的问题。"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "word": "deleterious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "harmful, unhealthful",
+        "zh": "有害的；不利的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Excessive screen time can have a deleterious effect on children's sleep.",
+        "zh": "过多的屏幕时间可能对儿童的睡眠产生有害影响。"
+      },
+      {
+        "en": "The chemical plant's runoff proved deleterious to the local fish population.",
+        "zh": "化工厂排放的废水对当地鱼类种群造成了有害影响。"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "word": "delimit",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "fix, mark, or define the boundaries of",
+        "zh": "界定；划定界限"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The treaty delimited the border between the two nations.",
+        "zh": "该条约划定了两国之间的边界。"
+      },
+      {
+        "en": "The professor asked students to delimit the scope of their research topic.",
+        "zh": "教授要求学生界定其研究课题的范围。"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "word": "delineate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "mark the outline of; sketch; describe in detail",
+        "zh": "描绘；勾勒；详细描述"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The contract clearly delineates the responsibilities of each party.",
+        "zh": "合同清楚地列明了各方的责任。"
+      },
+      {
+        "en": "The architect delineated the building's façade in painstaking detail.",
+        "zh": "建筑师极其细致地勾勒出了建筑的外立面。"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "word": "demagogue",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a leader who gains power by arousing the passions and prejudices of the people",
+        "zh": "煽动性政客；蛊惑民心的领袖"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Historians warn that a demagogue often rises during times of economic anxiety.",
+        "zh": "历史学家警告说，煽动性政客常常在经济动荡时期崛起。"
+      },
+      {
+        "en": "The demagogue whipped the crowd into a frenzy with fearmongering rhetoric.",
+        "zh": "那位煽动性政客用制造恐慌的言论将人群煽动得群情激愤。"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "word": "demur",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "show reluctance or object, especially for moral reasons",
+        "zh": "表示反对；提出异议（尤指出于道德原因）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "When asked to falsify the report, the accountant demurred.",
+        "zh": "当被要求伪造报告时，会计师表示了反对。"
+      },
+      {
+        "en": "Most board members agreed to the merger, but two demurred on ethical grounds.",
+        "zh": "大多数董事会成员同意此次合并，但有两人出于道德原因提出异议。"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "word": "denigrate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "belittle, attack the reputation of",
+        "zh": "诋毁；贬低；损害名誉"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The critic was known for denigrating any film that departed from tradition.",
+        "zh": "那位评论家以贬低任何背离传统的电影而闻名。"
+      },
+      {
+        "en": "She refused to denigrate her rival's achievements, even in private.",
+        "zh": "即使私下里，她也拒绝诋毁对手的成就。"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "word": "denote",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "be a name or symbol for",
+        "zh": "表示；意味着；标志着"
+      }
+    ],
+    "examples": [
+      {
+        "en": "In this diagram, an arrow denotes the direction of blood flow.",
+        "zh": "在这张图中，箭头表示血液流动的方向。"
+      },
+      {
+        "en": "A red flag on the beach denotes dangerous swimming conditions.",
+        "zh": "海滩上的红旗表示游泳条件危险。"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "word": "deride",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "mock, scoff at, laugh at contemptuously",
+        "zh": "嘲笑；奚落；蔑视地取笑"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Critics derided the film as shallow and derivative.",
+        "zh": "评论家们嘲笑这部电影肤浅又缺乏原创性。"
+      },
+      {
+        "en": "He was derided by his classmates for his outdated fashion sense.",
+        "zh": "他因为过时的穿着品味被同学们嘲笑。"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "word": "derivative",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "derived from something else; not original",
+        "zh": "衍生的；缺乏独创性的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The novel was dismissed as derivative, echoing plots from earlier bestsellers.",
+        "zh": "这部小说被认为缺乏独创性，情节抄袭了早期的畅销书。"
+      },
+      {
+        "en": "Many pop songs today sound derivative of hits from the 1980s.",
+        "zh": "如今许多流行歌曲听起来都是模仿20世纪80年代的热门歌曲。"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "word": "desiccate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "thoroughly dry up, dehydrate",
+        "zh": "使彻底干燥；使脱水"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The scorching sun desiccated the once-fertile fields.",
+        "zh": "炙热的太阳使曾经肥沃的田地干涸了。"
+      },
+      {
+        "en": "Ancient Egyptians desiccated bodies as part of the mummification process.",
+        "zh": "古埃及人在制作木乃伊的过程中会使尸体脱水干燥。"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "word": "desultory",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "lacking consistency or order, disconnected, sporadic; going off topic",
+        "zh": "散漫的；杂乱无章的；断断续续的；离题的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Their desultory conversation drifted from politics to weather to old movies.",
+        "zh": "他们漫无边际的谈话从政治扯到天气又扯到老电影。"
+      },
+      {
+        "en": "The team's desultory effort in the second half cost them the game.",
+        "zh": "球队下半场松散无序的表现让他们输掉了比赛。"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "word": "detached",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "impartial, disinterested; unconcerned, distant, aloof",
+        "zh": "超然的；公正的；冷漠疏离的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The judge maintained a detached demeanor throughout the emotional testimony.",
+        "zh": "在整个充满情绪的证词过程中，法官都保持着超然的态度。"
+      },
+      {
+        "en": "He grew increasingly detached from his old friends after moving abroad.",
+        "zh": "移居国外后，他与老朋友的关系变得越来越疏远。"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "word": "deterrent",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "something that restrains or discourages",
+        "zh": "威慑物；制止因素"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Harsh penalties are meant to serve as a deterrent to fraud.",
+        "zh": "严厉的处罚旨在起到震慑欺诈行为的作用。"
+      },
+      {
+        "en": "The high cost of tuition acts as a deterrent for many prospective students.",
+        "zh": "高昂的学费对许多潜在学生来说是一种阻碍。"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "word": "diaphanous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "very sheer, fine, translucent",
+        "zh": "轻薄透明的；透光的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The bride wore a diaphanous veil that fluttered in the breeze.",
+        "zh": "新娘戴着一块在微风中飘动的轻薄透明的面纱。"
+      },
+      {
+        "en": "Diaphanous morning mist hung over the valley.",
+        "zh": "轻薄的晨雾笼罩着山谷。"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "word": "diatribe",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "bitter, abusive attack or criticism; rant",
+        "zh": "尖刻的抨击；长篇谩骂"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The columnist launched into a diatribe against modern celebrity culture.",
+        "zh": "这位专栏作家对现代名人文化展开了一番尖刻的抨击。"
+      },
+      {
+        "en": "His speech quickly turned into a diatribe against his former employer.",
+        "zh": "他的演讲很快变成了对前雇主的长篇谩骂。"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "word": "dichotomy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "division into two parts or into two contradictory groups",
+        "zh": "二分法；两极分化；对立"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The novel explores the dichotomy between civilization and wilderness.",
+        "zh": "这部小说探讨了文明与荒野之间的二元对立。"
+      },
+      {
+        "en": "There is a false dichotomy between economic growth and environmental protection.",
+        "zh": "经济增长与环境保护之间存在一种虚假的二元对立。"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "word": "dictum",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "formal or authoritative pronouncement; saying or proverb",
+        "zh": "格言；权威声明；箴言"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The coach lived by the dictum that practice makes perfect.",
+        "zh": "教练一直信奉“熟能生巧”这句格言。"
+      },
+      {
+        "en": "The judge's dictum, though not binding, influenced later rulings.",
+        "zh": "法官的附带意见虽无约束力，却影响了后来的判决。"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "word": "didactic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "intended to instruct; teaching, or teaching a moral lesson",
+        "zh": "说教的；旨在教育的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Parents often choose didactic cartoons to teach young children good habits.",
+        "zh": "家长常常选择说教性质的动画片来教孩子养成好习惯。"
+      },
+      {
+        "en": "Critics found the film overly didactic, more concerned with lecturing than storytelling.",
+        "zh": "评论家认为这部电影说教味太重，更像是在讲道理而非讲故事。"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "word": "diffident",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "lacking confidence, shy",
+        "zh": "缺乏自信的；羞怯的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The diffident new intern rarely spoke up during meetings.",
+        "zh": "那位缺乏自信的新实习生在会议上很少发言。"
+      },
+      {
+        "en": "Despite his diffident manner, he turned out to be an excellent negotiator.",
+        "zh": "尽管他举止羞怯，却证明自己是一位出色的谈判者。"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "word": "diffuse",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "spread widely, disseminate",
+        "zh": "散布；扩散；传播"
+      },
+      {
+        "pos": "adj.",
+        "en": "dispersed, widely spread out, or wordy and going off-topic",
+        "zh": "分散的；弥漫的；（文字）冗长散漫的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Light diffuses evenly through the frosted glass shade.",
+        "zh": "光线透过磨砂玻璃灯罩均匀地扩散开来。"
+      },
+      {
+        "en": "The professor's diffuse lecture wandered far from the assigned topic.",
+        "zh": "教授的讲座内容散漫，远远偏离了指定的主题。"
+      },
+      {
+        "en": "Population growth has become more diffuse across suburban areas in recent decades.",
+        "zh": "近几十年来，人口增长在郊区变得更加分散。"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "word": "digress",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "go off-topic when speaking or writing",
+        "zh": "偏离主题；离题"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Forgive me if I digress, but this reminds me of a similar case.",
+        "zh": "如果我离题了请原谅，但这让我想起了一个类似的案例。"
+      },
+      {
+        "en": "The professor digressed into a long anecdote about his college years.",
+        "zh": "教授离题讲起了一段关于他大学时代的长篇轶事。"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "word": "dilate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "become wider or make wider, cause to expand; speak or write at length, elaborate upon",
+        "zh": "使扩张；使膨胀；详述；细说"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her pupils dilated in the dim light of the theater.",
+        "zh": "在剧院昏暗的灯光下，她的瞳孔放大了。"
+      },
+      {
+        "en": "The professor dilated upon the causes of the economic collapse for the entire lecture.",
+        "zh": "教授在整堂课上详细阐述了经济崩溃的原因。"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "word": "dilatory",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "slow, late; procrastinating or stalling for time",
+        "zh": "拖延的；磨蹭的；故意拖拉的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The defense attorney used dilatory tactics to delay the trial.",
+        "zh": "被告律师采用拖延战术来推迟审判。"
+      },
+      {
+        "en": "His dilatory response to the emergency cost the company valuable time.",
+        "zh": "他对紧急情况的拖延反应让公司损失了宝贵的时间。"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "word": "dilettante",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "person who takes up an art or activity for amusement only or in a superficial way",
+        "zh": "业余爱好者；浅尝辄止的人；附庸风雅者"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The critic dismissed him as a dilettante who never mastered any single instrument.",
+        "zh": "评论家认为他不过是个从未精通任何一种乐器的业余爱好者。"
+      },
+      {
+        "en": "She resented being seen as a dilettante rather than a serious painter.",
+        "zh": "她不愿被视为附庸风雅之人，而非严肃的画家。"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "word": "din",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "loud, confused noise, especially for a long period of time",
+        "zh": "喧闹声；嘈杂声"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The din of the construction site made it impossible to concentrate.",
+        "zh": "建筑工地的喧闹声让人无法专心。"
+      },
+      {
+        "en": "Above the din of the crowd, the announcer's voice could barely be heard.",
+        "zh": "在人群的喧闹声中，几乎听不到播音员的声音。"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "word": "dirge",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a funeral or mourning song or poem",
+        "zh": "挽歌；哀乐"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The choir sang a mournful dirge at the memorial service.",
+        "zh": "唱诗班在追悼会上唱起了一首悲伤的挽歌。"
+      },
+      {
+        "en": "The poet composed a dirge for the soldiers who never returned.",
+        "zh": "诗人为那些一去不返的士兵创作了一首挽歌。"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "word": "disabuse",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "free someone from a mistake in thinking",
+        "zh": "使醒悟；纠正（某人的）错误想法"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The mentor quickly disabused her of the notion that success comes without effort.",
+        "zh": "导师很快纠正了她认为成功不费吹灰之力的错误想法。"
+      },
+      {
+        "en": "He was disabused of his romantic illusions about life at sea.",
+        "zh": "他对航海生活的浪漫幻想被打破了。"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "word": "discerning",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "having good judgment or insight; able to distinguish mentally",
+        "zh": "有洞察力的；有辨别力的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A discerning collector can spot a forgery at a glance.",
+        "zh": "有辨别力的收藏家一眼就能看出赝品。"
+      },
+      {
+        "en": "The restaurant caters to a discerning clientele who appreciate fine ingredients.",
+        "zh": "这家餐厅迎合的是懂得欣赏优质食材的挑剔顾客。"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "word": "discomfiting",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "disconcerting, confusing, frustrating",
+        "zh": "令人不安的；令人窘迫的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "It was discomfiting to realize that everyone had noticed her mistake.",
+        "zh": "意识到大家都注意到了她的错误，她感到十分窘迫。"
+      },
+      {
+        "en": "The interviewer's discomfiting silence made the candidate second-guess every answer.",
+        "zh": "面试官令人不安的沉默让应聘者对自己的每个回答都产生了怀疑。"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "word": "discordant",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "harsh or inharmonious in sound; disagreeing, incongruous",
+        "zh": "不和谐的；刺耳的；不一致的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The orchestra's discordant tuning grated on the audience's ears.",
+        "zh": "乐团刺耳的调音让观众听得很不舒服。"
+      },
+      {
+        "en": "His cheerful tone seemed discordant with the somber news he delivered.",
+        "zh": "他愉快的语气与他所传达的沉重消息显得格格不入。"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "word": "discredit",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "injure the reputation of, destroy credibility of or confidence in",
+        "zh": "使名誉受损；使不可信；败坏名声"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The exposé aimed to discredit the senator's account of the incident.",
+        "zh": "这篇揭露性报道旨在损害那位参议员对事件说法的可信度。"
+      },
+      {
+        "en": "New evidence discredited the witness's testimony entirely.",
+        "zh": "新证据彻底推翻了证人证词的可信度。"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "word": "discrepancy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "difference or inconsistency",
+        "zh": "差异；矛盾；不符之处"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Auditors found a discrepancy between the reported sales and the actual receipts.",
+        "zh": "审计员发现报告的销售额与实际收据之间存在差异。"
+      },
+      {
+        "en": "The two witnesses' accounts contained several troubling discrepancies.",
+        "zh": "两位证人的陈述中存在几处令人担忧的矛盾。"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "word": "discrete",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "separate, distinct, detached, existing as individual parts",
+        "zh": "离散的；独立的；分立的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The course is divided into six discrete modules, each graded separately.",
+        "zh": "这门课程被分为六个独立的模块，各自单独评分。"
+      },
+      {
+        "en": "Researchers treated each symptom as a discrete variable in the study.",
+        "zh": "研究人员在研究中将每种症状都视为独立的变量。"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "word": "discriminating",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "judicious, discerning, having good judgment or insight",
+        "zh": "有鉴别力的；挑剔的；有眼光的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A discriminating palate can distinguish subtle differences between wine vintages.",
+        "zh": "有鉴别力的味觉能分辨出不同年份葡萄酒之间的细微差别。"
+      },
+      {
+        "en": "The gallery only exhibits work approved by a discriminating panel of curators.",
+        "zh": "这家画廊只展出经过挑剔的策展人小组认可的作品。"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "word": "disingenuous",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "insincere, not genuine",
+        "zh": "不真诚的；虚伪的；言不由衷的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "It was disingenuous of him to claim he had no idea about the plan.",
+        "zh": "他声称对这个计划一无所知，实在是言不由衷。"
+      },
+      {
+        "en": "The company's disingenuous apology satisfied no one.",
+        "zh": "该公司言不由衷的道歉没有让任何人满意。"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "word": "disinterested",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "unbiased, impartial; not interested",
+        "zh": "公正的；无私利的；不感兴趣的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A disinterested mediator was brought in to settle the dispute fairly.",
+        "zh": "他们请来一位不偏不倚的调解人来公正地解决争端。"
+      },
+      {
+        "en": "The judge must remain disinterested, having no stake in the case's outcome.",
+        "zh": "法官必须保持公正，不能与案件结果有任何利害关系。"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "word": "disjointed",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "disconnected, not coherent, jerky; having the joints separated",
+        "zh": "不连贯的；杂乱无章的；脱节的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The essay's disjointed structure made it hard to follow the argument.",
+        "zh": "这篇文章结构不连贯，让人难以理清论点。"
+      },
+      {
+        "en": "His disjointed speech suggested he had not prepared any notes.",
+        "zh": "他杂乱无章的发言表明他根本没有准备讲稿。"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "word": "dismiss",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "allow to disperse or leave; fire from a job; put aside or reject after only brief consideration",
+        "zh": "解散；解雇；驳回；不予理会"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The teacher dismissed the class ten minutes early.",
+        "zh": "老师提前十分钟让全班同学放学。"
+      },
+      {
+        "en": "He was dismissed from his position after the audit revealed irregularities.",
+        "zh": "审计发现问题后，他被解雇了。"
+      },
+      {
+        "en": "The board dismissed her proposal without giving it serious consideration.",
+        "zh": "董事会未经认真考虑就驳回了她的提案。"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "word": "disparage",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "belittle, put down; bring shame upon, discredit",
+        "zh": "贬低；诋毁；轻视"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He constantly disparages his coworkers' ideas in meetings.",
+        "zh": "他在会议上总是贬低同事们的想法。"
+      },
+      {
+        "en": "It is unprofessional to disparage a former employer during a job interview.",
+        "zh": "在求职面试中诋毁前雇主是不专业的行为。"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "word": "disparate",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "distinct, different",
+        "zh": "迥然不同的；截然不同的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The committee brought together experts from disparate fields to tackle the problem.",
+        "zh": "委员会召集了来自不同领域的专家共同解决这个问题。"
+      },
+      {
+        "en": "The two proposals were so disparate that compromise seemed impossible.",
+        "zh": "这两项提案差异如此之大，似乎不可能达成妥协。"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "word": "dispassionate",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "unbiased, not having a selfish or personal motivation; calm, lacking emotion",
+        "zh": "冷静的；不带感情色彩的；客观公正的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The report offered a dispassionate analysis of the company's failures.",
+        "zh": "这份报告对公司的失败进行了客观冷静的分析。"
+      },
+      {
+        "en": "Even during the argument, she remained dispassionate and spoke in measured tones.",
+        "zh": "即使在争吵中，她也保持冷静，语气平和。"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "word": "dispatch",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "speed, promptness",
+        "zh": "迅速；敏捷"
+      },
+      {
+        "pos": "v.",
+        "en": "send off or deal with in a speedy way",
+        "zh": "派遣；迅速处理；发送"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The general handled the crisis with remarkable dispatch.",
+        "zh": "将军以惊人的效率处理了这场危机。"
+      },
+      {
+        "en": "The company dispatched a technician to fix the outage within the hour.",
+        "zh": "公司在一小时内就派遣了一名技术人员去修复故障。"
+      },
+      {
+        "en": "She dispatched her chores quickly so she could relax for the evening.",
+        "zh": "她迅速做完了家务，好在晚上放松一下。"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "word": "disperse",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "scatter, spread widely, cause to vanish",
+        "zh": "驱散；分散；使消散"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Police used tear gas to disperse the crowd.",
+        "zh": "警方使用催泪瓦斯驱散了人群。"
+      },
+      {
+        "en": "The morning fog dispersed as soon as the sun rose.",
+        "zh": "太阳一升起，晨雾就消散了。"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "word": "disposition",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a person's general or natural mood; tendency",
+        "zh": "性情；性格；倾向"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Despite the setbacks, she maintained a cheerful disposition.",
+        "zh": "尽管遭遇了挫折，她依然保持着乐观开朗的性情。"
+      },
+      {
+        "en": "He has a natural disposition toward caution in financial matters.",
+        "zh": "他在财务问题上天生就有谨慎的倾向。"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "word": "disquieting",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "disturbing, causing anxiety",
+        "zh": "令人不安的；令人焦虑的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The disquieting silence after the explosion alarmed the rescue workers.",
+        "zh": "爆炸后那令人不安的寂静让救援人员感到警觉。"
+      },
+      {
+        "en": "Reports of the disease spreading proved disquieting to public health officials.",
+        "zh": "疾病蔓延的报告让公共卫生官员感到不安。"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "word": "dissemble",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "mislead, conceal the truth, put on a false appearance of",
+        "zh": "掩饰；假装；隐瞒真相"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He dissembled his true feelings behind a polite smile.",
+        "zh": "他用礼貌的微笑掩饰了自己真实的感受。"
+      },
+      {
+        "en": "The suspect dissembled throughout the interrogation, giving contradictory answers.",
+        "zh": "嫌疑人在整个审讯过程中都在掩饰真相，回答前后矛盾。"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "word": "disseminate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "scatter, spread about, broadcast",
+        "zh": "散布；传播；宣传"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The organization disseminates health information to rural communities.",
+        "zh": "该组织向农村社区传播健康信息。"
+      },
+      {
+        "en": "Social media has made it easier to disseminate news instantly.",
+        "zh": "社交媒体使即时传播新闻变得更加容易。"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "word": "dissent",
+    "senses": [
+      {
+        "pos": "v./n.",
+        "en": "disagree or take an opposing view, especially toward a formal body such as a government; such a view",
+        "zh": "持异议；不同意（尤指对政府、政党等）；异议"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Only one justice chose to dissent from the majority opinion.",
+        "zh": "只有一位法官对多数意见持异议。"
+      },
+      {
+        "en": "The government cracked down on any public dissent against its policies.",
+        "zh": "政府镇压了任何反对其政策的公开异议。"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "word": "dissolution",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the state of being dissolved; breaking up of a group; disintegration, death; sinking into hedonism and vice",
+        "zh": "解散；瓦解；解体；（生活）堕落腐化"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The dissolution of the empire took place over several turbulent decades.",
+        "zh": "这个帝国的解体经历了数十年的动荡岁月。"
+      },
+      {
+        "en": "Years of dissolution and excess had ruined his health.",
+        "zh": "多年的放纵堕落损害了他的健康。"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "word": "dissonance",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "harsh, inharmonious sound; cacophony; disagreement",
+        "zh": "不和谐音；刺耳的声音；分歧"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The composer used deliberate dissonance to convey unease.",
+        "zh": "作曲家刻意运用不和谐音来传达不安的情绪。"
+      },
+      {
+        "en": "There was a clear dissonance between the company's stated values and its actions.",
+        "zh": "该公司宣称的价值观与其实际行为之间存在明显的矛盾。"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "word": "distaff",
+    "senses": [
+      {
+        "pos": "adj./n.",
+        "en": "female, especially relating to the maternal side of the family; women or women's work; a staff that holds wool or flax for spinning",
+        "zh": "女性的；母系的；纺纱杆"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He traced his lineage through the distaff side of the family.",
+        "zh": "他通过家族的母系一脉追溯了自己的家世。"
+      },
+      {
+        "en": "The museum displayed an old wooden distaff used for spinning wool.",
+        "zh": "博物馆展出了一根用于纺羊毛的旧木制纺纱杆。"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "word": "distend",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "swell, expand, stretch, bloat",
+        "zh": "使膨胀；使肿胀；扩张"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The starving child's stomach was visibly distended.",
+        "zh": "那个饥饿的孩子肚子明显肿胀。"
+      },
+      {
+        "en": "Overeating at the feast left his belly uncomfortably distended.",
+        "zh": "在宴会上吃得过多让他的肚子胀得难受。"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "word": "distill",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "purify; extract the essential elements of",
+        "zh": "蒸馏；提炼；提取精华"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The chemist distilled the mixture to isolate the active compound.",
+        "zh": "化学家蒸馏了混合物以分离出活性化合物。"
+      },
+      {
+        "en": "Her speech distilled decades of research into a few memorable points.",
+        "zh": "她的演讲将数十年的研究提炼成了几个令人难忘的要点。"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "word": "dither",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "act indecisively",
+        "zh": "犹豫不决；踌躇"
+      },
+      {
+        "pos": "n.",
+        "en": "a state of fear or trembling excitement",
+        "zh": "紧张不安的状态；慌乱"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He dithered over the menu for so long that the waiter finally walked away.",
+        "zh": "他对着菜单犹豫不决了好久，服务员最后只好走开了。"
+      },
+      {
+        "en": "She was in such a dither before the interview that she forgot her resume.",
+        "zh": "面试前她紧张得慌了神，竟忘了带简历。"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "word": "diurnal",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "occurring every day; happening in the daytime rather than at night",
+        "zh": "每日的；白天活动的（与夜间相对）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Most songbirds are diurnal, foraging for food only in daylight.",
+        "zh": "大多数鸣禽是昼行性的，只在白天觅食。"
+      },
+      {
+        "en": "The tides follow a diurnal pattern in this part of the coast.",
+        "zh": "这段海岸的潮汐遵循每日变化的规律。"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "word": "diverge",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "differ, deviate; branch off or turn aside, as from a path",
+        "zh": "分歧；偏离；分叉"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The two roads diverge at the old mill and never meet again.",
+        "zh": "这两条路在老磨坊处分岔，此后再也没有交汇。"
+      },
+      {
+        "en": "Their opinions on the budget began to diverge sharply during the meeting.",
+        "zh": "在会议中，他们对预算的看法开始出现明显分歧。"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "word": "divest",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "deprive or strip of a rank, title, clothing, etc.; sell off holdings",
+        "zh": "剥夺（头衔、财产等）；脱去；剥离（资产）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The general was divested of his rank after the court-martial.",
+        "zh": "军事法庭审判后，那位将军被剥夺了军衔。"
+      },
+      {
+        "en": "The fund decided to divest from fossil fuel companies.",
+        "zh": "该基金决定剥离化石燃料公司的资产。"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "word": "divine",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "discover through divination or supernatural means; perceive by insight",
+        "zh": "占卜得知；凭直觉洞察"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The old sailor claimed he could divine the weather from the color of the sky.",
+        "zh": "老水手声称他能从天空的颜色预测天气。"
+      },
+      {
+        "en": "She divined his intentions long before he confessed them.",
+        "zh": "早在他坦白之前，她就已经洞察到了他的意图。"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "word": "doctrinaire",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "person who applies doctrine in an impractical or rigid, close-minded way",
+        "zh": "教条主义者；死抠教条的人"
+      },
+      {
+        "pos": "adj.",
+        "en": "merely theoretical, impractical, or fanatical about others accepting one's ideas",
+        "zh": "教条主义的；空谈理论的；固执己见的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The new manager was a doctrinaire who refused to deviate from company policy even in emergencies.",
+        "zh": "新经理是个教条主义者，即使在紧急情况下也拒绝偏离公司规定。"
+      },
+      {
+        "en": "Her doctrinaire approach to economics ignored the practical realities of the market.",
+        "zh": "她那种教条式的经济学方法忽视了市场的实际情况。"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "word": "document",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "support with evidence, cite sources in detail, create documentary evidence of",
+        "zh": "记录；用文件证明；提供详细依据"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The report meticulously documents every stage of the experiment.",
+        "zh": "这份报告详细记录了实验的每一个阶段。"
+      },
+      {
+        "en": "Journalists documented the human rights abuses with photographs and testimonies.",
+        "zh": "记者们用照片和证词记录了这些侵犯人权的行为。"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "word": "doff",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "take off (such as clothes), put aside; remove one's hat as a gesture",
+        "zh": "脱下（衣帽）；（尤指脱帽）致意"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The gentleman doffed his hat as the ladies passed by.",
+        "zh": "那位绅士在女士们经过时脱帽致意。"
+      },
+      {
+        "en": "He doffed his coat the moment he stepped into the warm cabin.",
+        "zh": "他一走进温暖的小屋就脱下了外套。"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "word": "dogma",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a system of principles laid down by an authority; established belief",
+        "zh": "教条；教义；既定信条"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The church's dogma left little room for individual interpretation of scripture.",
+        "zh": "教会的教义几乎不允许个人对经文进行解读。"
+      },
+      {
+        "en": "He questioned the political dogma he had been raised to accept without doubt.",
+        "zh": "他开始质疑自己从小被灌输、深信不疑的政治教条。"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "word": "dormant",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "asleep, inactive, on a break",
+        "zh": "休眠的；不活跃的；蛰伏的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The volcano had lain dormant for over three centuries before erupting again.",
+        "zh": "这座火山沉寂了三个多世纪后又再次喷发。"
+      },
+      {
+        "en": "Her interest in painting remained dormant for years until she retired.",
+        "zh": "她对绘画的兴趣沉寂了多年，直到退休后才重新燃起。"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "word": "dovetail",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "join or fit together",
+        "zh": "吻合；紧密结合；使配合"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Her research interests dovetail nicely with the lab's current project.",
+        "zh": "她的研究兴趣与实验室目前的项目十分契合。"
+      },
+      {
+        "en": "The two departments' schedules were adjusted to dovetail more smoothly.",
+        "zh": "两个部门的日程被调整得更加协调一致。"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "word": "droll",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "funny in an odd way",
+        "zh": "滑稽古怪的；诙谐有趣的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The professor's droll sense of humor kept even the dullest lecture entertaining.",
+        "zh": "教授那种滑稽古怪的幽默感让即使最枯燥的讲座也变得有趣。"
+      },
+      {
+        "en": "She gave a droll account of her disastrous camping trip.",
+        "zh": "她诙谐有趣地讲述了自己那次糟糕透顶的露营经历。"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "word": "dubious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "doubtful, questionable, suspect",
+        "zh": "可疑的；令人怀疑的；不确定的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The salesman's claims about the product's benefits seemed dubious at best.",
+        "zh": "推销员对产品功效的说法充其量也就是令人怀疑。"
+      },
+      {
+        "en": "She remained dubious about the plan's chances of success.",
+        "zh": "她对这个计划成功的可能性依然表示怀疑。"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "word": "dupe",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "person who is easily fooled or used",
+        "zh": "易受骗的人；受人利用的人"
+      },
+      {
+        "pos": "v.",
+        "en": "fool or exploit",
+        "zh": "欺骗；愚弄；利用"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He felt like a dupe once he realized the investment scheme was fraudulent.",
+        "zh": "一旦意识到这个投资计划是骗局，他就觉得自己被愚弄了。"
+      },
+      {
+        "en": "Con artists duped elderly residents out of their life savings.",
+        "zh": "骗子们骗走了老年居民一生的积蓄。"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "word": "duplicity",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "deceit, double-dealing, acting in two different ways for the purpose of deception",
+        "zh": "欺骗；口是心非；两面派手段"
+      }
+    ],
+    "examples": [
+      {
+        "en": "His duplicity was exposed when investigators found two sets of financial records.",
+        "zh": "调查人员发现两套财务记录后，他两面三刀的行径被揭穿了。"
+      },
+      {
+        "en": "She never suspected the duplicity behind her partner's friendly smile.",
+        "zh": "她从未怀疑过合伙人友好笑容背后隐藏的欺骗。"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "word": "dyspeptic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "grumpy, pessimistic, irritable; suffering from dyspepsia (indigestion)",
+        "zh": "脾气坏的；悲观易怒的；消化不良的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The dyspeptic old critic panned nearly every play he reviewed.",
+        "zh": "那位脾气坏的老评论家几乎把他评论过的每一部戏剧都贬得一无是处。"
+      },
+      {
+        "en": "He grew dyspeptic after eating the rich, greasy meal.",
+        "zh": "吃了油腻丰盛的一餐后，他消化不良，情绪也变得烦躁。"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "word": "e.g.",
+    "senses": [
+      {
+        "pos": "abbr.",
+        "en": "for example, such as",
+        "zh": "例如"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Several countries, e.g., Norway and Sweden, rank highly on the happiness index.",
+        "zh": "包括挪威、瑞典在内的几个国家在幸福指数上排名很高。"
+      },
+      {
+        "en": "The recipe calls for citrus fruit, e.g., lemons or limes.",
+        "zh": "这道菜谱需要柑橘类水果，例如柠檬或青柠。"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "word": "ebullient",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "very enthusiastic, lively, excited; bubbling as though being boiled",
+        "zh": "热情洋溢的；兴高采烈的；活力四射的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The ebullient coach celebrated wildly after the team's unexpected victory.",
+        "zh": "教练在球队意外获胜后兴高采烈地庆祝。"
+      },
+      {
+        "en": "Her ebullient personality made her instantly popular with new colleagues.",
+        "zh": "她那热情洋溢的性格让她立刻受到新同事的欢迎。"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "word": "eccentric",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "peculiar, odd, deviating from the norm especially in a whimsical way",
+        "zh": "古怪的；异于常规的；怪异的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The eccentric millionaire kept a collection of antique typewriters in his mansion.",
+        "zh": "那位古怪的百万富翁在自己的豪宅里收藏了一批古董打字机。"
+      },
+      {
+        "en": "Neighbors considered her eccentric for gardening in the middle of the night.",
+        "zh": "邻居们都觉得她半夜种花的行为很古怪。"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "word": "echelon",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "a level, rank, or grade; the people at that level",
+        "zh": "等级；阶层；层级"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Only the upper echelons of management were informed of the merger.",
+        "zh": "只有管理层的高层才被告知了这次并购。"
+      },
+      {
+        "en": "She quickly rose through the echelons of the diplomatic corps.",
+        "zh": "她在外交队伍中的等级晋升得很快。"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "word": "eclectic",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "selecting the best of everything or from many diverse sources",
+        "zh": "兼收并蓄的；博采众长的；多元化的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The chef's eclectic menu blends flavors from five different continents.",
+        "zh": "这位厨师博采众长的菜单融合了来自五大洲的风味。"
+      },
+      {
+        "en": "Her eclectic taste in music ranges from opera to punk rock.",
+        "zh": "她对音乐的兴趣十分多元，从歌剧到朋克摇滚都有涉猎。"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "word": "eclipse",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the obscuring of one thing by another, such as a person by someone more famous or talented",
+        "zh": "遮蔽；黯然失色；（名声等）被掩盖"
+      },
+      {
+        "pos": "v.",
+        "en": "obscure, darken, make less important",
+        "zh": "使黯然失色；掩盖；使相形见绌"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The young violinist's brilliant debut caused an eclipse of her mentor's fame.",
+        "zh": "这位年轻小提琴家出色的首演让她导师的名气都黯然失色。"
+      },
+      {
+        "en": "The scandal eclipsed all of the senator's earlier achievements.",
+        "zh": "这桩丑闻使这位参议员之前所有的成就都黯然失色。"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "word": "edify",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "uplift, enlighten, instruct or improve in a spiritual or moral way",
+        "zh": "启迪；教化；陶冶（精神或道德）"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The lecture series was intended to edify students beyond the standard curriculum.",
+        "zh": "这系列讲座旨在让学生获得超越常规课程的启迪。"
+      },
+      {
+        "en": "Grandmother's stories always edified as much as they entertained.",
+        "zh": "祖母讲的故事总是既有趣又能启迪人心。"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "word": "efficacy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "the quality of being able to produce the intended effect",
+        "zh": "功效；有效性"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Clinical trials confirmed the efficacy of the new vaccine.",
+        "zh": "临床试验证实了这种新疫苗的有效性。"
+      },
+      {
+        "en": "Doctors questioned the efficacy of the treatment for advanced cases.",
+        "zh": "医生们对该疗法在晚期病例中的疗效表示质疑。"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "word": "effigy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "representation or image of a person, especially a crude facsimile used to mock a hated person",
+        "zh": "雕像；肖像；（尤指用于嘲讽的）人像模型"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Protesters burned an effigy of the corrupt official outside the courthouse.",
+        "zh": "抗议者在法院外焚烧了那名腐败官员的模拟人像。"
+      },
+      {
+        "en": "The medieval tomb featured a stone effigy of the knight lying in repose.",
+        "zh": "这座中世纪的墓穴上有一尊安卧的骑士石雕像。"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "word": "effrontery",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "shameless boldness",
+        "zh": "厚颜无耻；无理放肆"
+      }
+    ],
+    "examples": [
+      {
+        "en": "He had the effrontery to ask for a raise after missing three deadlines.",
+        "zh": "他错过了三次截止日期，竟然还厚着脸皮要求加薪。"
+      },
+      {
+        "en": "She was shocked by the effrontery of the stranger who demanded her seat.",
+        "zh": "那个陌生人厚颜无耻地要求她让座，让她大吃一惊。"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "word": "egalitarian",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "related to belief in the equality of all people, especially in political, economic, or social spheres",
+        "zh": "平等主义的；主张人人平等的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The commune was founded on egalitarian principles, with no formal leaders.",
+        "zh": "这个公社建立在平等主义的原则之上，没有正式的领导者。"
+      },
+      {
+        "en": "She advocated for a more egalitarian distribution of wealth in society.",
+        "zh": "她主张社会财富分配应更加平等。"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "word": "egregious",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "extraordinarily or conspicuously bad; glaring",
+        "zh": "极其恶劣的；明目张胆的；令人震惊的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The referee's egregious error cost the team the championship.",
+        "zh": "裁判那个极其离谱的失误让球队丢掉了冠军。"
+      },
+      {
+        "en": "It was an egregious violation of the company's ethics policy.",
+        "zh": "这是对公司道德准则的公然违反。"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "word": "egress",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "an exit or the action of exiting",
+        "zh": "出口；外出；离去"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Fire codes require at least two points of egress in every building.",
+        "zh": "消防规范要求每栋建筑至少有两个出口。"
+      },
+      {
+        "en": "The prisoner's sole egress from the cell was through a narrow corridor.",
+        "zh": "囚犯离开牢房的唯一出口是一条狭窄的走廊。"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "word": "elated",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "very happy, in high spirits",
+        "zh": "兴高采烈的；欣喜若狂的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "She was elated when she learned she had been accepted into medical school.",
+        "zh": "得知自己被医学院录取后，她欣喜若狂。"
+      },
+      {
+        "en": "The elated fans stormed the field after the winning goal.",
+        "zh": "获胜进球后，欣喜若狂的球迷冲进了球场。"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "word": "elegy",
+    "senses": [
+      {
+        "pos": "n.",
+        "en": "song or poem of sorrow, especially for a deceased person",
+        "zh": "挽歌；哀悼诗"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The poet wrote an elegy mourning the loss of his childhood friend.",
+        "zh": "诗人写了一首挽歌来悼念他失去的童年好友。"
+      },
+      {
+        "en": "The novel reads like an elegy for a vanished way of life.",
+        "zh": "这部小说读起来像是对一种已经消逝的生活方式的哀悼。"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "word": "elevate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "raise, lift up; lift the spirits of; move up to a higher rank, status, or plane",
+        "zh": "提升；抬高；鼓舞；使升职"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The doctor advised him to elevate his injured leg above heart level.",
+        "zh": "医生建议他将受伤的腿抬高到心脏水平以上。"
+      },
+      {
+        "en": "Her promotion elevated her to a senior position within the firm.",
+        "zh": "晋升让她在公司内升至高级职位。"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "word": "elicit",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "call forth, bring out, evoke",
+        "zh": "引出；诱出；唤起"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The comedian's opening joke elicited laughter from the entire audience.",
+        "zh": "喜剧演员开场的笑话引得全场观众哄堂大笑。"
+      },
+      {
+        "en": "The lawyer's questions were designed to elicit a confession from the witness.",
+        "zh": "律师的问题旨在诱使证人坦白。"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "word": "eloquent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "marked by forceful, fluid, apt speech; expressive, emotionally moving",
+        "zh": "雄辩的；有说服力的；富有表现力的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The eloquent commencement speech moved several graduates to tears.",
+        "zh": "那篇雄辩感人的毕业演讲让几位毕业生落泪。"
+      },
+      {
+        "en": "She is known as one of the most eloquent speakers in the Senate.",
+        "zh": "她被公认为参议院中最善言辞的演说家之一。"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "word": "emaciate",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "make abnormally thin, cause to physically waste away",
+        "zh": "使消瘦；使衰弱憔悴"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Months of famine had emaciated the entire village.",
+        "zh": "数月的饥荒使整个村庄的人都变得骨瘦如柴。"
+      },
+      {
+        "en": "The rescued dog was so emaciated that its ribs were clearly visible.",
+        "zh": "获救的那只狗瘦得肋骨都清晰可见。"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "word": "embellish",
+    "senses": [
+      {
+        "pos": "v.",
+        "en": "decorate, add ornamentation; enhance a story with fictional or fanciful details",
+        "zh": "装饰；美化；（给故事）添枝加叶"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The seamstress embellished the gown with delicate lace and pearls.",
+        "zh": "裁缝用精致的花边和珍珠装饰了这件礼服。"
+      },
+      {
+        "en": "He tends to embellish his travel stories to make them more exciting.",
+        "zh": "他讲旅行故事时总喜欢添油加醋，让故事更精彩。"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "word": "eminent",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "prominent, distinguished, of high rank",
+        "zh": "杰出的；著名的；地位显赫的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "An eminent physicist was invited to deliver the keynote address.",
+        "zh": "一位杰出的物理学家受邀发表主旨演讲。"
+      },
+      {
+        "en": "She comes from an eminent family of scholars and diplomats.",
+        "zh": "她出身于一个由学者和外交官组成的显赫家族。"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "word": "empirical",
+    "senses": [
+      {
+        "pos": "adj.",
+        "en": "coming from, based on, or verifiable by experience or experimentation; not purely theoretical",
+        "zh": "经验主义的；基于实证的；实验性的"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The theory lacked empirical support until the recent field studies.",
+        "zh": "在最近的实地研究之前，该理论一直缺乏实证支持。"
+      },
+      {
+        "en": "Scientists rely on empirical evidence rather than intuition to draw conclusions.",
+        "zh": "科学家依靠实证证据而非直觉来得出结论。"
+      }
+    ]
+  }
+]
