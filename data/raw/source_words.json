@@ -1,0 +1,4977 @@
+[
+ {
+  "id": 1,
+  "word": "abase",
+  "def_en": "Degrade or humble; to lower in rank, status, or esteem"
+ },
+ {
+  "id": 2,
+  "word": "abate",
+  "def_en": "Reduce, diminish"
+ },
+ {
+  "id": 3,
+  "word": "abdicate",
+  "def_en": "Formally give up the throne (or some other power or responsibility)"
+ },
+ {
+  "id": 4,
+  "word": "aberrant",
+  "def_en": "Abnormal, deviant"
+ },
+ {
+  "id": 5,
+  "word": "abeyance",
+  "def_en": "Temporary suspension, inactivity"
+ },
+ {
+  "id": 6,
+  "word": "abhor",
+  "def_en": "Detest, regard with disgust"
+ },
+ {
+  "id": 7,
+  "word": "abjure",
+  "def_en": "Give up, renounce; repudiate, recant, or shun (especially formally or under oath)"
+ },
+ {
+  "id": 8,
+  "word": "abrasive",
+  "def_en": "Rough, suitable for grinding or polishing (such as sandpaper); causing irritation or annoyance"
+ },
+ {
+  "id": 9,
+  "word": "abreast",
+  "def_en": "Side-by-side. The more common \"abreast of\" means keeping up with, staying aware of, or remaining equal in progress with."
+ },
+ {
+  "id": 10,
+  "word": "abridge",
+  "def_en": "Reduce or lessen; shorten by omitting parts throughout while retaining the main idea"
+ },
+ {
+  "id": 11,
+  "word": "abscission",
+  "def_en": "Cutting off; sudden termination; the separation of leaves, petals, or other parts from a plant or animal"
+ },
+ {
+  "id": 12,
+  "word": "abscond",
+  "def_en": "Depart suddenly and secretively"
+ },
+ {
+  "id": 13,
+  "word": "abstain",
+  "def_en": "Hold back, refrain (especially from something bad or unhealthy); decline to vote"
+ },
+ {
+  "id": 14,
+  "word": "abyss",
+  "def_en": "A deep and vast space or cavity; anything profound or infinite"
+ },
+ {
+  "id": 15,
+  "word": "accede",
+  "def_en": "Agree, give consent; assume power (usually as \"accede to\")"
+ },
+ {
+  "id": 16,
+  "word": "accretion",
+  "def_en": "Gradual increase; an added part or addition"
+ },
+ {
+  "id": 17,
+  "word": "acerbic",
+  "def_en": "Sour; harsh or severe"
+ },
+ {
+  "id": 18,
+  "word": "acidulous",
+  "def_en": "Slightly acid or sour; sharp or caustic"
+ },
+ {
+  "id": 19,
+  "word": "acme",
+  "def_en": "Summit, peak, highest point"
+ },
+ {
+  "id": 20,
+  "word": "activism",
+  "def_en": "The practice of pursuing political or other goals through vigorous action, often including protests and demonstrations"
+ },
+ {
+  "id": 21,
+  "word": "acumen",
+  "def_en": "Keen, quick, accurate insight or judgment"
+ },
+ {
+  "id": 22,
+  "word": "adhere",
+  "def_en": "Stick (to), such as with glue, or to a plan or belief"
+ },
+ {
+  "id": 23,
+  "word": "admonish",
+  "def_en": "Mildly scold; caution, advise, or remind to do something"
+ },
+ {
+  "id": 24,
+  "word": "adulterate",
+  "def_en": "Make impure by adding inappropriate or inferior ingredients"
+ },
+ {
+  "id": 25,
+  "word": "adumbrate",
+  "def_en": "Give a rough outline of; foreshadow; reveal only partially; obscure"
+ },
+ {
+  "id": 26,
+  "word": "adverse",
+  "def_en": "Opposing, harmful GRE Words: Definitions"
+ },
+ {
+  "id": 27,
+  "word": "advocate",
+  "def_en": "Speak or argue in favor of (verb); a person who pleads for a cause or on behalf of another person (noun)"
+ },
+ {
+  "id": 28,
+  "word": "aerie",
+  "def_en": "Dwelling or fortress built on a high place; the nest of a bird of prey, such as an eagle or hawk, built on a mountain or cliff"
+ },
+ {
+  "id": 29,
+  "word": "aesthetic",
+  "def_en": "Concerning the appreciation of beauty or good taste, pertaining to the science of what is beautiful (adj); a sense of beauty and taste of a particular time and place (noun)"
+ },
+ {
+  "id": 30,
+  "word": "affable",
+  "def_en": "Warm and friendly, pleasant, approachable"
+ },
+ {
+  "id": 31,
+  "word": "affectation",
+  "def_en": "Fake behavior (such as in speech or dress) adopted to give a certain impression"
+ },
+ {
+  "id": 32,
+  "word": "aggrandize",
+  "def_en": "Make greater; exaggerate"
+ },
+ {
+  "id": 33,
+  "word": "aggregate",
+  "def_en": "Gather together, amount to (verb); constituting a whole made up of constituent parts (adj)"
+ },
+ {
+  "id": 34,
+  "word": "alacrity",
+  "def_en": "Cheerful or speedy willingness"
+ },
+ {
+  "id": 35,
+  "word": "albeit",
+  "def_en": "Although, even though"
+ },
+ {
+  "id": 36,
+  "word": "alienate",
+  "def_en": "Cause to become unfriendly, hostile, or distant"
+ },
+ {
+  "id": 37,
+  "word": "alleviate",
+  "def_en": "Lessen, make easier to endure"
+ },
+ {
+  "id": 38,
+  "word": "aloof",
+  "def_en": "Distant physically or emotionally; reserved; indifferent"
+ },
+ {
+  "id": 39,
+  "word": "amalgamate",
+  "def_en": "Blend, merge, or unite"
+ },
+ {
+  "id": 40,
+  "word": "ambiguous",
+  "def_en": "Not clear, hard to understand, open to having several meanings or interpretations"
+ },
+ {
+  "id": 41,
+  "word": "ambivalent",
+  "def_en": "Uncertain; unable to decide, or wanting to do two contradictory things at once"
+ },
+ {
+  "id": 42,
+  "word": "ameliorate",
+  "def_en": "Improve; make better or more bearable"
+ },
+ {
+  "id": 43,
+  "word": "amortize",
+  "def_en": "Gradually pay off a debt, or gradually write off an asset"
+ },
+ {
+  "id": 44,
+  "word": "anachronism",
+  "def_en": "Something that is not in its correct historical time; a mistake in chronology, such as by assigning a person or event to the wrong time period"
+ },
+ {
+  "id": 45,
+  "word": "analgesia",
+  "def_en": "Pain relief; inability to feel pain"
+ },
+ {
+  "id": 46,
+  "word": "analogous",
+  "def_en": "Comparable, corresponding in some particular way (making a good analogy)"
+ },
+ {
+  "id": 47,
+  "word": "anarchy",
+  "def_en": "Absence of law or government; chaos, disorder"
+ },
+ {
+  "id": 48,
+  "word": "annul",
+  "def_en": "Make void or null, cancel, abolish (usually of laws or other established rules)"
+ },
+ {
+  "id": 49,
+  "word": "anodyne",
+  "def_en": "Medicine that relieves pain (noun); soothing, relieving pain (adj)"
+ },
+ {
+  "id": 50,
+  "word": "anoint",
+  "def_en": "Rub or sprinkle oil on; make sacred, such as by a ceremony that includes applying oil to someone"
+ },
+ {
+  "id": 51,
+  "word": "anomaly",
+  "def_en": "Deviation from what is common; inconsistency"
+ },
+ {
+  "id": 52,
+  "word": "antagonize",
+  "def_en": "Make hostile or unfriendly"
+ },
+ {
+  "id": 53,
+  "word": "antedate",
+  "def_en": "Be older than, precede in time; assign to an earlier date"
+ },
+ {
+  "id": 54,
+  "word": "antithetical",
+  "def_en": "Directly opposed, opposite; involving antithesis (the rhetorical act of placing two phrases opposite one another for contrast, as in love me or hate me)"
+ },
+ {
+  "id": 55,
+  "word": "apathy",
+  "def_en": "Not caring; absence of feeling; lack of interest or concern"
+ },
+ {
+  "id": 56,
+  "word": "apocryphal",
+  "def_en": "Of questionable authenticity; false"
+ },
+ {
+  "id": 57,
+  "word": "apostate",
+  "def_en": "Person who deserts a party, cause, religion, etc."
+ },
+ {
+  "id": 58,
+  "word": "apostle",
+  "def_en": "Pioneer of a reform movement (originally, an early follower of Jesus)"
+ },
+ {
+  "id": 59,
+  "word": "apposite",
+  "def_en": "Highly appropriate, suitable, or relevant"
+ },
+ {
+  "id": 60,
+  "word": "apprise",
+  "def_en": "Inform, give notice to"
+ },
+ {
+  "id": 61,
+  "word": "approbation",
+  "def_en": "Praise or approval, especially formal approval"
+ },
+ {
+  "id": 62,
+  "word": "appropriate",
+  "def_en": "Set aside or authorize (such as money) for a particular purpose; take for one's own use"
+ },
+ {
+  "id": 63,
+  "word": "arbiter",
+  "def_en": "Judge, umpire, person empowered to decide matters at hand"
+ },
+ {
+  "id": 64,
+  "word": "arcane",
+  "def_en": "Known or understood by only a few; obscure, secret"
+ },
+ {
+  "id": 65,
+  "word": "archaic",
+  "def_en": "Characteristic of an earlier period, ancient, primitive"
+ },
+ {
+  "id": 66,
+  "word": "ardent",
+  "def_en": "Very passionate, devoted, or enthusiastic"
+ },
+ {
+  "id": 67,
+  "word": "arduous",
+  "def_en": "Very difficult, strenuous; severe, hard to endure"
+ },
+ {
+  "id": 68,
+  "word": "arrogate",
+  "def_en": "Claim or take presumptuously or without the right to do so"
+ },
+ {
+  "id": 69,
+  "word": "articulate",
+  "def_en": "Using language in a clear, fluent way (adj); speak distinctly or give clarity to an idea (verb)"
+ },
+ {
+  "id": 70,
+  "word": "artifact",
+  "def_en": "Any object made by humans, especially those from an earlier time, such as those excavated by archaeologists"
+ },
+ {
+  "id": 71,
+  "word": "artless",
+  "def_en": "Free of deceit or craftiness, natural, genuine; lacking skill or knowledge, crude, uncultured"
+ },
+ {
+  "id": 72,
+  "word": "ascertain",
+  "def_en": "Find out with certainty"
+ },
+ {
+  "id": 73,
+  "word": "ascetic",
+  "def_en": "abstinent or austere in lifestyle (adj); a person who leads an austere and simple life without material pleasures, esp. someone who does this for religious reasons"
+ },
+ {
+  "id": 74,
+  "word": "ascribe",
+  "def_en": "Assign or credit to a certain cause or source"
+ },
+ {
+  "id": 75,
+  "word": "aseptic",
+  "def_en": "Free from germs"
+ },
+ {
+  "id": 76,
+  "word": "asperity",
+  "def_en": "Rigor, severity; harshness or sharpness of tone; roughness of surface"
+ },
+ {
+  "id": 77,
+  "word": "aspersions",
+  "def_en": "Damaging remarks, defamation, slander"
+ },
+ {
+  "id": 78,
+  "word": "assail",
+  "def_en": "Attack violently, assault"
+ },
+ {
+  "id": 79,
+  "word": "assiduous",
+  "def_en": "Persevering, diligent, constant"
+ },
+ {
+  "id": 80,
+  "word": "assuage",
+  "def_en": "Make milder, relieve; soothe, pacify, or calm"
+ },
+ {
+  "id": 81,
+  "word": "attenuate",
+  "def_en": "Weaken or thin out"
+ },
+ {
+  "id": 82,
+  "word": "attuned",
+  "def_en": "In harmony; in sympathetic relationship"
+ },
+ {
+  "id": 83,
+  "word": "audacious",
+  "def_en": "Very bold or brave, often in a rude or reckless way; extremely original"
+ },
+ {
+  "id": 84,
+  "word": "augment",
+  "def_en": "Make larger"
+ },
+ {
+  "id": 85,
+  "word": "augury",
+  "def_en": "Telling the future, such as through supernatural means"
+ },
+ {
+  "id": 86,
+  "word": "august",
+  "def_en": "Venerable, majestic; inspiring admiration"
+ },
+ {
+  "id": 87,
+  "word": "austere",
+  "def_en": "Severe in manner or appearance; very self- disciplined, ascetic; without luxury or ease; sober or serious"
+ },
+ {
+  "id": 88,
+  "word": "autonomous",
+  "def_en": "Self-governing, independent"
+ },
+ {
+  "id": 89,
+  "word": "avarice",
+  "def_en": "Insatiable greed; a miserly desire to hoard wealth"
+ },
+ {
+  "id": 90,
+  "word": "aver",
+  "def_en": "Declare or affirm with confidence"
+ },
+ {
+  "id": 91,
+  "word": "avid",
+  "def_en": "Enthusiastic, dedicated, passionate; excessively desirous"
+ },
+ {
+  "id": 92,
+  "word": "axiom",
+  "def_en": "Self-evident truth requiring no proof; universally or generally accepted principle"
+ },
+ {
+  "id": 93,
+  "word": "balk",
+  "def_en": "Refuse to proceed or to do something"
+ },
+ {
+  "id": 94,
+  "word": "balloon",
+  "def_en": "Swell or puff out; increase rapidly"
+ },
+ {
+  "id": 95,
+  "word": "banal",
+  "def_en": "Lacking freshness and originality; cliché"
+ },
+ {
+  "id": 96,
+  "word": "bane",
+  "def_en": "Something that ruins or spoils"
+ },
+ {
+  "id": 97,
+  "word": "base",
+  "def_en": "Morally low, mean, dishonorable; of little or no value; crude and unrefined; counterfeit"
+ },
+ {
+  "id": 98,
+  "word": "baying",
+  "def_en": "Howling in a deep way, like a dog or wolf"
+ },
+ {
+  "id": 99,
+  "word": "belie",
+  "def_en": "Contradict or misrepresent"
+ },
+ {
+  "id": 100,
+  "word": "beneficent",
+  "def_en": "Doing good"
+ },
+ {
+  "id": 101,
+  "word": "benign",
+  "def_en": "Harmless; favorable; kindly, gentle, or beneficial; not cancerous"
+ },
+ {
+  "id": 102,
+  "word": "bent",
+  "def_en": "Personal inclination or tendency"
+ },
+ {
+  "id": 103,
+  "word": "besiege",
+  "def_en": "Attack, overwhelm, crowd in on or surround"
+ },
+ {
+  "id": 104,
+  "word": "bevy",
+  "def_en": "Group of birds or other animals that stay close together; any large group"
+ },
+ {
+  "id": 105,
+  "word": "bifurcate",
+  "def_en": "To fork into two branches or divide into two halves"
+ },
+ {
+  "id": 106,
+  "word": "bilk",
+  "def_en": "Cheat or defraud"
+ },
+ {
+  "id": 107,
+  "word": "blight",
+  "def_en": "Disease that kills plants rapidly, or any cause of decay or destruction (noun); ruin or cause to wither (verb)"
+ },
+ {
+  "id": 108,
+  "word": "blithe",
+  "def_en": "Joyous, merry; excessively carefree (so as to ignore more important concerns)"
+ },
+ {
+  "id": 109,
+  "word": "bogus",
+  "def_en": "Fake, fraudulent"
+ },
+ {
+  "id": 110,
+  "word": "bolster",
+  "def_en": "Strengthen or support"
+ },
+ {
+  "id": 111,
+  "word": "bombastic",
+  "def_en": "(Of speech or writing) far too showy or dramatic than is appropriate; pretentious"
+ },
+ {
+  "id": 112,
+  "word": "bonhomie",
+  "def_en": "Friendliness, open and simple good heartedness"
+ },
+ {
+  "id": 113,
+  "word": "boor",
+  "def_en": "Rude, ill-mannered, or insensitive person; a peasant or country bumpkin"
+ },
+ {
+  "id": 114,
+  "word": "brandish",
+  "def_en": "Shake, wave, or flourish, as a weapon"
+ },
+ {
+  "id": 115,
+  "word": "brook",
+  "def_en": "Suffer or tolerate"
+ },
+ {
+  "id": 116,
+  "word": "bucolic",
+  "def_en": "Pertaining to shepherds; suggesting a peaceful and pleasant view of rural life"
+ },
+ {
+  "id": 117,
+  "word": "buffer",
+  "def_en": "Something that shields, protects, absorbs shock, or cushions"
+ },
+ {
+  "id": 118,
+  "word": "bureaucracy",
+  "def_en": "Government characterized by many bureaus and petty administrators or by excessive, seemingly meaningless requirements"
+ },
+ {
+  "id": 119,
+  "word": "burgeon",
+  "def_en": "Grow or flourish rapidly; put forth buds or shoots (of a plant)"
+ },
+ {
+  "id": 120,
+  "word": "burnish",
+  "def_en": "Polish, make smooth and lustrous"
+ },
+ {
+  "id": 121,
+  "word": "buttress",
+  "def_en": "Support or encourage (verb); a support or prop, esp. projecting from and supporting the wall of a building (noun)"
+ },
+ {
+  "id": 122,
+  "word": "bygone",
+  "def_en": "Past, former (adj); that which is in the past (usually plural noun)"
+ },
+ {
+  "id": 123,
+  "word": "cacophony",
+  "def_en": "Harsh, discordant, or meaningless mixture of sounds"
+ },
+ {
+  "id": 124,
+  "word": "calumny",
+  "def_en": "Malicious lie intended to hurt someone's reputation; the act of telling such lies"
+ },
+ {
+  "id": 125,
+  "word": "canard",
+  "def_en": "Rumor, a false or baseless story"
+ },
+ {
+  "id": 126,
+  "word": "candid",
+  "def_en": "Open, sincere, honest"
+ },
+ {
+  "id": 127,
+  "word": "canonical",
+  "def_en": "Authorized, recognized; pertaining to the canon, or body of accepted rules, standards or artistic works"
+ },
+ {
+  "id": 128,
+  "word": "capricious",
+  "def_en": "Acting on impulse, erratic"
+ },
+ {
+  "id": 129,
+  "word": "cardinal",
+  "def_en": "Chief, most important"
+ },
+ {
+  "id": 130,
+  "word": "cartography",
+  "def_en": "Mapmaking"
+ },
+ {
+  "id": 131,
+  "word": "castigate",
+  "def_en": "Criticize severely; punish in order to correct"
+ },
+ {
+  "id": 132,
+  "word": "catalyst",
+  "def_en": "Causer of change"
+ },
+ {
+  "id": 133,
+  "word": "catholic",
+  "def_en": "Universal, broad-minded"
+ },
+ {
+  "id": 134,
+  "word": "caustic",
+  "def_en": "Capable of corroding metal or burning the skin; very critical or sarcastic"
+ },
+ {
+  "id": 135,
+  "word": "censure",
+  "def_en": "Strong disapproval or official reprimand (noun); to issue such disapproval or reprimand (verb)"
+ },
+ {
+  "id": 136,
+  "word": "chauvinism",
+  "def_en": "Fanatical patriotism or blind enthusiasm for military glory; undue or biased devotion to any group, cause, etc."
+ },
+ {
+  "id": 137,
+  "word": "chicanery",
+  "def_en": "Trickery, deception by knowingly false arguments"
+ },
+ {
+  "id": 138,
+  "word": "chronological",
+  "def_en": "Arranged in or relating to time order"
+ },
+ {
+  "id": 139,
+  "word": "circumscribe",
+  "def_en": "Strictly limit a role, range of activity, or area; in math, to be constructed around so as to touch as many points as possible"
+ },
+ {
+  "id": 140,
+  "word": "circumspect",
+  "def_en": "Cautious, prudent; careful to consider the circumstances and consequences"
+ },
+ {
+  "id": 141,
+  "word": "clamber",
+  "def_en": "Climb awkwardly or with difficulty, scramble"
+ },
+ {
+  "id": 142,
+  "word": "clamor",
+  "def_en": "Noisy uproar or protest, as from a crowd; a loud, continuous noise"
+ },
+ {
+  "id": 143,
+  "word": "clinch",
+  "def_en": "Make final or settle conclusively; to fasten or hold together"
+ },
+ {
+  "id": 144,
+  "word": "cloying",
+  "def_en": "Disgustingly or distastefully sweet"
+ },
+ {
+  "id": 145,
+  "word": "coagulate",
+  "def_en": "Cause a liquid to become solid or semisolid"
+ },
+ {
+  "id": 146,
+  "word": "coalesce",
+  "def_en": "Come together, unite; fuse together"
+ },
+ {
+  "id": 147,
+  "word": "coda",
+  "def_en": "Final part of a musical composition; an ending, esp. one that sums up what has come before"
+ },
+ {
+  "id": 148,
+  "word": "coffer",
+  "def_en": "Chest for storing valuables; financial resources, a treasury"
+ },
+ {
+  "id": 149,
+  "word": "cogent",
+  "def_en": "Very convincing, logical"
+ },
+ {
+  "id": 150,
+  "word": "collude",
+  "def_en": "Conspire; cooperate for illegal or fraudulent purposes"
+ },
+ {
+  "id": 151,
+  "word": "commensurate",
+  "def_en": "The same in size, extent, etc., equivalent; proportional"
+ },
+ {
+  "id": 152,
+  "word": "compendium",
+  "def_en": "Concise but complete summary; a list or collection"
+ },
+ {
+  "id": 153,
+  "word": "complacent",
+  "def_en": "Self-satisfied, smug; overly content (and therefore lazy, neglectful, or some other bad quality)"
+ },
+ {
+  "id": 154,
+  "word": "complaisant",
+  "def_en": "Eager to please; cheerfully complying"
+ },
+ {
+  "id": 155,
+  "word": "complementary",
+  "def_en": "Completing; fitting together well; filling mutual needs"
+ },
+ {
+  "id": 156,
+  "word": "compliant",
+  "def_en": "Obeying, submissive; following the requirements"
+ },
+ {
+  "id": 157,
+  "word": "concede",
+  "def_en": "Give in, admit, yield; acknowledge reluctantly; grant or give up (such as giving up land after losing a war)"
+ },
+ {
+  "id": 158,
+  "word": "conciliatory",
+  "def_en": "Reconciling, appeasing, attempting to make the peace"
+ },
+ {
+  "id": 159,
+  "word": "concur",
+  "def_en": "Approve, agree"
+ },
+ {
+  "id": 160,
+  "word": "condone",
+  "def_en": "Overlook, tolerate, regard as harmless"
+ },
+ {
+  "id": 161,
+  "word": "confer",
+  "def_en": "Consult, compare views; bestow or give"
+ },
+ {
+  "id": 162,
+  "word": "confound",
+  "def_en": "Confuse, frustrate; mix up or make worse"
+ },
+ {
+  "id": 163,
+  "word": "connoisseur",
+  "def_en": "Expert, especially in the fine arts; person of educated, refined tastes"
+ },
+ {
+  "id": 164,
+  "word": "connote",
+  "def_en": "Suggest or imply in addition to the precise, literal meaning"
+ },
+ {
+  "id": 165,
+  "word": "console",
+  "def_en": "Lessen the suffering or grief of (verb); a control panel, or small table or cabinet (noun)"
+ },
+ {
+  "id": 166,
+  "word": "consolidate",
+  "def_en": "Unite, combine, solidify, make coherent"
+ },
+ {
+  "id": 167,
+  "word": "constrict",
+  "def_en": "Squeeze, compress; restrict the freedom of"
+ },
+ {
+  "id": 168,
+  "word": "construe",
+  "def_en": "Interpret or translate"
+ },
+ {
+  "id": 169,
+  "word": "contentious",
+  "def_en": "Controversial; prone to causing arguments, especially gratuitous or petty ones"
+ },
+ {
+  "id": 170,
+  "word": "contextualize",
+  "def_en": "Place in context, such as by giving the background or circumstances"
+ },
+ {
+  "id": 171,
+  "word": "contraries",
+  "def_en": "Things that are opposing; either of two opposite things"
+ },
+ {
+  "id": 172,
+  "word": "contrite",
+  "def_en": "Remorseful; feeling sorry for one's offenses or sins"
+ },
+ {
+  "id": 173,
+  "word": "contumacious",
+  "def_en": "Rebellious; stubbornly disobedient"
+ },
+ {
+  "id": 174,
+  "word": "conundrum",
+  "def_en": "Riddle, the answer to which involves a play on words; any mystery"
+ },
+ {
+  "id": 175,
+  "word": "converge",
+  "def_en": "Move towards one another or towards a point; unite"
+ },
+ {
+  "id": 176,
+  "word": "conversant",
+  "def_en": "Knowledgeable about or experienced with"
+ },
+ {
+  "id": 177,
+  "word": "conversely",
+  "def_en": "In an opposite way; on the other hand"
+ },
+ {
+  "id": 178,
+  "word": "convoke",
+  "def_en": "Call together, as to a meeting"
+ },
+ {
+  "id": 179,
+  "word": "convoluted",
+  "def_en": "Twisted; very complicated"
+ },
+ {
+  "id": 180,
+  "word": "copious",
+  "def_en": "Plentiful, bountiful"
+ },
+ {
+  "id": 181,
+  "word": "corroborate",
+  "def_en": "Support, add evidence to"
+ },
+ {
+  "id": 182,
+  "word": "cosmopolitan",
+  "def_en": "Belonging to the entire world, at home globally; free from local or national prejudices or attachments"
+ },
+ {
+  "id": 183,
+  "word": "cosset",
+  "def_en": "Treat as a pet, pamper"
+ },
+ {
+  "id": 184,
+  "word": "coterie",
+  "def_en": "Close or exclusive group, clique"
+ },
+ {
+  "id": 185,
+  "word": "countenance",
+  "def_en": "Facial expression or face (noun); approve or tolerate (verb)"
+ },
+ {
+  "id": 186,
+  "word": "counterintuitive",
+  "def_en": "Against what one would intuitively expect"
+ },
+ {
+  "id": 187,
+  "word": "counterpoint",
+  "def_en": "Contrasting item, opposite; a complement; the use of contrast or interplay in a work of art"
+ },
+ {
+  "id": 188,
+  "word": "counterproductive",
+  "def_en": "Defeating the purpose; preventing the intended goal"
+ },
+ {
+  "id": 189,
+  "word": "covert",
+  "def_en": "Secret, veiled, undercover"
+ },
+ {
+  "id": 190,
+  "word": "crafty",
+  "def_en": "Cunning, skillful in deception or underhanded schemes"
+ },
+ {
+  "id": 191,
+  "word": "craven",
+  "def_en": "Very cowardly, lacking courage"
+ },
+ {
+  "id": 192,
+  "word": "credibility",
+  "def_en": "Believability, trustworthiness"
+ },
+ {
+  "id": 193,
+  "word": "credulous",
+  "def_en": "Gullible; prone to believing or trusting too easily or without enough evidence"
+ },
+ {
+  "id": 194,
+  "word": "crescendo",
+  "def_en": "Steady increase in force, intensity, or the loudness of a musical passage; a climactic moment or peak"
+ },
+ {
+  "id": 195,
+  "word": "culminate",
+  "def_en": "Reach the highest point or final stage"
+ },
+ {
+  "id": 196,
+  "word": "cupidity",
+  "def_en": "Greed, great or excessive desire"
+ },
+ {
+  "id": 197,
+  "word": "curmudgeon",
+  "def_en": "Bad-tempered, difficult person; grouch"
+ },
+ {
+  "id": 198,
+  "word": "cynical",
+  "def_en": "Thinking the worst of others' motivations; bitterly pessimistic"
+ },
+ {
+  "id": 199,
+  "word": "daunt",
+  "def_en": "Discourage, dishearten, lessen the courage of"
+ },
+ {
+  "id": 200,
+  "word": "debase",
+  "def_en": "Degrade; lower in quality, value, rank, etc.; lower in moral quality"
+ },
+ {
+  "id": 201,
+  "word": "debunk",
+  "def_en": "Expose, ridicule, or disprove false or exaggerated claims"
+ },
+ {
+  "id": 202,
+  "word": "declaim",
+  "def_en": "Speak in an impassioned, pompous, or oratorical manner; give a formal speech"
+ },
+ {
+  "id": 203,
+  "word": "declivity",
+  "def_en": "Downward slope"
+ },
+ {
+  "id": 204,
+  "word": "decorous",
+  "def_en": "Behaving with propriety and good taste; polite"
+ },
+ {
+  "id": 205,
+  "word": "deem",
+  "def_en": "Judge; consider"
+ },
+ {
+  "id": 206,
+  "word": "deface",
+  "def_en": "Vandalize, mar the appearance of"
+ },
+ {
+  "id": 207,
+  "word": "default",
+  "def_en": "Failure to act, neglect (noun); fail to fulfill an obligation, especially a financial one (verb)"
+ },
+ {
+  "id": 208,
+  "word": "deference",
+  "def_en": "Respectful submission; yielding to the authority or opinion of another"
+ },
+ {
+  "id": 209,
+  "word": "deflect",
+  "def_en": "Cause to curve; turn aside, esp. from a straight course; avoid"
+ },
+ {
+  "id": 210,
+  "word": "deleterious",
+  "def_en": "Harmful, unhealthful"
+ },
+ {
+  "id": 211,
+  "word": "delimit",
+  "def_en": "Fix, mark, or define the boundaries of"
+ },
+ {
+  "id": 212,
+  "word": "delineate",
+  "def_en": "Mark the outline of; sketch; describe in detail"
+ },
+ {
+  "id": 213,
+  "word": "demagogue",
+  "def_en": "A leader who lies and gains power by arousing the passions and especially prejudices of the people"
+ },
+ {
+  "id": 214,
+  "word": "demur",
+  "def_en": "Show reluctance or object, especially for moral reasons"
+ },
+ {
+  "id": 215,
+  "word": "denigrate",
+  "def_en": "Belittle, attack the reputation of"
+ },
+ {
+  "id": 216,
+  "word": "denote",
+  "def_en": "Be a name or symbol for"
+ },
+ {
+  "id": 217,
+  "word": "deride",
+  "def_en": "Mock, scoff at, laugh at contemptuously"
+ },
+ {
+  "id": 218,
+  "word": "derivative",
+  "def_en": "Derived from something else; not original"
+ },
+ {
+  "id": 219,
+  "word": "desiccate",
+  "def_en": "Thoroughly dried up, dehydrated"
+ },
+ {
+  "id": 220,
+  "word": "desultory",
+  "def_en": "Lacking consistency or order, disconnected, sporadic; going off topic"
+ },
+ {
+  "id": 221,
+  "word": "detached",
+  "def_en": "Impartial, disinterested; unconcerned, distant, aloof"
+ },
+ {
+  "id": 222,
+  "word": "deterrent",
+  "def_en": "Something that restrains or discourages"
+ },
+ {
+  "id": 223,
+  "word": "diaphanous",
+  "def_en": "Very sheer, fine, translucent"
+ },
+ {
+  "id": 224,
+  "word": "diatribe",
+  "def_en": "Bitter, abusive attack or criticism; rant"
+ },
+ {
+  "id": 225,
+  "word": "dichotomy",
+  "def_en": "Division into two parts or into two contradictory groups"
+ },
+ {
+  "id": 226,
+  "word": "dictum",
+  "def_en": "Formal or authoritative pronouncement; saying or proverb"
+ },
+ {
+  "id": 227,
+  "word": "didactic",
+  "def_en": "Intended to instruct; teaching, or teaching a moral lesson"
+ },
+ {
+  "id": 228,
+  "word": "diffident",
+  "def_en": "Lacking confidence, shy"
+ },
+ {
+  "id": 229,
+  "word": "diffuse",
+  "def_en": "Spread widely, disseminate (verb); dispersed, widely spread out, or wordy and going off- topic (adj)"
+ },
+ {
+  "id": 230,
+  "word": "digress",
+  "def_en": "Go off-topic when speaking or writing"
+ },
+ {
+  "id": 231,
+  "word": "dilate",
+  "def_en": "To become wider or make wider, cause to expand; to speak or write at length, elaborate upon"
+ },
+ {
+  "id": 232,
+  "word": "dilatory",
+  "def_en": "Slow, late; procrastinating or stalling for time"
+ },
+ {
+  "id": 233,
+  "word": "dilettante",
+  "def_en": "Person who takes up an art or activity for amusement only or in a superficial way"
+ },
+ {
+  "id": 234,
+  "word": "din",
+  "def_en": "Loud, confused noise, esp. for a long period of time"
+ },
+ {
+  "id": 235,
+  "word": "dirge",
+  "def_en": "A funeral or mourning song or poem"
+ },
+ {
+  "id": 236,
+  "word": "disabuse",
+  "def_en": "Free someone from a mistake in thinking"
+ },
+ {
+  "id": 237,
+  "word": "discerning",
+  "def_en": "Having good judgment or insight; able to distinguish mentally"
+ },
+ {
+  "id": 238,
+  "word": "discomfiting",
+  "def_en": "Disconcerting, confusing, frustrating"
+ },
+ {
+  "id": 239,
+  "word": "discordant",
+  "def_en": "Harsh or inharmonious in sound; disagreeing, incongruous"
+ },
+ {
+  "id": 240,
+  "word": "discredit",
+  "def_en": "Injure the reputation of, destroy credibility of or confidence in"
+ },
+ {
+  "id": 241,
+  "word": "discrepancy",
+  "def_en": "Difference or inconsistency"
+ },
+ {
+  "id": 242,
+  "word": "discrete",
+  "def_en": "Separate, distinct, detached, existing as individual parts"
+ },
+ {
+  "id": 243,
+  "word": "discriminating",
+  "def_en": "Judicious, discerning, having good judgment or insight"
+ },
+ {
+  "id": 244,
+  "word": "disingenuous",
+  "def_en": "Insincere, not genuine"
+ },
+ {
+  "id": 245,
+  "word": "disinterested",
+  "def_en": "Unbiased, impartial; not interested"
+ },
+ {
+  "id": 246,
+  "word": "disjointed",
+  "def_en": "Disconnected, not coherent, jerky; having the joints separated"
+ },
+ {
+  "id": 247,
+  "word": "dismiss",
+  "def_en": "Allow to disperse or leave; fire from a job; put aside or reject, especially after only a brief consideration"
+ },
+ {
+  "id": 248,
+  "word": "disparage",
+  "def_en": "Belittle, put down; bring shame upon, discredit"
+ },
+ {
+  "id": 249,
+  "word": "disparate",
+  "def_en": "Distinct, different"
+ },
+ {
+  "id": 250,
+  "word": "dispassionate",
+  "def_en": "Unbiased, not having a selfish or personal motivation; calm, lacking emotion"
+ },
+ {
+  "id": 251,
+  "word": "dispatch",
+  "def_en": "Speed, promptness; send off or deal with in a speedy way"
+ },
+ {
+  "id": 252,
+  "word": "disperse",
+  "def_en": "Scatter, spread widely, cause to vanish"
+ },
+ {
+  "id": 253,
+  "word": "disposition",
+  "def_en": "A person's general or natural mood; tendency"
+ },
+ {
+  "id": 254,
+  "word": "disquieting",
+  "def_en": "Disturbing, causing anxiety"
+ },
+ {
+  "id": 255,
+  "word": "dissemble",
+  "def_en": "Mislead, conceal the truth, put on a false appearance of"
+ },
+ {
+  "id": 256,
+  "word": "disseminate",
+  "def_en": "Scatter, spread about, broadcast"
+ },
+ {
+  "id": 257,
+  "word": "dissent",
+  "def_en": "Disagree or take an opposing view, esp. in relation to a formal body such as a government, political party, or church; such a view"
+ },
+ {
+  "id": 258,
+  "word": "dissolution",
+  "def_en": "Dissolving, the state of having been dissolved; breaking bonds or breaking up of a group of people; death, disintegration; sinking into extreme hedonism, vice, and degradation"
+ },
+ {
+  "id": 259,
+  "word": "dissonance",
+  "def_en": "Harsh, inharmonious sound; cacophony; disagreement"
+ },
+ {
+  "id": 260,
+  "word": "distaff",
+  "def_en": "Female, esp. relating to the maternal side of the family; women or women's work; a staff that holds wool or flax for spinning"
+ },
+ {
+  "id": 261,
+  "word": "distend",
+  "def_en": "Swell, expand, stretch, bloat"
+ },
+ {
+  "id": 262,
+  "word": "distill",
+  "def_en": "Purify; extract the essential elements of"
+ },
+ {
+  "id": 263,
+  "word": "dither",
+  "def_en": "Act indecisively (verb); a state of fear or trembling excitement"
+ },
+ {
+  "id": 264,
+  "word": "diurnal",
+  "def_en": "Occurring every day; happening in the daytime (rather than at night)"
+ },
+ {
+  "id": 265,
+  "word": "diverge",
+  "def_en": "Differ, deviate; branch off or turn aside, as from a path"
+ },
+ {
+  "id": 266,
+  "word": "divest",
+  "def_en": "Deprive or strip of a rank, title, etc., or of clothing or gear; to sell off holdings (opposite of invest)"
+ },
+ {
+  "id": 267,
+  "word": "divine",
+  "def_en": "Discover through divination or supernatural means; perceive by insight"
+ },
+ {
+  "id": 268,
+  "word": "doctrinaire",
+  "def_en": "Person who applies doctrine in an impractical or rigid and close-minded way (noun); merely theoretical, impractical, or fanatical about other people accepting one's ideas (adj)"
+ },
+ {
+  "id": 269,
+  "word": "document",
+  "def_en": "Support with evidence, cite sources in a detailed way, create documentary evidence of"
+ },
+ {
+  "id": 270,
+  "word": "doff",
+  "def_en": "Take off (such as clothes), put aside; remove one's hat as a gesture"
+ },
+ {
+  "id": 271,
+  "word": "dogma",
+  "def_en": "A system of principles laid down by an authority; established belief"
+ },
+ {
+  "id": 272,
+  "word": "dormant",
+  "def_en": "Asleep, inactive, on a break"
+ },
+ {
+  "id": 273,
+  "word": "dovetail",
+  "def_en": "Join or fit together"
+ },
+ {
+  "id": 274,
+  "word": "droll",
+  "def_en": "Funny in an odd way"
+ },
+ {
+  "id": 275,
+  "word": "dubious",
+  "def_en": "Doubtful, questionable, suspect"
+ },
+ {
+  "id": 276,
+  "word": "dupe",
+  "def_en": "Person who is easily fooled or used (noun); to fool or exploit (verb)"
+ },
+ {
+  "id": 277,
+  "word": "duplicity",
+  "def_en": "Deceit, double-dealing, acting in two different ways for the purpose of deception"
+ },
+ {
+  "id": 278,
+  "word": "dyspeptic",
+  "def_en": "Grumpy, pessimistic, irritable; suffering from dyspepsia (indigestion)"
+ },
+ {
+  "id": 279,
+  "word": "e.g.",
+  "def_en": "For example, such as"
+ },
+ {
+  "id": 280,
+  "word": "ebullient",
+  "def_en": "Very enthusiastic, lively, excited; bubbling as though being boiled"
+ },
+ {
+  "id": 281,
+  "word": "eccentric",
+  "def_en": "Peculiar, odd, deviating from the norm esp. in a whimsical way"
+ },
+ {
+  "id": 282,
+  "word": "echelon",
+  "def_en": "A level, rank or grade; the people at that level"
+ },
+ {
+  "id": 283,
+  "word": "eclectic",
+  "def_en": "Selecting the best of everything or from many diverse sources"
+ },
+ {
+  "id": 284,
+  "word": "eclipse",
+  "def_en": "The obscuring of one thing by another, such as the sun by the moon or a person by a more famous or talented person (noun); to obscure, darken, make less important (verb)"
+ },
+ {
+  "id": 285,
+  "word": "edify",
+  "def_en": "Uplift, enlighten, instruct or improve in a spiritual or moral way"
+ },
+ {
+  "id": 286,
+  "word": "efficacy",
+  "def_en": "The quality of being able to produce the intended effect"
+ },
+ {
+  "id": 287,
+  "word": "effigy",
+  "def_en": "Representation or image of a person, esp. a crude facsimile used to mock a hated person"
+ },
+ {
+  "id": 288,
+  "word": "effrontery",
+  "def_en": "Shameless boldness"
+ },
+ {
+  "id": 289,
+  "word": "egalitarian",
+  "def_en": "Related to belief in the equality of all people, esp. in political, economic, or social spheres"
+ },
+ {
+  "id": 290,
+  "word": "egregious",
+  "def_en": "Extraordinarily or conspicuously bad; glaring"
+ },
+ {
+  "id": 291,
+  "word": "egress",
+  "def_en": "An exit or the action of exiting"
+ },
+ {
+  "id": 292,
+  "word": "elated",
+  "def_en": "Very happy, in high spirits"
+ },
+ {
+  "id": 293,
+  "word": "elegy",
+  "def_en": "Song or poem of sorrow, esp. for a deceased person"
+ },
+ {
+  "id": 294,
+  "word": "elevate",
+  "def_en": "Raise, lift up; lift the spirits of; move up to a higher rank or status or raise up to a higher spiritual or intellectual plane"
+ },
+ {
+  "id": 295,
+  "word": "elicit",
+  "def_en": "Call forth, bring out, evoke"
+ },
+ {
+  "id": 296,
+  "word": "eloquent",
+  "def_en": "Marked by forceful, fluid, apt speech; expressive, emotionally moving"
+ },
+ {
+  "id": 297,
+  "word": "emaciate",
+  "def_en": "Make abnormally thin, cause to physically waste away"
+ },
+ {
+  "id": 298,
+  "word": "embellish",
+  "def_en": "Decorate, add ornamentation; enhance (a story) with fictional or fanciful details"
+ },
+ {
+  "id": 299,
+  "word": "eminent",
+  "def_en": "Prominent, distinguished, of high rank"
+ },
+ {
+  "id": 300,
+  "word": "empirical",
+  "def_en": "Coming from, based on, or able to be verified by experience or experimentation; not purely based on theory"
+ },
+ {
+  "id": 301,
+  "word": "emulate",
+  "def_en": "Copy in an attempt to equal or be better than"
+ },
+ {
+  "id": 302,
+  "word": "encomium",
+  "def_en": "Warm, glowing praise, esp. a formal expression of praise"
+ },
+ {
+  "id": 303,
+  "word": "endemic",
+  "def_en": "Native, local; natural, specific to, or confined to a particular place"
+ },
+ {
+  "id": 304,
+  "word": "enervate",
+  "def_en": "Weaken, tire"
+ },
+ {
+  "id": 305,
+  "word": "engender",
+  "def_en": "Produce, give rise to, cause to exist; procreate"
+ },
+ {
+  "id": 306,
+  "word": "enhance",
+  "def_en": "Raise to a higher value, desirability, etc."
+ },
+ {
+  "id": 307,
+  "word": "enigma",
+  "def_en": "Puzzle, mystery, riddle; mysterious or contradictory person"
+ },
+ {
+  "id": 308,
+  "word": "entitlement",
+  "def_en": "Having the right to certain privileges; believing, sometimes without cause, that one deserves or has a right to certain privileges"
+ },
+ {
+  "id": 309,
+  "word": "enumerate",
+  "def_en": "Count or list; specify one-by-one"
+ },
+ {
+  "id": 310,
+  "word": "ephemeral",
+  "def_en": "Lasting only a short time, fleeting"
+ },
+ {
+  "id": 311,
+  "word": "epicure",
+  "def_en": "Person with cultivated, refined tastes, esp. in food and wine"
+ },
+ {
+  "id": 312,
+  "word": "equanimity",
+  "def_en": "Composure, evenness of mind; mental or emotional stability, esp. under stress"
+ },
+ {
+  "id": 313,
+  "word": "equitable",
+  "def_en": "Fair, equal, just"
+ },
+ {
+  "id": 314,
+  "word": "equivocate",
+  "def_en": "Use unclear language to deceive or avoid committing to a position"
+ },
+ {
+  "id": 315,
+  "word": "erratic",
+  "def_en": "Inconsistent, wandering, having no fixed course"
+ },
+ {
+  "id": 316,
+  "word": "erroneous",
+  "def_en": "Mistaken, in error; improper, morally incorrect"
+ },
+ {
+  "id": 317,
+  "word": "ersatz",
+  "def_en": "Artificial, synthetic; being an inferior substitute"
+ },
+ {
+  "id": 318,
+  "word": "erstwhile",
+  "def_en": "Former, previous (adj); in the past, formerly (adv)"
+ },
+ {
+  "id": 319,
+  "word": "erudite",
+  "def_en": "Scholarly, knowledgeable; possessing deep, often systematic, knowledge"
+ },
+ {
+  "id": 320,
+  "word": "eschew",
+  "def_en": "Shun, avoid, abstain from"
+ },
+ {
+  "id": 321,
+  "word": "esoteric",
+  "def_en": "Understood by or intended for only a few; secret"
+ },
+ {
+  "id": 322,
+  "word": "estimable",
+  "def_en": "Worthy of esteem, admirable; able to be estimated"
+ },
+ {
+  "id": 323,
+  "word": "ethos",
+  "def_en": "The character, personality, or moral values specific to a person, group, time period, etc."
+ },
+ {
+  "id": 324,
+  "word": "eulogy",
+  "def_en": "Speech of praise or written work of praise, esp. a speech given at a funeral"
+ },
+ {
+  "id": 325,
+  "word": "euphemism",
+  "def_en": "Substitution of a mild, inoffensive, or indirect expression for one that is considered offensive or too direct"
+ },
+ {
+  "id": 326,
+  "word": "euphony",
+  "def_en": "Pleasing or sweet sound, especially as formed by a harmonious use of words"
+ },
+ {
+  "id": 327,
+  "word": "exacerbate",
+  "def_en": "Make worse (more violent, severe, etc.), inflame; irritate or embitter (a person)"
+ },
+ {
+  "id": 328,
+  "word": "exacting",
+  "def_en": "Very severe in making demands; requiring precise attention"
+ },
+ {
+  "id": 329,
+  "word": "exculpate",
+  "def_en": "Clear from guilt or blame"
+ },
+ {
+  "id": 330,
+  "word": "exhaustive",
+  "def_en": "Comprehensive, thorough, exhausting a topic or subject, accounting for all possibilities; draining, tending to exhaust"
+ },
+ {
+  "id": 331,
+  "word": "exigent",
+  "def_en": "Requiring immediate attention, action, or aid; excessively demanding"
+ },
+ {
+  "id": 332,
+  "word": "exonerate",
+  "def_en": "Clear from blame or accusation; free from a responsibility"
+ },
+ {
+  "id": 333,
+  "word": "expedient",
+  "def_en": "Suitable, proper; effective, often at the expense of ethics or other considerations"
+ },
+ {
+  "id": 334,
+  "word": "explicit",
+  "def_en": "Direct, clear, fully revealed; clearly depicting sex or nudity"
+ },
+ {
+  "id": 335,
+  "word": "exponent",
+  "def_en": "Person who expounds or explains; champion, advocate, or representative"
+ },
+ {
+  "id": 336,
+  "word": "expurgate",
+  "def_en": "Censor; remove objectionable or offensive parts"
+ },
+ {
+  "id": 337,
+  "word": "extemporaneous",
+  "def_en": "Done without preparation (esp. of a speech), or with some preparation but no notes; improvised, done on the spur of the moment"
+ },
+ {
+  "id": 338,
+  "word": "extraneous",
+  "def_en": "Irrelevant; foreign, coming from without, not belonging"
+ },
+ {
+  "id": 339,
+  "word": "extrapolate",
+  "def_en": "Conjecture about an unknown by projecting information about something known; predict by projecting past experience"
+ },
+ {
+  "id": 340,
+  "word": "facetious",
+  "def_en": "Joking, humorous, esp. inappropriately; not serious, concerned with frivolous things"
+ },
+ {
+  "id": 341,
+  "word": "facilitate",
+  "def_en": "Make easier, help the progress of"
+ },
+ {
+  "id": 342,
+  "word": "faction",
+  "def_en": "Group or clique within a larger organization; party strife and dissension"
+ },
+ {
+  "id": 343,
+  "word": "fallacious",
+  "def_en": "Containing a fallacy, or mistake in logic; logically unsound; deceptive"
+ },
+ {
+  "id": 344,
+  "word": "fallow",
+  "def_en": "Left unplanted (of land); not in use"
+ },
+ {
+  "id": 345,
+  "word": "fanatical",
+  "def_en": "Excessively devoted, enthusiastic, or zealous in an uncritical way"
+ },
+ {
+  "id": 346,
+  "word": "fanciful",
+  "def_en": "Whimsical, capricious; imaginary; freely imaginative rather than based on reason or reality"
+ },
+ {
+  "id": 347,
+  "word": "fastidious",
+  "def_en": "Excessively particular, difficult to please; painstaking, meticulous, requiring excessive attention to detail"
+ },
+ {
+  "id": 348,
+  "word": "fathom",
+  "def_en": "Measure the depth of (usually of water) as with a sounding line; penetrate and discover the meaning of, understand"
+ },
+ {
+  "id": 349,
+  "word": "fatuous",
+  "def_en": "Foolish, silly, esp. in a smug or complacent manner"
+ },
+ {
+  "id": 350,
+  "word": "fawn",
+  "def_en": "Show affection or try to please in the manner of a dog; try to win favor through flattery and submissive behavior"
+ },
+ {
+  "id": 351,
+  "word": "feasible",
+  "def_en": "Possible; logical or likely; suitable"
+ },
+ {
+  "id": 352,
+  "word": "fecund",
+  "def_en": "Fruitful, fertile; capable of abundantly producing offspring, vegetation, or creative or intellectual work"
+ },
+ {
+  "id": 353,
+  "word": "felicitous",
+  "def_en": "Admirably appropriate, very well-suited for the occasion; pleasant, fortunate, marked by happiness"
+ },
+ {
+  "id": 354,
+  "word": "fervid",
+  "def_en": "Very hot; heated in passion or enthusiasm"
+ },
+ {
+  "id": 355,
+  "word": "fetid",
+  "def_en": "Stinking; having an offensive smell"
+ },
+ {
+  "id": 356,
+  "word": "fidelity",
+  "def_en": "Faithfulness, loyalty; strict observance of duty; accuracy in reproducing a sound or image"
+ },
+ {
+  "id": 357,
+  "word": "figurative",
+  "def_en": "Metaphorical, based on figures of speech; containing many figures of speech (as fancy- sounding writing); related to portraying human or animal figures"
+ },
+ {
+  "id": 358,
+  "word": "finesse",
+  "def_en": "Extreme delicacy, subtlety, or diplomacy in handling a sensitive situation or in a performance or skill (noun); use tact or diplomacy; employ a deceptive strategy (verb)"
+ },
+ {
+  "id": 359,
+  "word": "flag",
+  "def_en": "Get tired, lose enthusiasm; hang limply or droop"
+ },
+ {
+  "id": 360,
+  "word": "fledgling",
+  "def_en": "A young bird that has just recently gotten its feathers, an inexperienced person (noun); new or inexperienced (adj)"
+ },
+ {
+  "id": 361,
+  "word": "fleeting",
+  "def_en": "Passing quickly, transitory"
+ },
+ {
+  "id": 362,
+  "word": "florid",
+  "def_en": "Reddish or rosy; flowery, showy, or excessively fancy"
+ },
+ {
+  "id": 363,
+  "word": "flout",
+  "def_en": "Treat with disdain, contempt, or scorn (usually of rules)"
+ },
+ {
+  "id": 364,
+  "word": "fluke",
+  "def_en": "Stroke of luck, something accidentally successful"
+ },
+ {
+  "id": 365,
+  "word": "foment",
+  "def_en": "Incite, instigate, stir up, promote the growth of; apply medicated liquid to a body part"
+ },
+ {
+  "id": 366,
+  "word": "forage",
+  "def_en": "Wander in search of; rummage, hunt, make a raid"
+ },
+ {
+  "id": 367,
+  "word": "ford",
+  "def_en": "Place where a river or similar body of water is shallow enough to walk or ride a vehicle across (noun); to cross at such a place (verb)"
+ },
+ {
+  "id": 368,
+  "word": "foreshadow",
+  "def_en": "Indicate or suggest beforehand, presage"
+ },
+ {
+  "id": 369,
+  "word": "forestall",
+  "def_en": "Delay, hinder, prevent by taking action beforehand"
+ },
+ {
+  "id": 370,
+  "word": "forfeit",
+  "def_en": "Surrender or lose as a result of an error, crime, or failure to fulfill an obligation"
+ },
+ {
+  "id": 371,
+  "word": "fortify",
+  "def_en": "Strengthen, invigorate, encourage"
+ },
+ {
+  "id": 372,
+  "word": "fortuitous",
+  "def_en": "Happening by chance; lucky"
+ },
+ {
+  "id": 373,
+  "word": "fracas",
+  "def_en": "Noisy disturbance or fight; brawl"
+ },
+ {
+  "id": 374,
+  "word": "fractious",
+  "def_en": "Unruly, troublemaking; irritable"
+ },
+ {
+  "id": 375,
+  "word": "frenetic",
+  "def_en": "Wildly excited, frantic, distracted"
+ },
+ {
+  "id": 376,
+  "word": "fringe",
+  "def_en": "On the margin, periphery (adj); the people in a group who hold the most extreme views (noun)"
+ },
+ {
+  "id": 377,
+  "word": "frugal",
+  "def_en": "Economical, thrifty, not wasteful with money; inexpensive"
+ },
+ {
+  "id": 378,
+  "word": "fulminate",
+  "def_en": "Explode, detonate; attack verbally in a vehement, thunderous way"
+ },
+ {
+  "id": 379,
+  "word": "furtive",
+  "def_en": "Done secretly; stealthy, sly, shifty"
+ },
+ {
+  "id": 380,
+  "word": "futile",
+  "def_en": "Producing no useful result, ineffective; trivial or unimportant"
+ },
+ {
+  "id": 381,
+  "word": "gainsay",
+  "def_en": "Declare false, deny; oppose"
+ },
+ {
+  "id": 382,
+  "word": "gambol",
+  "def_en": "Frolic; skip or leap playfully"
+ },
+ {
+  "id": 383,
+  "word": "garner",
+  "def_en": "Gather and store; amass, collect"
+ },
+ {
+  "id": 384,
+  "word": "garrulous",
+  "def_en": "Talkative, wordy, rambling"
+ },
+ {
+  "id": 385,
+  "word": "gauche",
+  "def_en": "Tactless, lacking social grace, awkward, crude"
+ },
+ {
+  "id": 386,
+  "word": "gawky",
+  "def_en": "Physically awkward (esp. of a tall, skinny person, often used to describe teenagers)"
+ },
+ {
+  "id": 387,
+  "word": "germane",
+  "def_en": "Relevant and appropriate, on-topic"
+ },
+ {
+  "id": 388,
+  "word": "gestation",
+  "def_en": "Pregnancy; the period from conception until birth of an animal or (metaphorically) of an idea or plan"
+ },
+ {
+  "id": 389,
+  "word": "gist",
+  "def_en": "Main idea, essence"
+ },
+ {
+  "id": 390,
+  "word": "glacial",
+  "def_en": "Pertaining to glaciers; cold, icy, slow, unsympathetic"
+ },
+ {
+  "id": 391,
+  "word": "glib",
+  "def_en": "Fluent and easy in a way that suggests superficiality or insincerity"
+ },
+ {
+  "id": 392,
+  "word": "glower",
+  "def_en": "Stare in an angry, sullen way"
+ },
+ {
+  "id": 393,
+  "word": "goad",
+  "def_en": "Urge on (as cattle) with a pointed or electrically charged stick; spur on, stimulate, encourage"
+ },
+ {
+  "id": 394,
+  "word": "goosebumps",
+  "def_en": "The \"bumps\" created by hairs standing up on the skin in response to cold, fear, etc."
+ },
+ {
+  "id": 395,
+  "word": "gouge",
+  "def_en": "Scooping or digging tool, like a chisel, or a hole made with such a tool (noun); cut or scoop out; force out a person's eye with one's thumb; swindle, extort money from (verb)"
+ },
+ {
+  "id": 396,
+  "word": "gradation",
+  "def_en": "A progression, a process taking place gradually, in stages; one of these stages"
+ },
+ {
+  "id": 397,
+  "word": "graft",
+  "def_en": "Insert part of a plant into another plant, where it continues to grow; join living tissue (such as skin) to part of the body where it will continue to live and grow; attach as if by grafting (verb); the part so grafted (as in a graft of skin); the act of acquiring money or other benefits through illegal means, esp. by abusing one's power (noun)"
+ },
+ {
+  "id": 398,
+  "word": "grandiloquent",
+  "def_en": "Relating to lofty speech, esp. to the point of being pompous, overblown, bombastic"
+ },
+ {
+  "id": 399,
+  "word": "grandstand",
+  "def_en": "Perform showily in an attempt to impress onlookers"
+ },
+ {
+  "id": 400,
+  "word": "grating",
+  "def_en": "Irritating; harsh or discordant (of a noise); scraping"
+ },
+ {
+  "id": 401,
+  "word": "gregarious",
+  "def_en": "Sociable, pertaining to a flock or crowd"
+ },
+ {
+  "id": 402,
+  "word": "grievous",
+  "def_en": "Causing grief or suffering; very serious, grave; flagrant, outrageous"
+ },
+ {
+  "id": 403,
+  "word": "grouse",
+  "def_en": "Complain or grumble (verb); a reason for complaint (noun)"
+ },
+ {
+  "id": 404,
+  "word": "grovel",
+  "def_en": "Creep or crawl with one's face to the ground, prostrate oneself as a token of subservience, degrade or abase oneself"
+ },
+ {
+  "id": 405,
+  "word": "guile",
+  "def_en": "Clever deceit, cunning, craftiness"
+ },
+ {
+  "id": 406,
+  "word": "hackneyed",
+  "def_en": "So commonplace as to be stale; not fresh or original"
+ },
+ {
+  "id": 407,
+  "word": "halcyon",
+  "def_en": "Calm and peaceful, carefree; prosperous, successful, happy"
+ },
+ {
+  "id": 408,
+  "word": "hallmark",
+  "def_en": "A mark indicating quality, purity, genuineness, etc.; any distinguishing characteristic"
+ },
+ {
+  "id": 409,
+  "word": "hand-wringing",
+  "def_en": "Grasping, squeezing, etc. of the hands as an expression of nervousness, guilt, etc.; extend debate over what to do about an issue"
+ },
+ {
+  "id": 410,
+  "word": "hapless",
+  "def_en": "Unlucky, unfortunate"
+ },
+ {
+  "id": 411,
+  "word": "harangue",
+  "def_en": "Long, intense verbal attack, esp. when delivered publicly"
+ },
+ {
+  "id": 412,
+  "word": "hardy",
+  "def_en": "Bold, brave, capable of withstanding hardship, fatigue, cold, etc."
+ },
+ {
+  "id": 413,
+  "word": "harrow",
+  "def_en": "Farming tool that breaks up soil (noun); painfully disturb or distress (verb)"
+ },
+ {
+  "id": 414,
+  "word": "haven",
+  "def_en": "Harbor or port; refuge, safe place"
+ },
+ {
+  "id": 415,
+  "word": "hearken",
+  "def_en": "Listen, pay attention to"
+ },
+ {
+  "id": 416,
+  "word": "hedge",
+  "def_en": "Avoid commitment by leaving provisions for withdrawal or changing one's mind; protect a bet by also betting on the other side"
+ },
+ {
+  "id": 417,
+  "word": "hedonist",
+  "def_en": "Person devoted to pleasure"
+ },
+ {
+  "id": 418,
+  "word": "hegemony",
+  "def_en": "Domination, authority; influence by one country over others socially, culturally, economically, etc."
+ },
+ {
+  "id": 419,
+  "word": "hermetic",
+  "def_en": "Airtight, sealed, isolated; reclusive; pertaining to alchemy, occult"
+ },
+ {
+  "id": 420,
+  "word": "heterogeneous",
+  "def_en": "Different in type, incongruous; composed of different types of elements"
+ },
+ {
+  "id": 421,
+  "word": "hew",
+  "def_en": "Strike, chop, or hack (as with an axe, sword. etc.); make or shape something (such as a statue) with a cutting tool"
+ },
+ {
+  "id": 422,
+  "word": "hierarchy",
+  "def_en": "A ranked series; a classification of people according to rank, ability, etc.; a ruling body"
+ },
+ {
+  "id": 423,
+  "word": "hoary",
+  "def_en": "Very old, gray or white as from old age"
+ },
+ {
+  "id": 424,
+  "word": "hodgepodge",
+  "def_en": "Mixture of different kinds of things, jumble"
+ },
+ {
+  "id": 425,
+  "word": "homage",
+  "def_en": "Honor or respect demonstrated publicly"
+ },
+ {
+  "id": 426,
+  "word": "homogeneous",
+  "def_en": "Of the same kind; uniform throughout"
+ },
+ {
+  "id": 427,
+  "word": "hoodwink",
+  "def_en": "Trick, deceive"
+ },
+ {
+  "id": 428,
+  "word": "hotly",
+  "def_en": "In an intense, fiery, or heated way"
+ },
+ {
+  "id": 429,
+  "word": "husband",
+  "def_en": "Manage prudently, sparingly, or economically; conserve"
+ },
+ {
+  "id": 430,
+  "word": "hyperbole",
+  "def_en": "Deliberate exaggeration for effect"
+ },
+ {
+  "id": 431,
+  "word": "iconoclast",
+  "def_en": "Attacker of cherished beliefs or institutions"
+ },
+ {
+  "id": 432,
+  "word": "idiosyncrasy",
+  "def_en": "Characteristic or habit peculiar to an individual; peculiar quality, quirk"
+ },
+ {
+  "id": 433,
+  "word": "idolatry",
+  "def_en": "Idol worship; excessive or unthinking devotion or adoration"
+ },
+ {
+  "id": 434,
+  "word": "idyllic",
+  "def_en": "Presenting a positive, peaceful view of rural life (as poetry or prose); pleasant in a natural, simple way"
+ },
+ {
+  "id": 435,
+  "word": "ignoble",
+  "def_en": "Not noble; having mean, base, low motives; low quality"
+ },
+ {
+  "id": 436,
+  "word": "illiberality",
+  "def_en": "Narrow-mindedness, bigotry; strictness or lack of generosity"
+ },
+ {
+  "id": 437,
+  "word": "imbue",
+  "def_en": "Permeate or saturate, as dye in a fabric; influence throughout"
+ },
+ {
+  "id": 438,
+  "word": "imminent",
+  "def_en": "Ready to occur, impending"
+ },
+ {
+  "id": 439,
+  "word": "immutable",
+  "def_en": "Unchangeable"
+ },
+ {
+  "id": 440,
+  "word": "impair",
+  "def_en": "Make worse, weaken"
+ },
+ {
+  "id": 441,
+  "word": "impartial",
+  "def_en": "Unbiased, fair"
+ },
+ {
+  "id": 442,
+  "word": "impasse",
+  "def_en": "Position or road from which there is no escape; deadlock"
+ },
+ {
+  "id": 443,
+  "word": "impassive",
+  "def_en": "Not having or not showing physical feeling or emotion"
+ },
+ {
+  "id": 444,
+  "word": "impecunious",
+  "def_en": "Poor, without money"
+ },
+ {
+  "id": 445,
+  "word": "impede",
+  "def_en": "Hold back, obstruct the progress of"
+ },
+ {
+  "id": 446,
+  "word": "imperious",
+  "def_en": "Commanding, domineering; acting like a high-ranking person; urgent"
+ },
+ {
+  "id": 447,
+  "word": "impermeable",
+  "def_en": "Impassable, not allowing passage through (such as by a liquid)"
+ },
+ {
+  "id": 448,
+  "word": "imperturbable",
+  "def_en": "Calm, not able to be upset or agitated"
+ },
+ {
+  "id": 449,
+  "word": "impervious",
+  "def_en": "Impenetrable, not able to be harmed or emotionally disturbed"
+ },
+ {
+  "id": 450,
+  "word": "impetuous",
+  "def_en": "Passionately impulsive, marked by sudden, hasty emotion; forceful, violent"
+ },
+ {
+  "id": 451,
+  "word": "impious",
+  "def_en": "Not religious, lacking reverence, ungodly"
+ },
+ {
+  "id": 452,
+  "word": "implacable",
+  "def_en": "Not able to be appeased, calmed, or satisfied"
+ },
+ {
+  "id": 453,
+  "word": "implication",
+  "def_en": "Act of implying or that which is implied; close connection, esp. in an incriminating way"
+ },
+ {
+  "id": 454,
+  "word": "implicit",
+  "def_en": "Implied, not stated directly; involved in the very essence of something, unquestionable"
+ },
+ {
+  "id": 455,
+  "word": "implode",
+  "def_en": "Burst inward"
+ },
+ {
+  "id": 456,
+  "word": "imprecation",
+  "def_en": "Curse; prayer for harm to come to someone"
+ },
+ {
+  "id": 457,
+  "word": "impugn",
+  "def_en": "Attack the truth or integrity of"
+ },
+ {
+  "id": 458,
+  "word": "impute",
+  "def_en": "Credit, attribute; lay blame or responsibility for (sometimes falsely)"
+ },
+ {
+  "id": 459,
+  "word": "inadvertent",
+  "def_en": "Unintentional; characterized by a lack of attention, careless"
+ },
+ {
+  "id": 460,
+  "word": "inasmuch",
+  "def_en": "In like manner, considering that (contraction of \"in as much,\" generally followed by \"as\")"
+ },
+ {
+  "id": 461,
+  "word": "incarnadine",
+  "def_en": "Blood red or flesh-colored"
+ },
+ {
+  "id": 462,
+  "word": "incendiary",
+  "def_en": "Setting on fire, pertaining to arson; arousing strife, rebellion, etc.; \"inflaming\" the senses"
+ },
+ {
+  "id": 463,
+  "word": "incentive",
+  "def_en": "Something that encourages greater action or effort, such as a reward"
+ },
+ {
+  "id": 464,
+  "word": "inchoate",
+  "def_en": "Just begun, undeveloped, unorganized"
+ },
+ {
+  "id": 465,
+  "word": "incipient",
+  "def_en": "Just beginning; in a very early stage"
+ },
+ {
+  "id": 466,
+  "word": "incongruous",
+  "def_en": "Out of place, inappropriate, not harmonious"
+ },
+ {
+  "id": 467,
+  "word": "inconsequential",
+  "def_en": "Insignificant, unimportant; illogical"
+ },
+ {
+  "id": 468,
+  "word": "inconstancy",
+  "def_en": "Fickleness, unreliability; the state of changing without good reason"
+ },
+ {
+  "id": 469,
+  "word": "incorporate",
+  "def_en": "Combine, unite; form a legal corporation; embody, give physical form to"
+ },
+ {
+  "id": 470,
+  "word": "inculcate",
+  "def_en": "Teach persistently, implant (an idea) in a person"
+ },
+ {
+  "id": 471,
+  "word": "indefatigable",
+  "def_en": "Untiring, not able to become fatigued"
+ },
+ {
+  "id": 472,
+  "word": "indeterminate",
+  "def_en": "Not fixed or determined, indefinite; vague"
+ },
+ {
+  "id": 473,
+  "word": "indifferent",
+  "def_en": "Not caring, having no interest; unbiased, impartial"
+ },
+ {
+  "id": 474,
+  "word": "indigence",
+  "def_en": "Extreme poverty"
+ },
+ {
+  "id": 475,
+  "word": "indolent",
+  "def_en": "Lazy, slothful"
+ },
+ {
+  "id": 476,
+  "word": "inert",
+  "def_en": "Inactive; having little or no power to move"
+ },
+ {
+  "id": 477,
+  "word": "inexorable",
+  "def_en": "Relentless, unyielding; not moved by pleading"
+ },
+ {
+  "id": 478,
+  "word": "infallible",
+  "def_en": "Incapable of error; certain"
+ },
+ {
+  "id": 479,
+  "word": "inform",
+  "def_en": "Inspire, animate; give substance, essence, or context to; be the characteristic quality of"
+ },
+ {
+  "id": 480,
+  "word": "ingenuous",
+  "def_en": "Genuine, sincere, not holding back; naive"
+ },
+ {
+  "id": 481,
+  "word": "ingrained",
+  "def_en": "Deep-rooted, forming part of the very essence; worked into the fiber"
+ },
+ {
+  "id": 482,
+  "word": "ingrate",
+  "def_en": "Ungrateful person"
+ },
+ {
+  "id": 483,
+  "word": "ingratiate",
+  "def_en": "Make an effort to gain favor with"
+ },
+ {
+  "id": 484,
+  "word": "inherent",
+  "def_en": "Existing as a permanent, essential quality; intrinsic"
+ },
+ {
+  "id": 485,
+  "word": "inimical",
+  "def_en": "Hostile, adverse, harmful"
+ },
+ {
+  "id": 486,
+  "word": "iniquity",
+  "def_en": "Injustice, wickedness, sin"
+ },
+ {
+  "id": 487,
+  "word": "innocuous",
+  "def_en": "Harmless, inoffensive"
+ },
+ {
+  "id": 488,
+  "word": "inordinate",
+  "def_en": "Excessive, not within proper limits, unrestrained"
+ },
+ {
+  "id": 489,
+  "word": "inquest",
+  "def_en": "Legal or judicial inquiry, especially before a jury and especially made by a coroner into the cause of someone's death; the results of such an inquiry"
+ },
+ {
+  "id": 490,
+  "word": "insensible",
+  "def_en": "Incapable of feeling; unconscious, unaware"
+ },
+ {
+  "id": 491,
+  "word": "insinuate",
+  "def_en": "Hint, suggest slyly; introduce (an idea) into someone's mind in a subtle, artful way"
+ },
+ {
+  "id": 492,
+  "word": "insipid",
+  "def_en": "Dull, stale, lacking taste or interest"
+ },
+ {
+  "id": 493,
+  "word": "insular",
+  "def_en": "Pertaining to an island; detached, standing alone; narrow-minded, provincial"
+ },
+ {
+  "id": 494,
+  "word": "insurrection",
+  "def_en": "Rebellion or revolt against a government or similarly established authority"
+ },
+ {
+  "id": 495,
+  "word": "intelligible",
+  "def_en": "Able to be understood, clear"
+ },
+ {
+  "id": 496,
+  "word": "inter",
+  "def_en": "Bury (a dead body) or place in a tomb"
+ },
+ {
+  "id": 497,
+  "word": "interplay",
+  "def_en": "Interaction, reciprocal relationship or influence"
+ },
+ {
+  "id": 498,
+  "word": "interregnum",
+  "def_en": "A time in between two reigns or regimes during which there is no ruler; a period during which government does not function; any period of freedom from authority or break or interruption in a series"
+ },
+ {
+  "id": 499,
+  "word": "intractable",
+  "def_en": "Difficult to control, manage, or manipulate; hard to cure; stubborn"
+ },
+ {
+  "id": 500,
+  "word": "intransigent",
+  "def_en": "Refusing to compromise, inflexible, having extreme attitudes"
+ },
+ {
+  "id": 501,
+  "word": "intrepid",
+  "def_en": "Fearless, brave, enduring in the face of adversity"
+ },
+ {
+  "id": 502,
+  "word": "intrinsic",
+  "def_en": "Belonging to the essential nature of a thing"
+ },
+ {
+  "id": 503,
+  "word": "inundate",
+  "def_en": "Flood, cover with water, overwhelm"
+ },
+ {
+  "id": 504,
+  "word": "inure",
+  "def_en": "Toughen up; accustom or habituate to pain, hardship, etc."
+ },
+ {
+  "id": 505,
+  "word": "invective",
+  "def_en": "Violent denunciation; accusations, insults, or verbal abuse"
+ },
+ {
+  "id": 506,
+  "word": "inveigle",
+  "def_en": "Entice, lure; get something by flattery, cleverness, or offering incentives"
+ },
+ {
+  "id": 507,
+  "word": "investiture",
+  "def_en": "Investing; formally giving someone a right or title"
+ },
+ {
+  "id": 508,
+  "word": "invidious",
+  "def_en": "Hateful, offensive, injurious"
+ },
+ {
+  "id": 509,
+  "word": "irascible",
+  "def_en": "Irritable, easily angered"
+ },
+ {
+  "id": 510,
+  "word": "irresolute",
+  "def_en": "Wavering, not sure how to proceed, not firm in one's decision-making"
+ },
+ {
+  "id": 511,
+  "word": "itinerant",
+  "def_en": "Traveling from place to place, esp. as part of a job"
+ },
+ {
+  "id": 512,
+  "word": "itinerary",
+  "def_en": "Travel schedule; detailed plan for a journey"
+ },
+ {
+  "id": 513,
+  "word": "jargon",
+  "def_en": "Vocabulary specific to a group or occupation; convoluted or unintelligible language"
+ },
+ {
+  "id": 514,
+  "word": "jettison",
+  "def_en": "Discard, cast off; throw items overboard in order to lighten a ship in an emergency"
+ },
+ {
+  "id": 515,
+  "word": "jingoism",
+  "def_en": "Excessive, loud patriotism and aggressive, warlike foreign policy"
+ },
+ {
+  "id": 516,
+  "word": "jocular",
+  "def_en": "Joking or given to joking all the time; jolly, playful"
+ },
+ {
+  "id": 517,
+  "word": "judicious",
+  "def_en": "Using good judgment; wise, sensible"
+ },
+ {
+  "id": 518,
+  "word": "juncture",
+  "def_en": "Critical point in time, such as a crisis or a time when a decision is necessary; a place where two things are joined together"
+ },
+ {
+  "id": 519,
+  "word": "juxtapose",
+  "def_en": "Place side by side (either physically or in a metaphorical way, such as to make a comparison)"
+ },
+ {
+  "id": 520,
+  "word": "keen",
+  "def_en": "Sharp, piercing; very perceptive or mentally sharp; intense (of a feeling)"
+ },
+ {
+  "id": 521,
+  "word": "kindle",
+  "def_en": "Ignite, cause to begin burning; incite, arouse, inflame"
+ },
+ {
+  "id": 522,
+  "word": "kinetic",
+  "def_en": "Pertaining to motion"
+ },
+ {
+  "id": 523,
+  "word": "knell",
+  "def_en": "The sound made by a bell for a funeral, or any sad sound or signal of a failure, death, ending, etc. (noun); to make such a sound (verb)"
+ },
+ {
+  "id": 524,
+  "word": "kudos",
+  "def_en": "Praise, honor, congratulations"
+ },
+ {
+  "id": 525,
+  "word": "lachrymose",
+  "def_en": "Tearful, mournful"
+ },
+ {
+  "id": 526,
+  "word": "lackluster",
+  "def_en": "Not shiny; dull, mediocre; lacking brilliance or vitality"
+ },
+ {
+  "id": 527,
+  "word": "laconic",
+  "def_en": "Using few words, concise"
+ },
+ {
+  "id": 528,
+  "word": "lament",
+  "def_en": "Mourn; express grief, sorrow, or regret (verb); an expression of grief, esp. as a song or poem (noun)"
+ },
+ {
+  "id": 529,
+  "word": "lampoon",
+  "def_en": "A harsh satire (noun); ridicule or satirize (verb)"
+ },
+ {
+  "id": 530,
+  "word": "landmark",
+  "def_en": "Object (such as a building) that stands out and can be used to navigate by; a very important place, event, etc."
+ },
+ {
+  "id": 531,
+  "word": "languid",
+  "def_en": "Drooping from exhaustion, sluggish, slow; lacking in spirit"
+ },
+ {
+  "id": 532,
+  "word": "larceny",
+  "def_en": "Theft"
+ },
+ {
+  "id": 533,
+  "word": "largess or largesse",
+  "def_en": "Generosity, the giving of money or gifts (esp. with the implication that the giver is a bit superior to the recipient)"
+ },
+ {
+  "id": 534,
+  "word": "lassitude",
+  "def_en": "Tiredness, weariness; lazy indifference"
+ },
+ {
+  "id": 535,
+  "word": "latent",
+  "def_en": "Potential; existing but not visible or active"
+ },
+ {
+  "id": 536,
+  "word": "laudable",
+  "def_en": "Worthy of praise"
+ },
+ {
+  "id": 537,
+  "word": "lavish",
+  "def_en": "Abundant or giving in abundance; marked by excess (adj); give very generously (verb)"
+ },
+ {
+  "id": 538,
+  "word": "lax",
+  "def_en": "Not strict; careless, loose, slack"
+ },
+ {
+  "id": 539,
+  "word": "layperson",
+  "def_en": "A person who is not a member of the clergy or not a member of a particular profession (such as medicine, law, etc.)"
+ },
+ {
+  "id": 540,
+  "word": "leery",
+  "def_en": "Suspicious or wary"
+ },
+ {
+  "id": 541,
+  "word": "legerdemain",
+  "def_en": "Slight-of-hand (magic as performed by a magician); trickery or deception"
+ },
+ {
+  "id": 542,
+  "word": "lethargic",
+  "def_en": "Lazy, drowsy, or sluggish"
+ },
+ {
+  "id": 543,
+  "word": "levity",
+  "def_en": "Lightness (of mind, spirit, or mood) or lack of seriousness, sometimes in an inappropriate way"
+ },
+ {
+  "id": 544,
+  "word": "levy",
+  "def_en": "Collect tax from, wage war on, or enlist for military service; (verb); act of colleting tax or amount owed, or the drafting of troops into military service (noun)"
+ },
+ {
+  "id": 545,
+  "word": "liberal",
+  "def_en": "Favorable to progress or reform; believing in maximum possible individual freedom; tolerant, open-minded; generous (adj); a person with such beliefs or practices (noun)"
+ },
+ {
+  "id": 546,
+  "word": "libertine",
+  "def_en": "Morally or sexually unrestrained person; freethinker (regarding religion)"
+ },
+ {
+  "id": 547,
+  "word": "licentious",
+  "def_en": "Sexually unrestrained; immoral; ignoring the rules"
+ },
+ {
+  "id": 548,
+  "word": "likewise",
+  "def_en": "Also, in addition to; similarly, in the same way"
+ },
+ {
+  "id": 549,
+  "word": "limpid",
+  "def_en": "Clear, transparent; completely calm"
+ },
+ {
+  "id": 550,
+  "word": "lionize",
+  "def_en": "Treat like a celebrity"
+ },
+ {
+  "id": 551,
+  "word": "lissome",
+  "def_en": "Flexible, supple, agile"
+ },
+ {
+  "id": 552,
+  "word": "listless",
+  "def_en": "Spiritless, lacking interest or energy"
+ },
+ {
+  "id": 553,
+  "word": "livid",
+  "def_en": "Furiously angry, enraged"
+ },
+ {
+  "id": 554,
+  "word": "log",
+  "def_en": "Keep a record of, write down; travel for or at a certain distance or speed (verb); a written record (noun)"
+ },
+ {
+  "id": 555,
+  "word": "loquacious",
+  "def_en": "Talkative, wordy"
+ },
+ {
+  "id": 556,
+  "word": "lucid",
+  "def_en": "Clear, easy to understand; rational, sane"
+ },
+ {
+  "id": 557,
+  "word": "lugubrious",
+  "def_en": "Mournful, gloomy (sometimes in an exaggerated way)"
+ },
+ {
+  "id": 558,
+  "word": "lull",
+  "def_en": "Soothe or cause to fall asleep (as in a lullaby); quiet down; make to feel secure, sometimes falsely (verb); a period of calm or quiet (noun)"
+ },
+ {
+  "id": 559,
+  "word": "lumber",
+  "def_en": "Walk in a heavy or clumsy way, sometimes due to being weighed down"
+ },
+ {
+  "id": 560,
+  "word": "luminous",
+  "def_en": "Shining, radiant, well-lit; brilliant or enlightening"
+ },
+ {
+  "id": 561,
+  "word": "lurid",
+  "def_en": "Gruesome or excessively vivid; sensational, shocking, unrestrained"
+ },
+ {
+  "id": 562,
+  "word": "machination or machinations",
+  "def_en": "Crafty schemes or plots"
+ },
+ {
+  "id": 563,
+  "word": "maelstrom",
+  "def_en": "Violent whirlpool; any chaotic, turbulent situation"
+ },
+ {
+  "id": 564,
+  "word": "magnanimous",
+  "def_en": "High-minded, noble, lofty; generous in forgiving others, free of resentment"
+ },
+ {
+  "id": 565,
+  "word": "magnate",
+  "def_en": "Very important or influential person, esp. in business"
+ },
+ {
+  "id": 566,
+  "word": "makeshift",
+  "def_en": "A temporary, often improvised, substitute (noun); improvised for temporary use (adj)"
+ },
+ {
+  "id": 567,
+  "word": "malediction",
+  "def_en": "A curse"
+ },
+ {
+  "id": 568,
+  "word": "malinger",
+  "def_en": "Pretend to be sick, esp. to get out of work, duties, etc."
+ },
+ {
+  "id": 569,
+  "word": "malleable",
+  "def_en": "Able to be bent, shaped, or adapted"
+ },
+ {
+  "id": 570,
+  "word": "manifest",
+  "def_en": "Obvious, apparent, perceptible to the eye (adj); to show, make clear, or prove (verb)"
+ },
+ {
+  "id": 571,
+  "word": "mannered",
+  "def_en": "Having a particular manner, esp. an artificial one"
+ },
+ {
+  "id": 572,
+  "word": "mar",
+  "def_en": "Damage, spoil, ruin"
+ },
+ {
+  "id": 573,
+  "word": "martinet",
+  "def_en": "Person who adheres to rules extremely closely; strict disciplinarian"
+ },
+ {
+  "id": 574,
+  "word": "maudlin",
+  "def_en": "Excessively sentimental, showing sadness or some other emotion in a foolish or silly way"
+ },
+ {
+  "id": 575,
+  "word": "maverick",
+  "def_en": "Rebel, individualist, dissenter"
+ },
+ {
+  "id": 576,
+  "word": "maxim",
+  "def_en": "A general truth or fundamental principle, esp. expressed as a proverb or saying"
+ },
+ {
+  "id": 577,
+  "word": "mendacious",
+  "def_en": "Lying, habitually dishonest"
+ },
+ {
+  "id": 578,
+  "word": "mendicant",
+  "def_en": "Beggar, or religious follower who lives by begging"
+ },
+ {
+  "id": 579,
+  "word": "mercurial",
+  "def_en": "Quickly and unpredictably changing moods; fickle, flighty"
+ },
+ {
+  "id": 580,
+  "word": "meretricious",
+  "def_en": "Attractive in a vulgar or flashy way, tawdry; deceptive"
+ },
+ {
+  "id": 581,
+  "word": "metamorphosis",
+  "def_en": "A complete change or transformation (in biology, a change such as a caterpillar becoming a pupa and then a butterfly)"
+ },
+ {
+  "id": 582,
+  "word": "metaphysical",
+  "def_en": "Concerned with abstract thought, related to metaphysics (branch of philosophy concerned with explaining the nature of being and of the world); very subtle or abstruse"
+ },
+ {
+  "id": 583,
+  "word": "meticulous",
+  "def_en": "Taking extreme care in regards to details; precise, fussy"
+ },
+ {
+  "id": 584,
+  "word": "milieu",
+  "def_en": "Environment, atmosphere; the environmental setting in which something happens or develops"
+ },
+ {
+  "id": 585,
+  "word": "militate",
+  "def_en": "Have a great effect, weigh heavily (often as militate against)"
+ },
+ {
+  "id": 586,
+  "word": "mired",
+  "def_en": "Stuck, entangled (in something, like a swamp or muddy area), soiled"
+ },
+ {
+  "id": 587,
+  "word": "mirth",
+  "def_en": "Jollity, merriment; amusement or laughter"
+ },
+ {
+  "id": 588,
+  "word": "misanthrope or misanthropist",
+  "def_en": "Hater of humankind"
+ },
+ {
+  "id": 589,
+  "word": "missive",
+  "def_en": "Letter, written message"
+ },
+ {
+  "id": 590,
+  "word": "mitigate",
+  "def_en": "Make less severe; lessen or moderate (damage, grief, pain, etc.)"
+ },
+ {
+  "id": 591,
+  "word": "modest",
+  "def_en": "Humble; simple rather than showy; decent (esp. \"covering up\" in terms of dress); small, limited"
+ },
+ {
+  "id": 592,
+  "word": "modicum",
+  "def_en": "A little bit or limited quantity"
+ },
+ {
+  "id": 593,
+  "word": "modish",
+  "def_en": "Stylish, contemporary"
+ },
+ {
+  "id": 594,
+  "word": "mollify",
+  "def_en": "Calm or soothe (an angry person); lessen or soften"
+ },
+ {
+  "id": 595,
+  "word": "molt",
+  "def_en": "Shed or cast off, esp. to regularly shed skin, feathers, etc. (as a snake)"
+ },
+ {
+  "id": 596,
+  "word": "monastic",
+  "def_en": "Relating to or resembling a monastery (where monks or nuns live), esp. by being quiet, secluded, contemplative, strict, and/or lacking luxuries"
+ },
+ {
+  "id": 597,
+  "word": "monotony",
+  "def_en": "Sameness or repetitiousness to the point of being boring; lack of variation, uniformity, esp. repetition in sound"
+ },
+ {
+  "id": 598,
+  "word": "moreover",
+  "def_en": "Besides; in addition to what was just stated"
+ },
+ {
+  "id": 599,
+  "word": "mores",
+  "def_en": "Customs, manners, or morals of a particular group"
+ },
+ {
+  "id": 600,
+  "word": "morose",
+  "def_en": "Gloomy, sullen"
+ },
+ {
+  "id": 601,
+  "word": "multifarious",
+  "def_en": "Diverse, having a lot of variety"
+ },
+ {
+  "id": 602,
+  "word": "mundane",
+  "def_en": "Common, ordinary, everyday"
+ },
+ {
+  "id": 603,
+  "word": "munificent",
+  "def_en": "Generous, giving liberally"
+ },
+ {
+  "id": 604,
+  "word": "myopic",
+  "def_en": "Near-sighted; lacking long-term thinking, short-sighted"
+ },
+ {
+  "id": 605,
+  "word": "nadir",
+  "def_en": "Lowest point"
+ },
+ {
+  "id": 606,
+  "word": "naïve",
+  "def_en": "Simple and unsophisticated, unsuspecting, lacking worldly experience and critical judgment"
+ },
+ {
+  "id": 607,
+  "word": "nascent",
+  "def_en": "Coming into existence, still developing"
+ },
+ {
+  "id": 608,
+  "word": "negate",
+  "def_en": "Deny or refute; make void or cause to be ineffective"
+ },
+ {
+  "id": 609,
+  "word": "neologism",
+  "def_en": "New word or phrase (or a new meaning applied to an existing word or phrase)"
+ },
+ {
+  "id": 610,
+  "word": "neophyte",
+  "def_en": "Beginner, novice; person newly converted to a religion"
+ },
+ {
+  "id": 611,
+  "word": "net",
+  "def_en": "Remaining after expenses or other factors have been deducted; ultimate (adj); to bring in as profit, or to catch as in a net (verb)"
+ },
+ {
+  "id": 612,
+  "word": "nettle",
+  "def_en": "Irritate, sting, or annoy"
+ },
+ {
+  "id": 613,
+  "word": "nevertheless or nonetheless",
+  "def_en": "However, even so, despite that"
+ },
+ {
+  "id": 614,
+  "word": "noisome",
+  "def_en": "Offensive, disgusting; harmful"
+ },
+ {
+  "id": 615,
+  "word": "nominal",
+  "def_en": "Trivial, so small as to be unimportant; in name only, so-called"
+ },
+ {
+  "id": 616,
+  "word": "nontrivial",
+  "def_en": "Important or big enough to matter"
+ },
+ {
+  "id": 617,
+  "word": "normative",
+  "def_en": "Implying or attempting to establish a norm; expressing value judgments or telling people what to do (rather than merely describing that which is happening)"
+ },
+ {
+  "id": 618,
+  "word": "notoriety",
+  "def_en": "Ill fame; the state of being well-known for a disgraceful reason"
+ },
+ {
+  "id": 619,
+  "word": "novel",
+  "def_en": "New, fresh, original"
+ },
+ {
+  "id": 620,
+  "word": "nuance",
+  "def_en": "A subtle difference in tone, meaning, expression, etc."
+ },
+ {
+  "id": 621,
+  "word": "obdurate",
+  "def_en": "Stubborn, hardhearted, hardened in wrongdoing"
+ },
+ {
+  "id": 622,
+  "word": "objective",
+  "def_en": "Factual, related to reality or physical objects; not influenced by emotions, unbiased"
+ },
+ {
+  "id": 623,
+  "word": "oblique",
+  "def_en": "Slanting or sloping; indirect, misleading, or evasive"
+ },
+ {
+  "id": 624,
+  "word": "obsequious",
+  "def_en": "Servile, very compliant, fawning"
+ },
+ {
+  "id": 625,
+  "word": "obsolete",
+  "def_en": "Out of date, no longer in use"
+ },
+ {
+  "id": 626,
+  "word": "obstinate",
+  "def_en": "Stubborn or hard to control"
+ },
+ {
+  "id": 627,
+  "word": "obviate",
+  "def_en": "Prevent, eliminate, or make unnecessary"
+ },
+ {
+  "id": 628,
+  "word": "occlude",
+  "def_en": "Stop up, close, shut in or shut off"
+ },
+ {
+  "id": 629,
+  "word": "occult",
+  "def_en": "The supernatural (noun); pertaining to magic, astrology, etc.; mysterious, secret or hidden (adj); to hide, to shut off from view (verb)"
+ },
+ {
+  "id": 630,
+  "word": "offhand",
+  "def_en": "Casual, informal; done without preparation or forethought; rude in a short way, brusque"
+ },
+ {
+  "id": 631,
+  "word": "officious",
+  "def_en": "Excessively eager in giving unwanted advice or intruding where one is not wanted; meddlesome, pushy"
+ },
+ {
+  "id": 632,
+  "word": "offset",
+  "def_en": "Counteract, compensate for (verb); a counterbalance (noun)"
+ },
+ {
+  "id": 633,
+  "word": "onerous",
+  "def_en": "Burdensome, oppressive, hard to endure"
+ },
+ {
+  "id": 634,
+  "word": "opaque",
+  "def_en": "Not translucent; not allowing light, heat, etc. to pass through; dark, dull, unclear or stupid"
+ },
+ {
+  "id": 635,
+  "word": "opine",
+  "def_en": "Express an opinion"
+ },
+ {
+  "id": 636,
+  "word": "opprobrium",
+  "def_en": "Disgrace and disapproval that result from outrageously shameful actions"
+ },
+ {
+  "id": 637,
+  "word": "optimal",
+  "def_en": "Best, most desirable or favorable"
+ },
+ {
+  "id": 638,
+  "word": "optimum",
+  "def_en": "most favorable condition or greatest degree or amount possible under given circumstances"
+ },
+ {
+  "id": 639,
+  "word": "orotund",
+  "def_en": "Full, rich, and clear (of the voice or speaking); pompous, bombastic"
+ },
+ {
+  "id": 640,
+  "word": "orthodox",
+  "def_en": "Adhering to a traditional, established faith, or to anything customary or commonly accepted"
+ },
+ {
+  "id": 641,
+  "word": "oscillate",
+  "def_en": "Swing back and forth; waver, change one's mind"
+ },
+ {
+  "id": 642,
+  "word": "ossify",
+  "def_en": "Become bone or become hard like bone; become inflexible in attitudes, opinions, etc."
+ },
+ {
+  "id": 643,
+  "word": "ostensible or ostensive",
+  "def_en": "Professed, evident, or pretended; outwardly appearing in a certain way"
+ },
+ {
+  "id": 644,
+  "word": "ostentatious",
+  "def_en": "Pretentious, boastful showiness"
+ },
+ {
+  "id": 645,
+  "word": "outstrip",
+  "def_en": "Surpass, exceed; be larger or better than; leave behind"
+ },
+ {
+  "id": 646,
+  "word": "overshadow",
+  "def_en": "Cast a shadow over, darken; dominate, make to seem less important"
+ },
+ {
+  "id": 647,
+  "word": "overwrought",
+  "def_en": "Overly nervous, agitated, or excited; too ornate, elaborate, or fussy; overdone"
+ },
+ {
+  "id": 648,
+  "word": "palatial",
+  "def_en": "Suitable for or resembling a palace, magnificent"
+ },
+ {
+  "id": 649,
+  "word": "palliate",
+  "def_en": "Make less serious or severe; relieve symptoms of an illness"
+ },
+ {
+  "id": 650,
+  "word": "pallid",
+  "def_en": "Abnormally pale (as skin); lacking color or vitality"
+ },
+ {
+  "id": 651,
+  "word": "panache",
+  "def_en": "Flair, style, swagger; a flamboyant or grand way of acting"
+ },
+ {
+  "id": 652,
+  "word": "panegyric",
+  "def_en": "Formal or lofty expression of praise"
+ },
+ {
+  "id": 653,
+  "word": "panoply",
+  "def_en": "Splendid, wide-ranging, impressive display or array"
+ },
+ {
+  "id": 654,
+  "word": "paradigm",
+  "def_en": "Model or pattern; worldview, set of shared assumptions, values, etc."
+ },
+ {
+  "id": 655,
+  "word": "paradox",
+  "def_en": "Contradiction, or seeming contradiction that is actually true"
+ },
+ {
+  "id": 656,
+  "word": "paragon",
+  "def_en": "Model of excellence, perfect example"
+ },
+ {
+  "id": 657,
+  "word": "pare",
+  "def_en": "Peel or cut off the outer layer (such as peeling fruit with a knife), reduce or trim as if cutting off the outer parts"
+ },
+ {
+  "id": 658,
+  "word": "pariah",
+  "def_en": "Social outcast, untouchable"
+ },
+ {
+  "id": 659,
+  "word": "parley",
+  "def_en": "Discussion, negotiation, esp. between enemies (noun); to have such a discussion (verb)"
+ },
+ {
+  "id": 660,
+  "word": "parry",
+  "def_en": "Deflect or avoid (esp. a blow or attack); skillfully evade (a question)"
+ },
+ {
+  "id": 661,
+  "word": "partial",
+  "def_en": "Biased, prejudiced, favoring one over others; having a special liking for something or someone (usually partial to)"
+ },
+ {
+  "id": 662,
+  "word": "partisan",
+  "def_en": "Devoted to a particular group, cause, etc. (adj.); fervent supporter of a group, party, idea, etc.; guerilla fighter (noun)"
+ },
+ {
+  "id": 663,
+  "word": "pastiche",
+  "def_en": "Mix of incongruous parts; artistic work imitating the work of other artists, often satirically"
+ },
+ {
+  "id": 664,
+  "word": "patent",
+  "def_en": "Obvious, apparent, plain to see (adj); a letter from a government guaranteeing an inventor the rights to his or her invention (noun)"
+ },
+ {
+  "id": 665,
+  "word": "pathogenic",
+  "def_en": "Capable of producing disease"
+ },
+ {
+  "id": 666,
+  "word": "pathological",
+  "def_en": "Relating to or caused by disease; relating to compulsive bad behavior"
+ },
+ {
+  "id": 667,
+  "word": "patronizing",
+  "def_en": "Condescending, having a superior manner, treating as an inferior"
+ },
+ {
+  "id": 668,
+  "word": "paucity",
+  "def_en": "Scarcity, the state of being small in number"
+ },
+ {
+  "id": 669,
+  "word": "peccadillo",
+  "def_en": "Small sin or fault"
+ },
+ {
+  "id": 670,
+  "word": "pedant",
+  "def_en": "Person who pays excessive attention to book learning and rules, or who uses his or her learning to show off"
+ },
+ {
+  "id": 671,
+  "word": "peddle",
+  "def_en": "Travel around while selling; sell illegally; give out or disseminate"
+ },
+ {
+  "id": 672,
+  "word": "pedestrian",
+  "def_en": "Ordinary, dull, commonplace"
+ },
+ {
+  "id": 673,
+  "word": "pejorative",
+  "def_en": "Disparaging, derogatory, belittling (adj); a name or word that is disparaging (noun)"
+ },
+ {
+  "id": 674,
+  "word": "pellucid",
+  "def_en": "Transparent, translucent; clear, easy to understand"
+ },
+ {
+  "id": 675,
+  "word": "penchant",
+  "def_en": "Liking or inclination (usually penchant for)"
+ },
+ {
+  "id": 676,
+  "word": "penitent",
+  "def_en": "Regretful, feeling remorse for one's sins or misdeeds (adj); a person who feels this way (noun)"
+ },
+ {
+  "id": 677,
+  "word": "penumbra",
+  "def_en": "Outer part of a shadow from an eclipse; any surrounding region, fringe, periphery; any area where something \"sort of\" exists"
+ },
+ {
+  "id": 678,
+  "word": "penury",
+  "def_en": "Extreme poverty or scarcity"
+ },
+ {
+  "id": 679,
+  "word": "per se",
+  "def_en": "Intrinsically; by itself; in itself"
+ },
+ {
+  "id": 680,
+  "word": "peregrinate",
+  "def_en": "Travel from place to place, esp. on foot"
+ },
+ {
+  "id": 681,
+  "word": "perennial",
+  "def_en": "Lasting through the years or indefinitely, enduring; recurring"
+ },
+ {
+  "id": 682,
+  "word": "perfidious",
+  "def_en": "Disloyal, treacherous, violating one's trust"
+ },
+ {
+  "id": 683,
+  "word": "perfunctory",
+  "def_en": "Done superficially, without much care, or merely as routine"
+ },
+ {
+  "id": 684,
+  "word": "peripatetic",
+  "def_en": "Journeying from place to place; traveling on foot"
+ },
+ {
+  "id": 685,
+  "word": "peripheral",
+  "def_en": "Relating to or making up an outer boundary or region; not of primary importance, fringe"
+ },
+ {
+  "id": 686,
+  "word": "permeate",
+  "def_en": "Spread or penetrate throughout"
+ },
+ {
+  "id": 687,
+  "word": "pernicious",
+  "def_en": "Very harmful or destructive, deadly"
+ },
+ {
+  "id": 688,
+  "word": "perspicacious",
+  "def_en": "Having penetrating insight or good discernment"
+ },
+ {
+  "id": 689,
+  "word": "pervasive",
+  "def_en": "Tending to spread throughout"
+ },
+ {
+  "id": 690,
+  "word": "phalanx",
+  "def_en": "Formation of soldiers carrying shields close together for defense; any very close group of people"
+ },
+ {
+  "id": 691,
+  "word": "philanthropy",
+  "def_en": "Efforts to improve the well-being of humankind, generally through giving money"
+ },
+ {
+  "id": 692,
+  "word": "philistine",
+  "def_en": "Person deficient in or hostile to culture"
+ },
+ {
+  "id": 693,
+  "word": "phlegmatic",
+  "def_en": "Apathetic, sluggish, not easily excited or made emotional"
+ },
+ {
+  "id": 694,
+  "word": "phony",
+  "def_en": "Fake, counterfeit; insincere, not genuine"
+ },
+ {
+  "id": 695,
+  "word": "pious",
+  "def_en": "Devout; religiously reverent and dutiful"
+ },
+ {
+  "id": 696,
+  "word": "pith",
+  "def_en": "Core, essence; significance or weight"
+ },
+ {
+  "id": 697,
+  "word": "placate",
+  "def_en": "Satisfy or calm down (an angry or dissatisfied person), esp. by conciliatory gestures"
+ },
+ {
+  "id": 698,
+  "word": "placid",
+  "def_en": "Peaceful, calm, tranquil"
+ },
+ {
+  "id": 699,
+  "word": "plastic",
+  "def_en": "Able to be shaped or formed; easily influenced"
+ },
+ {
+  "id": 700,
+  "word": "platitude",
+  "def_en": "A shallow, overused statement; cliche"
+ },
+ {
+  "id": 701,
+  "word": "plausible",
+  "def_en": "Believable; having the appearance of truth"
+ },
+ {
+  "id": 702,
+  "word": "plebian",
+  "def_en": "Of the common people"
+ },
+ {
+  "id": 703,
+  "word": "plethora",
+  "def_en": "Excess; excessive amount"
+ },
+ {
+  "id": 704,
+  "word": "plucky",
+  "def_en": "Brave, spirited"
+ },
+ {
+  "id": 705,
+  "word": "plummet",
+  "def_en": "Plunge, fall straight down"
+ },
+ {
+  "id": 706,
+  "word": "plutocracy",
+  "def_en": "Rule by the wealthy"
+ },
+ {
+  "id": 707,
+  "word": "polarized",
+  "def_en": "Divided into sharply opposed groups"
+ },
+ {
+  "id": 708,
+  "word": "polemic",
+  "def_en": "Controversial argument, esp. one attacking a specific idea"
+ },
+ {
+  "id": 709,
+  "word": "politic",
+  "def_en": "Shrewd, pragmatic; tactful or diplomatic"
+ },
+ {
+  "id": 710,
+  "word": "polyglot",
+  "def_en": "Speaking or composed of many languages (of a person, book, etc.); a person who knows several languages"
+ },
+ {
+  "id": 711,
+  "word": "ponderous",
+  "def_en": "Heavy; bulky and unwieldy; dull, labored"
+ },
+ {
+  "id": 712,
+  "word": "posit",
+  "def_en": "Presume, suggest, put forward (an idea)"
+ },
+ {
+  "id": 713,
+  "word": "posthumous",
+  "def_en": "Happening or continuing after death"
+ },
+ {
+  "id": 714,
+  "word": "potentate",
+  "def_en": "Ruler, person of great power"
+ },
+ {
+  "id": 715,
+  "word": "pragmatic",
+  "def_en": "Practical; dealing with actual facts and reality"
+ },
+ {
+  "id": 716,
+  "word": "prattle",
+  "def_en": "Talk in an idle, simple-minded, meaningless, or foolish way; chatter, babble"
+ },
+ {
+  "id": 717,
+  "word": "pre-empt",
+  "def_en": "Prevent; take the place of, supplant; take before someone else can"
+ },
+ {
+  "id": 718,
+  "word": "preamble",
+  "def_en": "Introductory statement, preface"
+ },
+ {
+  "id": 719,
+  "word": "precarious",
+  "def_en": "Unstable, insecure, dangerous"
+ },
+ {
+  "id": 720,
+  "word": "precipitate",
+  "def_en": "Cause to happen suddenly or prematurely; fling, plunge, or hurl down"
+ },
+ {
+  "id": 721,
+  "word": "précis",
+  "def_en": "Concise summary, abstract"
+ },
+ {
+  "id": 722,
+  "word": "precursor",
+  "def_en": "Something that comes before, esp. something that also announces or suggests something on its way"
+ },
+ {
+  "id": 723,
+  "word": "predilection",
+  "def_en": "Preference, tendency or favorability towards"
+ },
+ {
+  "id": 724,
+  "word": "predisposed",
+  "def_en": "Having an inclination or tendency beforehand; susceptible"
+ },
+ {
+  "id": 725,
+  "word": "prescient",
+  "def_en": "Having foreknowledge or foresight, seeing the future"
+ },
+ {
+  "id": 726,
+  "word": "presumptive",
+  "def_en": "Based on inference or assumption; providing reasonable grounds for belief"
+ },
+ {
+  "id": 727,
+  "word": "presumptuous",
+  "def_en": "Too bold or forward; going beyond that which is proper"
+ },
+ {
+  "id": 728,
+  "word": "pretentious",
+  "def_en": "Claiming or demanding a position of importance or dignity, esp. when unjustified; showing off, creating a deceptive, false show of worth"
+ },
+ {
+  "id": 729,
+  "word": "preternatural",
+  "def_en": "Supernatural, exceptional"
+ },
+ {
+  "id": 730,
+  "word": "prevaricate",
+  "def_en": "Stray from the truth, mislead, lie"
+ },
+ {
+  "id": 731,
+  "word": "primacy",
+  "def_en": "The state of being first or most important"
+ },
+ {
+  "id": 732,
+  "word": "principled",
+  "def_en": "Having high moral standards"
+ },
+ {
+  "id": 733,
+  "word": "pristine",
+  "def_en": "In an original, pure state; uncorrupted"
+ },
+ {
+  "id": 734,
+  "word": "probity",
+  "def_en": "Honesty, integrity"
+ },
+ {
+  "id": 735,
+  "word": "proclivity",
+  "def_en": "Inclination, natural tendency"
+ },
+ {
+  "id": 736,
+  "word": "prodigal",
+  "def_en": "Wasteful, extravagant; giving abundantly, lavish"
+ },
+ {
+  "id": 737,
+  "word": "prodigious",
+  "def_en": "Extraordinarily large, impressive, etc."
+ },
+ {
+  "id": 738,
+  "word": "profligate",
+  "def_en": "Completely and shamelessly immoral, or extremely wasteful"
+ },
+ {
+  "id": 739,
+  "word": "profound",
+  "def_en": "Very insightful, penetrating deeply into a subject; pervasive, intense, \"down to the very bottom\"; at the very bottom"
+ },
+ {
+  "id": 740,
+  "word": "profuse",
+  "def_en": "Abundant, extravagant, giving or given freely"
+ },
+ {
+  "id": 741,
+  "word": "prohibitive",
+  "def_en": "Tending to forbid something, or serving to prevent something"
+ },
+ {
+  "id": 742,
+  "word": "proliferate",
+  "def_en": "Increase or spread rapidly or excessively"
+ },
+ {
+  "id": 743,
+  "word": "prolix",
+  "def_en": "Excessively long and wordy (of a person, piece of writing, etc.)"
+ },
+ {
+  "id": 744,
+  "word": "prologue",
+  "def_en": "Introductory part to a book, play, etc."
+ },
+ {
+  "id": 745,
+  "word": "pronounced",
+  "def_en": "Distinct, strong, clearly indicated"
+ },
+ {
+  "id": 746,
+  "word": "propagate",
+  "def_en": "Reproduce, spread, increase"
+ },
+ {
+  "id": 747,
+  "word": "propensity",
+  "def_en": "Natural inclination or tendency"
+ },
+ {
+  "id": 748,
+  "word": "prophetic",
+  "def_en": "Relating to prophesy, predicting, ominous"
+ },
+ {
+  "id": 749,
+  "word": "propitiate",
+  "def_en": "Attempt to reconcile with, satisfy, or reduce the animosity of (a person who is angry, offended, etc.)"
+ },
+ {
+  "id": 750,
+  "word": "propitious",
+  "def_en": "Favorable, giving good signs for the future, likely to work out; kind or forgiving"
+ },
+ {
+  "id": 751,
+  "word": "propriety",
+  "def_en": "Conforming to good manners or appropriate behavior; justness"
+ },
+ {
+  "id": 752,
+  "word": "prosaic",
+  "def_en": "Dull, ordinary"
+ },
+ {
+  "id": 753,
+  "word": "proscribe",
+  "def_en": "Prohibit, outlaw; denounce; exile or banish"
+ },
+ {
+  "id": 754,
+  "word": "prospective",
+  "def_en": "Potential, in the future"
+ },
+ {
+  "id": 755,
+  "word": "providential",
+  "def_en": "Lucky, fortunate, or relating to divine care (the idea that a deity has helped or cared for a person)"
+ },
+ {
+  "id": 756,
+  "word": "proxy",
+  "def_en": "Agent, substitute, person authorized to act on behalf of another"
+ },
+ {
+  "id": 757,
+  "word": "prudent",
+  "def_en": "Wise in practical matters, carefully providing for the future"
+ },
+ {
+  "id": 758,
+  "word": "puerile",
+  "def_en": "Juvenile, immature"
+ },
+ {
+  "id": 759,
+  "word": "pugilism",
+  "def_en": "boxing, fighting with the fists"
+ },
+ {
+  "id": 760,
+  "word": "pugnacious",
+  "def_en": "Inclined to fight, combative"
+ },
+ {
+  "id": 761,
+  "word": "puissance",
+  "def_en": "Power, might"
+ },
+ {
+  "id": 762,
+  "word": "pulchritude",
+  "def_en": "Physical beauty"
+ },
+ {
+  "id": 763,
+  "word": "pungent",
+  "def_en": "Having a sharp taste or smell; biting, stimulating, sharp"
+ },
+ {
+  "id": 764,
+  "word": "pusillanimous",
+  "def_en": "Cowardly, timid"
+ },
+ {
+  "id": 765,
+  "word": "qualified",
+  "def_en": "Modified, limited, conditional on something else"
+ },
+ {
+  "id": 766,
+  "word": "quandary",
+  "def_en": "Uncertainty or confusion about what to do, dilemma"
+ },
+ {
+  "id": 767,
+  "word": "querulous",
+  "def_en": "Given to complaining, grumbling"
+ },
+ {
+  "id": 768,
+  "word": "quibble",
+  "def_en": "Make trivial arguments or criticisms, find faults in a petty way, esp. to evade something more important"
+ },
+ {
+  "id": 769,
+  "word": "quiescent",
+  "def_en": "Quiet, still"
+ },
+ {
+  "id": 770,
+  "word": "quixotic",
+  "def_en": "Extremely impractical but very romantic, chivalrous, or idealistic; impulsive"
+ },
+ {
+  "id": 771,
+  "word": "quotidian",
+  "def_en": "Daily; everyday, ordinary"
+ },
+ {
+  "id": 772,
+  "word": "raconteur",
+  "def_en": "Witty storyteller"
+ },
+ {
+  "id": 773,
+  "word": "ranks",
+  "def_en": "Personnel; a group of people considered all together"
+ },
+ {
+  "id": 774,
+  "word": "rarefied",
+  "def_en": "Lofty, very high up or elevated (in a metaphorical way); exclusive, select; thin, pure, or less dense (as air at the top of a mountain)"
+ },
+ {
+  "id": 775,
+  "word": "reactant",
+  "def_en": "Something that reacts; a substance that undergoes a change in a chemical reaction"
+ },
+ {
+  "id": 776,
+  "word": "reap",
+  "def_en": "Harvest, such as by cutting; gather; get as a result of one's effort"
+ },
+ {
+  "id": 777,
+  "word": "recalcitrant",
+  "def_en": "Not obedient, resisting authority, hard to manage"
+ },
+ {
+  "id": 778,
+  "word": "recant",
+  "def_en": "Withdraw, retract, or disavow something one has previously said, esp. formally"
+ },
+ {
+  "id": 779,
+  "word": "recapitulate",
+  "def_en": "Summarize, repeat in a concise way"
+ },
+ {
+  "id": 780,
+  "word": "recluse",
+  "def_en": "Person who lives in seclusion"
+ },
+ {
+  "id": 781,
+  "word": "recondite",
+  "def_en": "Not easily understood, hidden, dealing with an obscure topic"
+ },
+ {
+  "id": 782,
+  "word": "recrudescent",
+  "def_en": "Revival, breaking out into renewed activity"
+ },
+ {
+  "id": 783,
+  "word": "redound",
+  "def_en": "To have a good or bad effect, esp. as a result of a person's efforts or actions (usually used with to, on, or upon)"
+ },
+ {
+  "id": 784,
+  "word": "redress",
+  "def_en": "Setting something right after a misdeed, compensation or relief for injury or wrongdoing (noun); correct, set right, remedy (verb)"
+ },
+ {
+  "id": 785,
+  "word": "refractory",
+  "def_en": "Stubbornly disobedient, hard to manage"
+ },
+ {
+  "id": 786,
+  "word": "refulgent",
+  "def_en": "Shining, radiant"
+ },
+ {
+  "id": 787,
+  "word": "refute",
+  "def_en": "Prove to be false"
+ },
+ {
+  "id": 788,
+  "word": "rejoinder",
+  "def_en": "Response or reply, esp. a witty comeback"
+ },
+ {
+  "id": 789,
+  "word": "relegate",
+  "def_en": "Send or commit to an inferior place, rank, condition, etc.; exile, banish; assign (a task) to someone else"
+ },
+ {
+  "id": 790,
+  "word": "remedial",
+  "def_en": "Providing a remedy, curative; correcting a deficient skill"
+ },
+ {
+  "id": 791,
+  "word": "rend",
+  "def_en": "Tear violently, esp. to tear one's clothing or hair out of grief; pull apart, split, or tear away"
+ },
+ {
+  "id": 792,
+  "word": "render",
+  "def_en": "Give, submit, surrender; translate; declare formally; cause to become"
+ },
+ {
+  "id": 793,
+  "word": "repast",
+  "def_en": "A meal (noun); to eat or feast (verb)"
+ },
+ {
+  "id": 794,
+  "word": "repertorial",
+  "def_en": "Pertaining to a repertory or repertoire, a stock of available things or a number of theatrical performances presented regularly or in sequence"
+ },
+ {
+  "id": 795,
+  "word": "replete",
+  "def_en": "Supplied in abundance, filled, gorged (used with with)"
+ },
+ {
+  "id": 796,
+  "word": "repose",
+  "def_en": "The act or state of resting; peacefulness, tranquility; lying dead in a grave"
+ },
+ {
+  "id": 797,
+  "word": "reproach",
+  "def_en": "Blame, disgrace (noun); criticize, express disappointment in (verb)"
+ },
+ {
+  "id": 798,
+  "word": "reprobate",
+  "def_en": "Disreputable, unprincipled, or damned person (noun); shameless, depraved (adj)"
+ },
+ {
+  "id": 799,
+  "word": "repudiate",
+  "def_en": "Reject, cast off, deny that something has authority"
+ },
+ {
+  "id": 800,
+  "word": "requite",
+  "def_en": "Reciprocate, repay, or revenge"
+ },
+ {
+  "id": 801,
+  "word": "rescind",
+  "def_en": "Annul, repeal, make void"
+ },
+ {
+  "id": 802,
+  "word": "resolution",
+  "def_en": "The quality of being firmly determined; resolving to do something; a formal judgment, esp. decided by a vote"
+ },
+ {
+  "id": 803,
+  "word": "resolve",
+  "def_en": "Find a solution to; firmly decide to do something; decide by formal vote (verb); firmness of purpose (noun)"
+ },
+ {
+  "id": 804,
+  "word": "respectively",
+  "def_en": "In the order given"
+ },
+ {
+  "id": 805,
+  "word": "restive",
+  "def_en": "Impatient or uneasy under the control of another; resisting being controlled"
+ },
+ {
+  "id": 806,
+  "word": "resurgent",
+  "def_en": "Having a revival, renewing, rising or surging again"
+ },
+ {
+  "id": 807,
+  "word": "reticent",
+  "def_en": "Not talking much; private (of a person), restrained, reserved"
+ },
+ {
+  "id": 808,
+  "word": "retrospective",
+  "def_en": "Looking to the past or backward; applying to the past, retroactive (adj); an art exhibit of an artist's work over a long period of time (noun)"
+ },
+ {
+  "id": 809,
+  "word": "revamp",
+  "def_en": "Renovate, redo, revise (verb); a restructuring, upgrade, etc. (noun)"
+ },
+ {
+  "id": 810,
+  "word": "reverent",
+  "def_en": "Feeling or expressing very deep respect and awe"
+ },
+ {
+  "id": 811,
+  "word": "rhetoric",
+  "def_en": "The art or study of persuasion through speaking or writing; language that is elaborate or pretentious but actually empty, meaning little"
+ },
+ {
+  "id": 812,
+  "word": "ribald",
+  "def_en": "Using or relating to obscene or vulgar humor"
+ },
+ {
+  "id": 813,
+  "word": "ridden",
+  "def_en": "Dominated or burdened by"
+ },
+ {
+  "id": 814,
+  "word": "rife",
+  "def_en": "Happening frequently, abundant, currently being reported"
+ },
+ {
+  "id": 815,
+  "word": "rift",
+  "def_en": "A gap or fissure (such as in rock), a break in friendly relations"
+ },
+ {
+  "id": 816,
+  "word": "rococo",
+  "def_en": "Very elaborate and ornate (in decorating or metaphorically, as in speech and writing); relating to a highly ornate style of art and architecture in 18th-century France"
+ },
+ {
+  "id": 817,
+  "word": "rudimentary",
+  "def_en": "Elementary, relating to the basics; undeveloped, primitive"
+ },
+ {
+  "id": 818,
+  "word": "rue",
+  "def_en": "Regret, remorse (noun); to feel regret or remorse (verb)"
+ },
+ {
+  "id": 819,
+  "word": "ruminate",
+  "def_en": "Turn over in the mind, reflect on; chew cud (as a cow)"
+ },
+ {
+  "id": 820,
+  "word": "rustic",
+  "def_en": "Relating to country life, unsophisticated; primitive; made of rough wood (adj); a rural or uncultured person (noun)"
+ },
+ {
+  "id": 821,
+  "word": "sacrosanct",
+  "def_en": "Sacred, inviolable, not to be trespassed on or violated; above any criticism"
+ },
+ {
+  "id": 822,
+  "word": "sagacious",
+  "def_en": "Wise; showing good judgment and foresight"
+ },
+ {
+  "id": 823,
+  "word": "salient",
+  "def_en": "Obvious, standing out; projecting, protruding, jutting out"
+ },
+ {
+  "id": 824,
+  "word": "salubrious",
+  "def_en": "Healthful, promoting health"
+ },
+ {
+  "id": 825,
+  "word": "sanction",
+  "def_en": "Permission or approval, something that gives support or authority to something else (noun); to allow, confirm, ratify (verb); OR a legal action by one or more countries against another country to get it to comply (noun); to place sanctions or penalties on (verb)"
+ },
+ {
+  "id": 826,
+  "word": "sanguine",
+  "def_en": "Cheerfully optimistic, hopeful; reddish, ruddy (as in rosy-red cheeks indicting health or vitality)"
+ },
+ {
+  "id": 827,
+  "word": "sap",
+  "def_en": "The inner fluid of a plant or any essential body fluid; energy, vitality; a person taken advantage of (noun); undermine, weaken, tire out (verb)"
+ },
+ {
+  "id": 828,
+  "word": "sardonic",
+  "def_en": "Scornfully or ironically mocking, cynically derisive"
+ },
+ {
+  "id": 829,
+  "word": "satiate or sate",
+  "def_en": "To fully satisfy; to go beyond satisfying to the point of excess (possibly inducing disgust, tiredness, etc.)"
+ },
+ {
+  "id": 830,
+  "word": "saturate",
+  "def_en": "Soak or imbue thoroughly; cause a substance to unite with the greatest possible amount of another substance"
+ },
+ {
+  "id": 831,
+  "word": "savant",
+  "def_en": "Learned person, scholar, someone admitted to membership in a scholarly field; a person with amazing mental abilities despite having a cognitive difference or disability"
+ },
+ {
+  "id": 832,
+  "word": "savor",
+  "def_en": "Appreciate fully, taste or smell with pleasure"
+ },
+ {
+  "id": 833,
+  "word": "scant",
+  "def_en": "Not enough or barely enough"
+ },
+ {
+  "id": 834,
+  "word": "scathing",
+  "def_en": "Severe, injurious; bitterly harsh or critical (as a remark)"
+ },
+ {
+  "id": 835,
+  "word": "scintilla",
+  "def_en": "A tiny bit or trace"
+ },
+ {
+  "id": 836,
+  "word": "scurvy",
+  "def_en": "Contemptible, mean"
+ },
+ {
+  "id": 837,
+  "word": "searchingly",
+  "def_en": "In a searching or penetrating manner; while examining closely or probing for answers"
+ },
+ {
+  "id": 838,
+  "word": "secrete",
+  "def_en": "Produce and release a substance from a cell or gland of the body for a functional purpose"
+ },
+ {
+  "id": 839,
+  "word": "secular",
+  "def_en": "Not religious or holy; pertaining to worldly things"
+ },
+ {
+  "id": 840,
+  "word": "sedition",
+  "def_en": "Inciting rebellion against a government, esp. speech or writing that does this"
+ },
+ {
+  "id": 841,
+  "word": "sedulous",
+  "def_en": "Persevering, persistent, diligent in one's efforts"
+ },
+ {
+  "id": 842,
+  "word": "semantic",
+  "def_en": "Relating to the different meanings of words or other symbols"
+ },
+ {
+  "id": 843,
+  "word": "sentient",
+  "def_en": "Conscious; experiencing sensation or perceiving with the senses"
+ },
+ {
+  "id": 844,
+  "word": "seraphic",
+  "def_en": "Like an angel; serene, spiritually carried off or transported"
+ },
+ {
+  "id": 845,
+  "word": "shard",
+  "def_en": "Fragment of some brittle substance, esp. a sharp fragment of pottery, glass, etc."
+ },
+ {
+  "id": 846,
+  "word": "simultaneous",
+  "def_en": "At the same time"
+ },
+ {
+  "id": 847,
+  "word": "sinecure",
+  "def_en": "A job or position that pays while requiring little or no work"
+ },
+ {
+  "id": 848,
+  "word": "skeptic",
+  "def_en": "Person inclined to doubting or questioning generally accepted beliefs"
+ },
+ {
+  "id": 849,
+  "word": "skirt",
+  "def_en": "Border, lie along the edge of, go around; evade"
+ },
+ {
+  "id": 850,
+  "word": "skittish",
+  "def_en": "Shy, fickle, uncertain, or prone to act suddenly due to nervousness; lively in a restless or excessive way"
+ },
+ {
+  "id": 851,
+  "word": "slack",
+  "def_en": "Loose, negligent, lazy, weak (adj); neglect to do one's duties; loosen up, relax (verb); period of little work (noun)"
+ },
+ {
+  "id": 852,
+  "word": "slake",
+  "def_en": "Satisfy (esp. thirst), cool, or refresh; make less active"
+ },
+ {
+  "id": 853,
+  "word": "slew",
+  "def_en": "A large number or quantity"
+ },
+ {
+  "id": 854,
+  "word": "slight",
+  "def_en": "Small, not very important, slender or delicate (adj); treat as though not very important; snub, ignore (verb); an act of treating in this way, a discourtesy (noun)"
+ },
+ {
+  "id": 855,
+  "word": "sobriquet",
+  "def_en": "A nickname"
+ },
+ {
+  "id": 856,
+  "word": "solecism",
+  "def_en": "Nonstandard use of grammar or words; mistake, esp. in etiquette"
+ },
+ {
+  "id": 857,
+  "word": "solicitous",
+  "def_en": "Concerned or anxious (about another person), expressing care; eager or desirous; very careful"
+ },
+ {
+  "id": 858,
+  "word": "solidarity",
+  "def_en": "Fellowship in interests, feelings, responsibilities, etc., such as among a group of people or among classes, nations, etc."
+ },
+ {
+  "id": 859,
+  "word": "somatic",
+  "def_en": "Of the body"
+ },
+ {
+  "id": 860,
+  "word": "soporific",
+  "def_en": "Causing sleep; sleepy, drowsy (adj); something that causes sleep (noun)"
+ },
+ {
+  "id": 861,
+  "word": "sound",
+  "def_en": "Measure the depth of (usually of water) as with a sounding line; penetrate and discover the meaning of, understand (usually as sound the depths)"
+ },
+ {
+  "id": 862,
+  "word": "spartan",
+  "def_en": "Very disciplined and stern; frugal, living simply, austere; suggestive of the ancient Spartans"
+ },
+ {
+  "id": 863,
+  "word": "spate",
+  "def_en": "Sudden outpouring or rush; flood"
+ },
+ {
+  "id": 864,
+  "word": "spearhead",
+  "def_en": "Be the leader of"
+ },
+ {
+  "id": 865,
+  "word": "specious",
+  "def_en": "Seemingly true but actually false; deceptively attractive"
+ },
+ {
+  "id": 866,
+  "word": "spectrum",
+  "def_en": "A broad range of nevertheless related qualities or ideas, esp. those that overlap to create a continuous series (as in a color spectrum, where each color blends into the next in a continuous way)"
+ },
+ {
+  "id": 867,
+  "word": "speculate",
+  "def_en": "Contemplate; make a guess or educated guess about; engage in a risky business transaction, gamble"
+ },
+ {
+  "id": 868,
+  "word": "sporadic",
+  "def_en": "Occasional, happening irregularly or in scattered locations"
+ },
+ {
+  "id": 869,
+  "word": "sportive",
+  "def_en": "Playful, merry, joking around, done \"in sport\" (rather than intended seriously)"
+ },
+ {
+  "id": 870,
+  "word": "squalid",
+  "def_en": "Disgusting, filthy, foul, extremely neglected"
+ },
+ {
+  "id": 871,
+  "word": "squelch",
+  "def_en": "Crush, squash; suppress or silence; walk through ooze or in wet shoes, making a smacking or sucking sound"
+ },
+ {
+  "id": 872,
+  "word": "standing",
+  "def_en": "Status, rank, reputation (noun); existing indefinitely, not movable (adj)"
+ },
+ {
+  "id": 873,
+  "word": "stark",
+  "def_en": "Complete, total, utter; harsh or grim; extremely simple, severe, blunt, or plain"
+ },
+ {
+  "id": 874,
+  "word": "stasis",
+  "def_en": "Equilibrium, a state of balance or inactivity, esp. caused by equal but opposing forces"
+ },
+ {
+  "id": 875,
+  "word": "static",
+  "def_en": "Fixed, not moving or changing, lacking vitality"
+ },
+ {
+  "id": 876,
+  "word": "status quo",
+  "def_en": "Existing state or condition"
+ },
+ {
+  "id": 877,
+  "word": "steeped",
+  "def_en": "Immersed (in), saturated (with)"
+ },
+ {
+  "id": 878,
+  "word": "stentorian",
+  "def_en": "Very loud and powerful (generally of a human voice)"
+ },
+ {
+  "id": 879,
+  "word": "stigma",
+  "def_en": "Mark of disgrace, a figurative stain or mark on someone's reputation"
+ },
+ {
+  "id": 880,
+  "word": "stingy",
+  "def_en": "Not generous with money, reluctant to spend or give"
+ },
+ {
+  "id": 881,
+  "word": "stint",
+  "def_en": "Period of time spent doing something, or a specific, limited amount of work (noun); to be frugal, to get by on little (verb)"
+ },
+ {
+  "id": 882,
+  "word": "stipulate",
+  "def_en": "Specify; make an open demand, esp. as a condition of agreement"
+ },
+ {
+  "id": 883,
+  "word": "stoic or stoical",
+  "def_en": "Indifferent to pleasure or pain, enduring without complaint; person indifferent to pleasure or pain (noun)"
+ },
+ {
+  "id": 884,
+  "word": "stolid",
+  "def_en": "Unemotional, showing little emotion, not easily moved"
+ },
+ {
+  "id": 885,
+  "word": "stratagem",
+  "def_en": "Military maneuver to deceive or surprise; crafty scheme"
+ },
+ {
+  "id": 886,
+  "word": "stratum",
+  "def_en": "One of many layers (such as in a rock formation or in the classes of a society)"
+ },
+ {
+  "id": 887,
+  "word": "strut",
+  "def_en": "A structural support or brace"
+ },
+ {
+  "id": 888,
+  "word": "stymie",
+  "def_en": "or Block, hinder, or thwart (verb); an obstacle stymy (noun)"
+ },
+ {
+  "id": 889,
+  "word": "subjective",
+  "def_en": "Existing in the mind or relating to one's own thoughts, opinions, emotions, etc.; personal, individual, based on feelings"
+ },
+ {
+  "id": 890,
+  "word": "sublime",
+  "def_en": "Lofty or elevated, inspiring reverence or awe; excellent, majestic; complete, utter"
+ },
+ {
+  "id": 891,
+  "word": "subpoena",
+  "def_en": "A court order requiring a person to appear in court and give testimony"
+ },
+ {
+  "id": 892,
+  "word": "subside",
+  "def_en": "Sink, settle down, become less active; return to a normal level"
+ },
+ {
+  "id": 893,
+  "word": "substantiate",
+  "def_en": "Support with evidence or proof; give a material existence to"
+ },
+ {
+  "id": 894,
+  "word": "succeeding",
+  "def_en": "Coming after or following"
+ },
+ {
+  "id": 895,
+  "word": "sully",
+  "def_en": "Make dirty, stain, tarnish, defile"
+ },
+ {
+  "id": 896,
+  "word": "supersede",
+  "def_en": "Replace, take the position of, cause to be disregarded as void or obsolete"
+ },
+ {
+  "id": 897,
+  "word": "supplant",
+  "def_en": "Take the place of, displace, especially through sneaky tactics"
+ },
+ {
+  "id": 898,
+  "word": "supplicate",
+  "def_en": "Pray humbly; ask, beg, or seek in a humble way"
+ },
+ {
+  "id": 899,
+  "word": "supposition",
+  "def_en": "Assumption, hypothesis, something that has been supposed"
+ },
+ {
+  "id": 900,
+  "word": "surfeit",
+  "def_en": "Excess, excessive amount, overindulgence"
+ },
+ {
+  "id": 901,
+  "word": "surly",
+  "def_en": "Bad-tempered, hostile, unfriendly, or rude"
+ },
+ {
+  "id": 902,
+  "word": "surmise",
+  "def_en": "Guess, infer, think, or make an opinion with incomplete information"
+ },
+ {
+  "id": 903,
+  "word": "surrogate",
+  "def_en": "Substitute, person who acts for another (noun); acting as a replacement (adj)"
+ },
+ {
+  "id": 904,
+  "word": "sybarite",
+  "def_en": "Person devoted to pleasure and luxury"
+ },
+ {
+  "id": 905,
+  "word": "sycophant",
+  "def_en": "Servile flatterer, parasitic person who fawns in order to get ahead"
+ },
+ {
+  "id": 906,
+  "word": "symbiosis",
+  "def_en": "Mutually dependent relationship between two organisms, people, groups, etc."
+ },
+ {
+  "id": 907,
+  "word": "synchronous",
+  "def_en": "Happening at the same time; occurring at the same rate and thus happening together repeatedly"
+ },
+ {
+  "id": 908,
+  "word": "synoptic",
+  "def_en": "Relating to a synopsis or summary; giving a general view"
+ },
+ {
+  "id": 909,
+  "word": "syntax",
+  "def_en": "The rules governing grammar and how words join to make sentences (or how words and symbols join in writing computer code), the study of these rules, or any system or orderly arrangement"
+ },
+ {
+  "id": 910,
+  "word": "table",
+  "def_en": "Lay aside to discuss later, often as a way to postpone discussion indefinitely"
+ },
+ {
+  "id": 911,
+  "word": "tacit",
+  "def_en": "Understood without being said; implied, not stated directly; silent"
+ },
+ {
+  "id": 912,
+  "word": "taciturn",
+  "def_en": "Not talking much, reserved; silent, holding back in conversation"
+ },
+ {
+  "id": 913,
+  "word": "tangential",
+  "def_en": "Only slightly relevant, going off-topic"
+ },
+ {
+  "id": 914,
+  "word": "tawdry",
+  "def_en": "Gaudy, cheap or cheap-looking; indecent"
+ },
+ {
+  "id": 915,
+  "word": "temperance",
+  "def_en": "Moderation, self-control, esp. regarding alcohol or other desires or pleasures; total abstinence from alcohol"
+ },
+ {
+  "id": 916,
+  "word": "tendentious",
+  "def_en": "Marked by a strong point of view, biased"
+ },
+ {
+  "id": 917,
+  "word": "tenuous",
+  "def_en": "Long and thin, slender; flimsy, having little substance"
+ },
+ {
+  "id": 918,
+  "word": "terrestrial",
+  "def_en": "Relating to the Earth or to land; worldly"
+ },
+ {
+  "id": 919,
+  "word": "terse",
+  "def_en": "Concise, brief and to the point (sometimes to the point of rudeness)"
+ },
+ {
+  "id": 920,
+  "word": "timely",
+  "def_en": "Well-timed, happening at a suitable time"
+ },
+ {
+  "id": 921,
+  "word": "timorous",
+  "def_en": "Fearful, timid"
+ },
+ {
+  "id": 922,
+  "word": "tirade",
+  "def_en": "Bitter, abusive criticism or verbal attack"
+ },
+ {
+  "id": 923,
+  "word": "toady",
+  "def_en": "Someone who flatters or acts in a servile manner for self-serving reasons"
+ },
+ {
+  "id": 924,
+  "word": "token",
+  "def_en": "Sign, symbol, mark, badge; souvenir, memento; coin-like disk used as currency for subways, arcade games, etc.; sample, or person, thing, idea taken to represent an entire group (noun); of very little or merely symbolic value (adj)"
+ },
+ {
+  "id": 925,
+  "word": "tome",
+  "def_en": "Large or scholarly book; one of the volumes in a set of several books"
+ },
+ {
+  "id": 926,
+  "word": "torpor",
+  "def_en": "Sluggishness, lethargy, or apathy; a period of inactivity"
+ },
+ {
+  "id": 927,
+  "word": "torrid",
+  "def_en": "Very hot, parching, burning; passionate"
+ },
+ {
+  "id": 928,
+  "word": "tortuous",
+  "def_en": "Twisting, winding, complex; devious, not straightforward"
+ },
+ {
+  "id": 929,
+  "word": "tractable",
+  "def_en": "Easily controlled or managed, docile; easily shaped or molded"
+ },
+ {
+  "id": 930,
+  "word": "transgression",
+  "def_en": "Violation of a law, moral rule, order, etc.; sin"
+ },
+ {
+  "id": 931,
+  "word": "transitory",
+  "def_en": "Temporary, short-lived, not lasting"
+ },
+ {
+  "id": 932,
+  "word": "travesty",
+  "def_en": "Exaggerated, debased, or grotesque imitation"
+ },
+ {
+  "id": 933,
+  "word": "treacherous",
+  "def_en": "Betraying trust, not faithful or trustworthy; not dependable; dangerous or deceptive"
+ },
+ {
+  "id": 934,
+  "word": "trenchant",
+  "def_en": "forceful or vigorous, effective, keen; caustic, sharp"
+ },
+ {
+  "id": 935,
+  "word": "trifling",
+  "def_en": "Trivial, not very important; so small as to be unimportant; frivolous, shallow"
+ },
+ {
+  "id": 936,
+  "word": "trite",
+  "def_en": "Lacking freshness and originality, lacking effectiveness due to overuse, cliché"
+ },
+ {
+  "id": 937,
+  "word": "truculent",
+  "def_en": "Fierce, cruel, savage; belligerent"
+ },
+ {
+  "id": 938,
+  "word": "tumultuous",
+  "def_en": "Riotous, violently agitated, marked by disturbance or uproar; noisy, chaotic"
+ },
+ {
+  "id": 939,
+  "word": "turgid",
+  "def_en": "Swollen, inflated; or, metaphorically \"inflated,\" such as in overblown, pompous speech"
+ },
+ {
+  "id": 940,
+  "word": "turpitude",
+  "def_en": "Depravity, baseness of character, corrupt or depraved acts"
+ },
+ {
+  "id": 941,
+  "word": "tyro",
+  "def_en": "Beginner"
+ },
+ {
+  "id": 942,
+  "word": "ubiquitous",
+  "def_en": "Existing everywhere at the same time"
+ },
+ {
+  "id": 943,
+  "word": "umbrage",
+  "def_en": "Offense or annoyance (usually as take umbrage, meaning become offended or annoyed)"
+ },
+ {
+  "id": 944,
+  "word": "unconscionable",
+  "def_en": "Not guided by conscience; morally wrong, unjust, unreasonable"
+ },
+ {
+  "id": 945,
+  "word": "undermine",
+  "def_en": "Weaken, cause to collapse by digging away at the foundation (of a building or an argument); injure or attack in a secretive or underhanded way"
+ },
+ {
+  "id": 946,
+  "word": "underscore",
+  "def_en": "Emphasize (or, literally, to underline text)"
+ },
+ {
+  "id": 947,
+  "word": "unearth",
+  "def_en": "Dig up, uncover, expose"
+ },
+ {
+  "id": 948,
+  "word": "unequivocal",
+  "def_en": "Unambiguous, clear, absolute; having only one possible meaning"
+ },
+ {
+  "id": 949,
+  "word": "unprecedented",
+  "def_en": "Never before known or seen, without having happened previously"
+ },
+ {
+  "id": 950,
+  "word": "unseemly",
+  "def_en": "Improper, inappropriate, against the rules of taste or politeness"
+ },
+ {
+  "id": 951,
+  "word": "unsparing",
+  "def_en": "Generous, lavish (as in not sparing any help or gifts to others); unmerciful, harsh (as in not sparing any criticism)"
+ },
+ {
+  "id": 952,
+  "word": "untempered",
+  "def_en": "Not toned down; not moderated, controlled, or counterbalanced"
+ },
+ {
+  "id": 953,
+  "word": "upbraid",
+  "def_en": "Find fault with, criticize or scold severely"
+ },
+ {
+  "id": 954,
+  "word": "usury",
+  "def_en": "Charging interest on a loan, esp. charging illegally high or excessive interest"
+ },
+ {
+  "id": 955,
+  "word": "vacillate",
+  "def_en": "Waver in one's mind or opinions, be indecisive"
+ },
+ {
+  "id": 956,
+  "word": "vanguard",
+  "def_en": "Leading units at the front of an army; leaders in a trend or movement, people on the \"cutting edge\"; the forefront of a trend or movement"
+ },
+ {
+  "id": 957,
+  "word": "variegated",
+  "def_en": "Varied in color, having multicolored patches or spots; diverse"
+ },
+ {
+  "id": 958,
+  "word": "venerate",
+  "def_en": "Revere, regard with deep respect and awe"
+ },
+ {
+  "id": 959,
+  "word": "veracity",
+  "def_en": "Truthfulness, accuracy; habitual adherence to the truth"
+ },
+ {
+  "id": 960,
+  "word": "verbose",
+  "def_en": "Wordy"
+ },
+ {
+  "id": 961,
+  "word": "verdant",
+  "def_en": "Green, such as with vegetation, plants, grass, etc.; young and inexperienced"
+ },
+ {
+  "id": 962,
+  "word": "verisimilar",
+  "def_en": "Having the appearance of truth, probable"
+ },
+ {
+  "id": 963,
+  "word": "vernal",
+  "def_en": "Relating to the spring; fresh, youthful"
+ },
+ {
+  "id": 964,
+  "word": "vestige",
+  "def_en": "Trace or sign of something that once existed"
+ },
+ {
+  "id": 965,
+  "word": "vex",
+  "def_en": "annoy or bother; puzzle or distress"
+ },
+ {
+  "id": 966,
+  "word": "via",
+  "def_en": "Through, by means of, by way of (by a route that goes through or touches)"
+ },
+ {
+  "id": 967,
+  "word": "viable",
+  "def_en": "Capable of living (or growing, developing, etc.); practical, workable"
+ },
+ {
+  "id": 968,
+  "word": "vicissitude",
+  "def_en": "Changes or variations over time, esp. regular changes from one thing to another"
+ },
+ {
+  "id": 969,
+  "word": "vim",
+  "def_en": "Pep, enthusiasm, vitality, lively spirit"
+ },
+ {
+  "id": 970,
+  "word": "vintage",
+  "def_en": "Related to items of high quality from a previous era, old-fashioned, antique (adj); the wine of a particular year (noun)"
+ },
+ {
+  "id": 971,
+  "word": "virtual",
+  "def_en": "Existing only in the mind or by means of a computer network; existing in results or in essence but not officially or in name"
+ },
+ {
+  "id": 972,
+  "word": "virulent",
+  "def_en": "Extremely infectious, poisonous, etc.; hateful, bitterly hostile"
+ },
+ {
+  "id": 973,
+  "word": "viscid or viscous",
+  "def_en": "Thick, adhesive, or covered in something sticky"
+ },
+ {
+  "id": 974,
+  "word": "vitriol",
+  "def_en": "Something highly caustic, such as criticism (literally, one of a number of chemicals including sulfuric acid)"
+ },
+ {
+  "id": 975,
+  "word": "vituperate",
+  "def_en": "Verbally abuse, rebuke or criticize harshly"
+ },
+ {
+  "id": 976,
+  "word": "vociferous",
+  "def_en": "Noisily crying out, as in protest"
+ },
+ {
+  "id": 977,
+  "word": "volatile",
+  "def_en": "Varying, inconstant, fleeting; tending to violence, explosive"
+ },
+ {
+  "id": 978,
+  "word": "voluble",
+  "def_en": "Easily fluent in regards to speech"
+ },
+ {
+  "id": 979,
+  "word": "wan",
+  "def_en": "Unnaturally pale, or showing some other indication of sickness, unhappiness, etc.; weak, lacking forcefulness"
+ },
+ {
+  "id": 980,
+  "word": "wanton",
+  "def_en": "Reckless, vicious, without regard for what is right; unjustifiable, deliberately done for no reason at all; sexually unrestrained or excessively luxurious"
+ },
+ {
+  "id": 981,
+  "word": "warranted",
+  "def_en": "Justified, authorized (warrant can mean to justify or a justification, but can also mean to vouch for or guarantee)"
+ },
+ {
+  "id": 982,
+  "word": "wary",
+  "def_en": "Watchful, motivated by caution, on guard against danger"
+ },
+ {
+  "id": 983,
+  "word": "welter",
+  "def_en": "Confused mass or pile, jumble; confusion or turmoil (noun); roll around, wallow, toss about, writhe (verb)"
+ },
+ {
+  "id": 984,
+  "word": "whereas",
+  "def_en": "While on the contrary, considering that"
+ },
+ {
+  "id": 985,
+  "word": "whet",
+  "def_en": "Stimulate, make keen or eager (esp. of an appetite)"
+ },
+ {
+  "id": 986,
+  "word": "whimsical",
+  "def_en": "Marked or motivated by whims (odd, fanciful ideas); erratic, unpredictable"
+ },
+ {
+  "id": 987,
+  "word": "whitewash",
+  "def_en": "A substance used to whiten walls, wood, etc. (noun); deception, covering up of wrongs, errors, misdeeds, etc. (verb)"
+ },
+ {
+  "id": 988,
+  "word": "wily",
+  "def_en": "Crafty, cunning, characterized by tricks or artifice"
+ },
+ {
+  "id": 989,
+  "word": "winnow",
+  "def_en": "Sift, analyze critically, separate the useful part from the worthless part"
+ },
+ {
+  "id": 990,
+  "word": "winsome",
+  "def_en": "Charming, engaging, esp. in a sweet and innocent way"
+ },
+ {
+  "id": 991,
+  "word": "wizened",
+  "def_en": "Withered, shriveled"
+ },
+ {
+  "id": 992,
+  "word": "xenophobia",
+  "def_en": "Fear or hatred of foreigners or that which is foreign"
+ },
+ {
+  "id": 993,
+  "word": "yoke",
+  "def_en": "A burden or something that oppresses; a frame for attaching animals (such as oxen) to each other and to a plow or other equipment to be pulled, or a bar across a person's shoulders to help carry buckets of water, etc. (noun); to unite together or to burden (verb)"
+ },
+ {
+  "id": 994,
+  "word": "zeal",
+  "def_en": "Great fervor or enthusiasm for a cause, person, etc.; tireless diligence in furthering that cause; passion, ardor"
+ },
+ {
+  "id": 995,
+  "word": "zenith",
+  "def_en": "High point, culmination"
+ }
+]
