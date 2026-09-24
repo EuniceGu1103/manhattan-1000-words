@@ -2,12 +2,13 @@
 
 An open-source, front-end-only (no backend, no build step) bilingual (English/Chinese) study tool built on the **Manhattan Prep 1000 GRE Words** list — all 995 words, each with an English definition, a Chinese definition (including every sense of a word), and 2–3 bilingual example sentences.
 
-It's built for students whose first language is Chinese and whose prep time is limited: a fast way to get through a high-frequency GRE word list (想要快速过一遍高频词汇的同学) rather than a full flashcard-browsing app. Three focused tools, nothing extra: a shuffled review quiz, a mistake book, and an ADHD-friendly reading mode.
+It's designed for students who are more comfortable in Chinese and need to get through the word list quickly — or fit in one last review before test day. A browsable word list plus three focused study tools: a shuffled review quiz, a mistake book, and an ADHD-friendly reading mode.
 
 Live demo: once deployed to GitHub Pages, the site is available at `https://<your-username>.github.io/<repo-name>/` (see **Deployment** below).
 
 ## Features
 
+- **Vocabulary** (`pages/vocabulary.html`): browse all 995 words, split into 10 alphabetical groups of ~100 words each (`pages/chunk-01.html` – `chunk-10.html`). Each entry shows every sense of the word with its Chinese definition, plus 2–3 bilingual example sentences, with live search within a group.
 - **Shuffled Review Quiz** (`pages/review.html`):
   - Before starting, select one or more word groups to quiz on, or check "quiz only Mistake Book words";
   - Choose a direction: English → recall Chinese, or Chinese → recall English;
@@ -23,14 +24,17 @@ Live demo: once deployed to GitHub Pages, the site is available at `https://<you
 
 ```
 manhattan-gre-1000/
-├── index.html                 # Welcome page: intro + links into the quiz and mistake book
+├── index.html                 # Home page: intro + links into Vocabulary and the review quiz
 ├── pages/
+│   ├── vocabulary.html        # Vocabulary: grid of 10 word groups
+│   ├── chunk-01.html … chunk-10.html   # Word list for each group (~100 words each)
 │   ├── review.html            # Shuffled review quiz
 │   └── wrongbook.html         # Mistake book
 ├── assets/
 │   ├── css/style.css          # Site-wide styles (light/dark/auto theme, liquid glass, responsive, print)
 │   └── js/
 │       ├── common.js          # Theme/reading-mode toggles, nav/footer injection, data loading, mistake book storage
+│       ├── chunk-page.js      # Word list rendering + search for each chunk page
 │       ├── review.js          # Review quiz state machine and keyboard interaction
 │       └── wrongbook.js       # Mistake book rendering, sorting, and PDF export
 ├── data/
