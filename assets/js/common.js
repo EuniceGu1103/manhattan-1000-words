@@ -101,6 +101,7 @@ const GRE = (() => {
     if (!mount) return;
     const isRoot = !location.pathname.includes("/pages/");
     const homeHref = isRoot ? "index.html" : "../index.html";
+    const vocabHref = isRoot ? "pages/vocabulary.html" : "vocabulary.html";
     const reviewHref = isRoot ? "pages/review.html" : "review.html";
     const wrongHref = isRoot ? "pages/wrongbook.html" : "wrongbook.html";
 
@@ -109,7 +110,8 @@ const GRE = (() => {
         <div class="nav-inner">
           <a class="brand" href="${homeHref}"><span class="dot"></span>GRE Vocabulary Snapshot</a>
           <div class="nav-links">
-            <a href="${homeHref}" class="${activePage === "welcome" ? "active" : ""}">Welcome</a>
+            <a href="${homeHref}" class="${activePage === "home" ? "active" : ""}">Home</a>
+            <a href="${vocabHref}" class="${activePage === "vocabulary" ? "active" : ""}">Vocabulary</a>
             <a href="${reviewHref}" class="${activePage === "review" ? "active" : ""}">Review Quiz</a>
             <a href="${wrongHref}" class="${activePage === "wrongbook" ? "active" : ""}">Mistake Book</a>
           </div>
