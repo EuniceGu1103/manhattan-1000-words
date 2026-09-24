@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocabulary · GRE Vocabulary Snapshot</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%231C2B48%22/%3E%3Ctext x=%2250%22 y=%2266%22 font-size=%2258%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22Arial%22%3EM%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+<div id="nav-mount"></div>
+
+<main class="wrap">
+  <header class="hero" style="padding:48px 0 8px;text-align:left">
+    <h1 style="font-size:32px">Vocabulary</h1>
+    <p style="text-align:left;margin:0">All 995 words from the Manhattan Prep 1000 GRE Words list, sorted alphabetically and split into 10 groups of about 100 words each. Pick a group to see its full word list with Chinese definitions and bilingual examples.</p>
+  </header>
+
+  <div class="vocab-grid" id="chunk-grid" style="margin-top:32px"></div>
+</main>
+
+<div id="footer-mount"></div>
+
+<script src="../assets/js/common.js"></script>
+<script>
+  GRE.injectNav("vocabulary");
+  GRE.injectFooter();
+
+  const CHUNKS = [
+    [1, 100], [101, 200], [201, 300], [301, 400], [401, 500],
+    [501, 600], [601, 700], [701, 800], [801, 900], [901, 995],
+  ];
+  const grid = document.getElementById("chunk-grid");
+  CHUNKS.forEach(([start, end], i) => {
+    const n = String(i + 1).padStart(2, "0");
+    const a = document.createElement("a");
+    a.href = `chunk-${n}.html`;
+    a.className = "glass chunk-card";
+    a.innerHTML = `
+      <span class="num">Chunk ${i + 1}</span>
+      <span class="range">#${start}–${end}</span>
+      <span class="count">${end - start + 1} words</span>
+    `;
+    grid.appendChild(a);
+  });
+
+  GRE.applyBionicToPage();
+</script>
+</body>
+</html>
