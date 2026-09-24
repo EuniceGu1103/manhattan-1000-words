@@ -20,19 +20,19 @@ const GRE = (() => {
     }
     updateThemeButton();
   }
-  function toggleTheme() {
+  function cycleTheme() {
+    // auto (follow system) -> light -> dark -> auto
     const current = getTheme();
-    const isDarkNow = current === "dark" ||
-      (current === "auto" && window.matchMedia("(prefers-color-scheme: dark)").matches);
-    setTheme(isDarkNow ? "light" : "dark");
+    const next = current === "auto" ? "light" : current === "light" ? "dark" : "auto";
+    setTheme(next);
   }
   function updateThemeButton() {
     const btn = document.getElementById("theme-toggle");
     if (!btn) return;
     const current = getTheme();
-    const isDarkNow = current === "dark" ||
-      (current === "auto" && window.matchMedia("(prefers-color-scheme: dark)").matches);
-    btn.textContent = isDarkNow ? "☀️ 日间" : "🌙 夜间";
+    const labels = { auto: "🌗 Auto", light: "☀️ Light", dark: "🌙 Dark" };
+    btn.textContent = labels[current] || labels.auto;
+    btn.title = "Theme: Auto (follows system) → Light → Dark. Click to change.";
   }
 
   function getReadMode() {
@@ -50,7 +50,7 @@ const GRE = (() => {
   function updateReadButton() {
     const btn = document.getElementById("read-toggle");
     if (!btn) return;
-    btn.textContent = getReadMode() === "bionic" ? "🧠 ADHD 模式：开" : "📖 常规阅读";
+    btn.textContent = getReadMode() === "bionic" ? "🧠 ADHD Mode: On" : "📖 Normal Reading";
   }
 
   // Bionic reading: bold a random-ish leading portion of each English word.
@@ -99,11 +99,6 @@ const GRE = (() => {
   function injectNav(activePage) {
     const mount = document.getElementById("nav-mount");
     if (!mount) return;
-    const links = [
-      { href: "../index.html", label: "首页", key: "home", rootHref: "index.html" },
-      { href: "review.html", label: "单词回顾", key: "review" },
-      { href: "wrongbook.html", label: "错题库", key: "wrongbook" },
-    ];
     const isRoot = !location.pathname.includes("/pages/");
     const homeHref = isRoot ? "index.html" : "../index.html";
     const reviewHref = isRoot ? "pages/review.html" : "review.html";
@@ -112,11 +107,11 @@ const GRE = (() => {
     mount.innerHTML = `
       <nav class="nav">
         <div class="nav-inner">
-          <a class="brand" href="${homeHref}"><span class="dot"></span>Manhattan 1000 Words</a>
+          <a class="brand" href="${homeHref}"><span class="dot"></span>GRE Vocabulary Snapshot</a>
           <div class="nav-links">
-            <a href="${homeHref}" class="${activePage === "home" ? "active" : ""}">首页</a>
-            <a href="${reviewHref}" class="${activePage === "review" ? "active" : ""}">单词回顾</a>
-            <a href="${wrongHref}" class="${activePage === "wrongbook" ? "active" : ""}">错题库</a>
+            <a href="${homeHref}" class="${activePage === "welcome" ? "active" : ""}">Welcome</a>
+            <a href="${reviewHref}" class="${activePage === "review" ? "active" : ""}">Review Quiz</a>
+            <a href="${wrongHref}" class="${activePage === "wrongbook" ? "active" : ""}">Mistake Book</a>
           </div>
           <div class="nav-toggles">
             <button id="read-toggle" class="toggle-btn" type="button"></button>
@@ -125,10 +120,24 @@ const GRE = (() => {
         </div>
       </nav>`;
 
-    document.getElementById("theme-toggle").addEventListener("click", toggleTheme);
+    document.getElementById("theme-toggle").addEventListener("click", cycleTheme);
     document.getElementById("read-toggle").addEventListener("click", toggleReadMode);
     updateThemeButton();
     updateReadButton();
+  }
+
+  function injectFooter() {
+    const mount = document.getElementById("footer-mount");
+    if (!mount) return;
+    mount.innerHTML = `
+      <footer class="footer wrap no-print">
+        <p style="margin:0 0 6px">
+          Contact: <a href="mailto:eunicegu1103@gmail.com">eunicegu1103@gmail.com</a>
+          &nbsp;·&nbsp;
+          <a href="https://github.com/EuniceGu1103/manhattan-1000-words" target="_blank" rel="noopener">GitHub Repository</a>
+        </p>
+        <p style="margin:0;opacity:.75">GRE Vocabulary Snapshot · Data adapted from Manhattan Prep 1000 GRE Words</p>
+      </footer>`;
   }
 
   function dataPath(file) {
@@ -188,10 +197,10 @@ const GRE = (() => {
   })();
 
   return {
-    getTheme, setTheme, toggleTheme,
+    getTheme, setTheme, cycleTheme,
     getReadMode, setReadMode, toggleReadMode,
     applyBionicToPage, bionicText,
-    injectNav, loadWords, dataPath,
+    injectNav, injectFooter, loadWords, dataPath,
     getWrongBook, saveWrongBook, logMistake, removeFromWrongBook, clearWrongBook,
   };
 })();

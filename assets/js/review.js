@@ -79,12 +79,12 @@
       const ids = new Set(Object.keys(book).map(Number));
       pool = ALL_WORDS.filter((w) => ids.has(w.id));
       if (pool.length === 0) {
-        showSetupError("错题本目前是空的，先做几轮测验积累错题吧。");
+        showSetupError("Your Mistake Book is empty — complete a few quiz rounds first to build it up.");
         return;
       }
     } else {
       if (selectedChunks.size === 0) {
-        showSetupError("请至少选择一个分组，或勾选“仅测验错题本”。");
+        showSetupError("Please select at least one word group, or check “Quiz only Mistake Book words”.");
         return;
       }
       pool = ALL_WORDS.filter((w) => selectedChunks.has(w.chunk));
@@ -137,7 +137,7 @@
     $("#reveal-block").style.display = "none";
     $("#reveal-block").innerHTML = "";
     $("#judge-row").style.display = "none";
-    $("#prompt-hint").textContent = "先在心里回忆答案，再按 ← 或 →";
+    $("#prompt-hint").textContent = "Think of the answer first, then press ← or →";
     const promptEl = $("#prompt-text");
     if (direction === "en2zh") {
       promptEl.dataset.bionicSrc = w.word;
@@ -155,7 +155,7 @@
   function updateProgress() {
     const pct = queue.length ? Math.round((idx / queue.length) * 100) : 0;
     $("#progress-fill").style.width = pct + "%";
-    $("#progress-label").textContent = `第 ${idx + 1} / ${queue.length} 词 · 正确 ${stats.correct} · 错误 ${stats.wrong}`;
+    $("#progress-label").textContent = `Word ${idx + 1} / ${queue.length} · Correct ${stats.correct} · Wrong ${stats.wrong}`;
   }
 
   function onKeydown(e) {
@@ -185,7 +185,7 @@
     $("#reveal-block").innerHTML = html;
     $("#reveal-block").style.display = "flex";
     $("#judge-row").style.display = "flex";
-    $("#prompt-hint").textContent = "对照下方释义，判断自己是否想对了";
+    $("#prompt-hint").textContent = "Compare with the definition below and grade yourself";
     GRE.applyBionicToPage($("#flashcard"));
   }
 
@@ -200,7 +200,7 @@
     $("#reveal-block").innerHTML = html;
     $("#reveal-block").style.display = "flex";
     $("#judge-row").style.display = "none";
-    $("#prompt-hint").textContent = "已记入错题本 · 按 → 或空格继续下一词";
+    $("#prompt-hint").textContent = "Logged to Mistake Book · Press → or Space to continue";
     GRE.applyBionicToPage($("#flashcard"));
     GRE.logMistake(w);
     stats.wrong += 1;
@@ -232,7 +232,7 @@
     $("#card-stage").style.display = "none";
     $("#summary-panel").style.display = "block";
     $("#summary-total").textContent = aborted ? `${idx}/${queue.length}` : queue.length;
-    $("#summary-detail").textContent = `正确 ${stats.correct} 个 · 错误 ${stats.wrong} 个${aborted ? "（已提前结束）" : ""}`;
+    $("#summary-detail").textContent = `Correct ${stats.correct} · Wrong ${stats.wrong}${aborted ? " (ended early)" : ""}`;
   }
 
   function resetToSetup() {

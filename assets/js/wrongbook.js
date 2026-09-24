@@ -29,7 +29,7 @@
     if (entries.length === 0) {
       container.innerHTML = `<div class="glass empty-state">
         <div style="font-size:40px;margin-bottom:10px">🎉</div>
-        <p>错题本目前是空的。去<a href="review.html" style="color:var(--accent);font-weight:600">回顾测验</a>中练习一下吧！</p>
+        <p>Your Mistake Book is empty. Head over to the <a href="review.html" style="color:var(--accent);font-weight:600">Review Quiz</a> to start practicing!</p>
       </div>`;
       return;
     }
@@ -46,7 +46,7 @@
       <div class="glass" style="padding:8px 8px;overflow-x:auto">
         <table class="wrongtable">
           <thead>
-            <tr><th>#</th><th>单词</th><th>中文释义</th><th>错误次数</th></tr>
+            <tr><th>#</th><th>Word</th><th>Chinese Definition</th><th>Mistakes</th></tr>
           </thead>
           <tbody>${rows}</tbody>
         </table>
@@ -61,14 +61,14 @@
       sortMode = "count"; render();
     });
     document.getElementById("clear-btn").addEventListener("click", () => {
-      if (confirm("确定要清空整个错题本吗？此操作不可撤销。")) {
+      if (confirm("Are you sure you want to clear your entire Mistake Book? This cannot be undone.")) {
         GRE.clearWrongBook();
         render();
       }
     });
     document.getElementById("export-btn").addEventListener("click", () => {
       document.getElementById("print-date").textContent =
-        "导出时间：" + new Date().toLocaleString("zh-CN");
+        "Exported: " + new Date().toLocaleString("en-US");
       document.getElementById("print-title").style.display = "block";
       window.print();
       setTimeout(() => {
