@@ -237,6 +237,19 @@ img { max-width: 100%; }
   gap: 16px;
 }
 
+/* Fixed 5-column (2-row) chunk grid, used on the Vocabulary page */
+.vocab-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+}
+@media (max-width: 860px) {
+  .vocab-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 560px) {
+  .vocab-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
 .chunk-card {
   padding: 22px 20px;
   display: flex;
@@ -541,6 +554,15 @@ table.wrongtable tr:last-child td { border-bottom: none; }
 .empty-state {
   text-align: center;
   padding: 60px 20px;
+  color: var(--text-secondary);
+}
+
+/* ---------- Footnote CTA (star / feedback note above footer) ---------- */
+.footnote-cta {
+  margin-top: 48px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.6;
   color: var(--text-secondary);
 }
 
