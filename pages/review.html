@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>单词回顾测验 · Manhattan 1000 Words</title>
+<title>Review Quiz · GRE Vocabulary Snapshot</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect width=%22100%22 height=%22100%22 rx=%2222%22 fill=%22%231C2B48%22/%3E%3Ctext x=%2250%22 y=%2266%22 font-size=%2258%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22Arial%22%3EM%3C/text%3E%3C/svg%3E">
 <link rel="stylesheet" href="../assets/css/style.css">
 </head>
@@ -12,37 +12,37 @@
 
 <main class="wrap">
   <header class="hero" style="padding:48px 0 8px;text-align:left">
-    <h1 style="font-size:32px">单词回顾测验</h1>
-    <p style="text-align:left;margin:0">选择要复习的分组与方向，乱序作答。看到单词后先在心里想出答案，再用键盘操作揭晓与判断。</p>
+    <h1 style="font-size:32px">Review Quiz</h1>
+    <p style="text-align:left;margin:0">Choose which word groups and direction to practice, then answer in shuffled order. Try to recall the answer in your head first, then use the keyboard to reveal and grade yourself.</p>
   </header>
 
   <!-- Setup panel -->
   <section id="setup-panel" class="glass setup-panel">
     <div class="setup-block">
-      <h3>1. 选择分组（可多选）</h3>
+      <h3>1. Select word groups (choose one or more)</h3>
       <div class="chip-row" id="chunk-chips"></div>
       <div style="margin-top:10px">
-        <button class="toggle-btn" id="select-all-btn" type="button">全选</button>
-        <button class="toggle-btn" id="select-none-btn" type="button">清空</button>
+        <button class="toggle-btn" id="select-all-btn" type="button">Select All</button>
+        <button class="toggle-btn" id="select-none-btn" type="button">Clear</button>
       </div>
     </div>
 
     <div class="setup-block">
-      <h3>2. 选择方向</h3>
+      <h3>2. Choose a direction</h3>
       <div class="direction-row">
-        <div class="direction-card selected" data-dir="en2zh">英文 → 想中文</div>
-        <div class="direction-card" data-dir="zh2en">中文 → 想英文</div>
+        <div class="direction-card selected" data-dir="en2zh">English → recall Chinese</div>
+        <div class="direction-card" data-dir="zh2en">Chinese → recall English</div>
       </div>
     </div>
 
     <div class="setup-block">
-      <h3>3. 复习错题本中的词（可选）</h3>
+      <h3>3. Review Mistake Book words (optional)</h3>
       <label style="display:flex;align-items:center;gap:8px;font-size:14px;color:var(--text-secondary)">
-        <input type="checkbox" id="wrongbook-only"> 仅测验错题本中的单词（忽略上方分组选择）
+        <input type="checkbox" id="wrongbook-only"> Quiz only the words in my Mistake Book (ignores the group selection above)
       </label>
     </div>
 
-    <button class="btn btn-primary" id="start-btn" type="button" style="width:100%;justify-content:center">开始测验</button>
+    <button class="btn btn-primary" id="start-btn" type="button" style="width:100%;justify-content:center">Start Quiz</button>
     <p id="setup-error" style="color:var(--red);font-size:13px;margin-top:10px;display:none"></p>
   </section>
 
@@ -53,41 +53,39 @@
 
     <div class="glass flashcard" id="flashcard">
       <div class="prompt" id="prompt-text"></div>
-      <div class="hint" id="prompt-hint">先在心里回忆答案</div>
+      <div class="hint" id="prompt-hint">Think of the answer first</div>
       <div class="reveal-block" id="reveal-block" style="display:none"></div>
       <div class="judge-row" id="judge-row" style="display:none">
-        <button class="circle-btn red" id="btn-wrong" type="button" title="没想对">✕</button>
-        <button class="circle-btn green" id="btn-right" type="button" title="想对了">✓</button>
+        <button class="circle-btn red" id="btn-wrong" type="button" title="Got it wrong">✕</button>
+        <button class="circle-btn green" id="btn-right" type="button" title="Got it right">✓</button>
       </div>
     </div>
 
     <div class="key-hints no-print">
-      <span class="key-hint"><kbd>←</kbd> 我想出来了，揭晓答案</span>
-      <span class="key-hint"><kbd>→</kbd> 想不起来，直接看完整释义（记入错题本）</span>
-      <span class="key-hint"><kbd>Space</kbd> 揭晓完整释义后，继续下一词</span>
+      <span class="key-hint"><kbd>←</kbd> I recalled it — reveal the answer</span>
+      <span class="key-hint"><kbd>→</kbd> I don't know it — show the full definition (logged to Mistake Book)</span>
+      <span class="key-hint"><kbd>Space</kbd> After a full reveal, continue to the next word</span>
     </div>
 
-    <button class="btn btn-secondary" id="quit-btn" type="button">结束本次测验</button>
+    <button class="btn btn-secondary" id="quit-btn" type="button">End Quiz</button>
   </section>
 
   <!-- Summary -->
   <section id="summary-panel" class="glass session-summary" style="display:none">
     <div class="big-num" id="summary-total">0</div>
-    <p style="color:var(--text-secondary)">本次测验单词数</p>
+    <p style="color:var(--text-secondary)">words in this quiz</p>
     <p id="summary-detail" style="font-size:16px;margin-top:16px"></p>
     <div class="hero-actions">
-      <button class="btn btn-primary" id="restart-btn" type="button">再来一轮</button>
-      <a class="btn btn-secondary" href="wrongbook.html">查看错题本</a>
+      <button class="btn btn-primary" id="restart-btn" type="button">Try Again</button>
+      <a class="btn btn-secondary" href="wrongbook.html">View Mistake Book</a>
     </div>
   </section>
 </main>
 
-<footer class="footer wrap">
-  Manhattan 1000 Words · <a href="../index.html">返回首页</a>
-</footer>
+<div id="footer-mount"></div>
 
 <script src="../assets/js/common.js"></script>
 <script src="../assets/js/review.js"></script>
-<script>GRE.injectNav("review");</script>
+<script>GRE.injectNav("review"); GRE.injectFooter();</script>
 </body>
 </html>
